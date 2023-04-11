@@ -12,7 +12,7 @@ My research lies in the interface of **machine learning/non-parametric statistic
 
 
 
-# Scientific Machine Learning
+# Scientific Machine Learning/Machine Learning for Science
 
 ## Sample Complexity and Optimization of Scientific Machine Learning
 
