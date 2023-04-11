@@ -31,11 +31,16 @@ theoretical computational science research?
 
 - In [a Neurips 2019 paper](https://arxiv.org/abs/1905.00877) and [a ICML 2020 paper](https://arxiv.org/abs/2003.05508), we further advanced the understanding of neural networks by linking their training process to solving an optimal control problem. This perspective offers both theoretical and empirical benefits in improving our ability to train neural networks effectively. 
 
+---
+
 # Robust Machine Learning
 
 - In [a ICLR 2022 paper](https://arxiv.org/abs/2110.02796), we analyze Neural Collapse (NC), a highly symmetric geometry of neural networks that emerges during the terminal phase of training which leads to better generalization performance, better robustness, and better interpretability. We show that NC can be understood from a large margin view point. In [a arXiv paper](https://arxiv.org/abs/2209.08745), we use NC as a tool to improve overparametrized model trained with unlabel data. 
 
 - In [a Neurips 2019 paper](https://arxiv.org/abs/1905.00877), we accelerated adversarial training by 3-5 times.
+
+
+---
 
 # Experiment Design
 
