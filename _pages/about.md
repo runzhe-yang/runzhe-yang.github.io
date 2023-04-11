@@ -39,8 +39,7 @@ ___
 >  1. **Yiping Lu**, Jiajin Li, Lexing Ying, Jose Blancet. Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls.
 
   
-  
-  #### Algorithms and Statistics of Scientific Machine Learning
+#### Algorithms and Statistics of Scientific Machine Learning
 
  
 >  1. Zichao long*, **Yiping Lu** *, Xianzhong Ma*, Bin Dong. "PDE-Net:Learning PDEs From Data", Thirty-fifth International Conference on Machine Learning (ICML), 2018
