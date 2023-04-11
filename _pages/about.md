@@ -11,11 +11,11 @@ redirect_from:
 The long term goal of my research is to develop a hybrid scientific research disipline which combines <mark color='orange'>domain knowledge</mark>, <mark color='orange'>machine learning</mark> and <mark color='orange'>(randomized) experiments</mark>. To this end, I'm working on interdisciplinary research approach across probability and statistics, numerical algorithms, control theory, signal processing/inverse problem and operations research. Here's my [<mark color='orange'>research statement</mark>](https://2prime.github.io/files/rs.pdf) Here's my breif bio:
 
 
-- Assistant professor, [ Industrial Engineering & Manegement Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University Sep 2024- 
+- Assistant professor, [Industrial Engineering & Manegement Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University Sep 2024- 
 
-- Courant Instructor, NYU, Sep 2023 - Sep 2024 (expected)
+- Courant Instructor, [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), New York University, Sep 2023 - Sep 2024 (expected)
 
-- Ph.D. Candidate, ICME, Stanford University, 2019- 2023 (expected)
+- Ph.D. Candidate, [Institute for Computational and Mathematical Engineering](https://icme.stanford.edu/), Stanford University, 2019- 2023 (expected)
   -  advised by [Lexing Ying](https://web.stanford.edu/~lexing/) (Math) and [Jose Blanchet](https://scholar.google.com/citations?user=O24CcQQAAAAJ) (Management Science & Enginering).
 
 
