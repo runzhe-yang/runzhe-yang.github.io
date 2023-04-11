@@ -31,9 +31,13 @@ ___
 # Research Interest and Highlights
 
 - [ ] Debiasing Machine Learning Algorithm for Scientific Computing
+
+<table><tr><td bgcolor=yellow>
 - [ ] Experiment Design
   - Yiping Lu, Jiajin Li, Lexing Ying, Jose Blancet. Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls.
-
+ </td></tr></table>
+  
+  
 - [x] Algorithms and Statistics of Scientific Machine Learning
   - Zichao long*, Yiping Lu*, Xianzhong Ma*, Bin Dong. "PDE-Net:Learning PDEs From Data", Thirty-fifth International Conference on Machine Learning (ICML), 2018
 
