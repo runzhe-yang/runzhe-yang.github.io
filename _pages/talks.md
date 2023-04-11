@@ -8,6 +8,8 @@ author_profile: true
 
 # Scientific Machine Learning
 
+## Neural ODE and PDE-Net
+
 ## Statistical analysis
 - Machine Learning Solving PDE: [slide](https://2prime.github.io/files/mlpde.pdf)
 - Operator Learning: [slide](https://2prime.github.io/files/oplearning.pdf) (job talk 2023)
