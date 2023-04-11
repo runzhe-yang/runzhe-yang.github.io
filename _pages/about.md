@@ -37,14 +37,17 @@ ___
   - Yiping Lu, Jiajin Li, Lexing Ying, Jose Blancet. Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls.
  </td></tr></table>
   
-  
+<table><tr><td bgcolor=yellow>  
 - [x] Algorithms and Statistics of Scientific Machine Learning
   - Zichao long*, Yiping Lu*, Xianzhong Ma*, Bin Dong. "PDE-Net:Learning PDEs From Data", Thirty-fifth International Conference on Machine Learning (ICML), 2018
 
   - Yiping Lu, Jose Blanchet,Lexing Ying. Sobolev Acceleration and Statistical Optimality for Learning Elliptic Equations via Gradient Descent. Neurips 2022
 
   - Jikai Jin, Yiping Lu, Jose Blanchet, Lexing Ying Minimax Optimal Kernel Operator Learning via Multilevel Training ICLR 2023
+ </td></tr></table>
+ 
 
+<table><tr><td bgcolor=yellow>  
 - [x] Optimal Control Formulation of Deep Learning
 
   - Yiping Lu, Chao Ma, Yulong Lu, Jianfeng Lu, Lexing Ying. "A Mean-field Analysis of Deep ResNet and Beyond: Towards Provable Optimization Via Overparameterization From Depth" Thirty-seventh International Conference on Machine Learning (ICML), 2020
@@ -52,3 +55,4 @@ ___
   - Dinghuai Zhang*, Tianyuan Zhang*,Yiping Lu*, Zhanxing Zhu, Bin Dong. "You Only Propagate Once: Painless Adversarial Training Using Maximal Principle." (*equal contribution) 33rd Annual Conference on Neural Information Processing Systems (NeurIPS) 2019
 
   - Yiping Lu, Aoxiao Zhong, Quanzheng Li, Bin Dong. "Beyond Finite Layer Neural Network:Bridging Deep Architects and Numerical Differential Equations" Thirty-fifth International Conference on Machine Learning (ICML), 2018
+</td></tr></table>
