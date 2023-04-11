@@ -33,6 +33,10 @@ theoretical computational science research?
 
 # Robust Machine Learning
 
+- In [a ICLR 2022 paper], we analyze Neural Collapse (NC), a highly symmetric geometry of neural networks that emerges during the terminal phase of training which leads to better generalization performance, better robustness, and better interpretability. We show that NC can be understood from a large margin view point. In [a arXiv paper], we use NC as a tool to improve overparametrized model trained with unlabel data. 
+
+- In [a Neurips 2019 paper](https://arxiv.org/abs/1905.00877), we accelerated adversarial training by 3-5 times.
+
 # Experiment Design
 
 **Balanced Experiment Design**: In this [arxiv paper](https://arxiv.org/abs/2211.15241), we surprisingly connect balanced experiment design for panel data with phase retrieval problem from the inverse problem community. This connection enables us to generate the design via a generalized power method. For economists, our paper discovered that `best experiment = smallest (nonlinear) eigenvector` for the smallest eigenvector can cancel most linear effects. 
