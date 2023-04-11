@@ -51,19 +51,26 @@ ___
 >  
 >  3. Zichao long*, **Yiping Lu** *, Xianzhong Ma*, Bin Dong. "PDE-Net:Learning PDEs From Data", Thirty-fifth International Conference on Machine Learning (ICML), 2018
 
+## Robust Machine Learning
+
+>  1. Ji W, Lu Y, Zhang Y, et al. An unconstrained layer-peeled perspective on neural collapse. ICLR 2022.
+>
+>  2. Dinghuai Zhang *, Tianyuan Zhang *,**Yiping Lu** *, Zhanxing Zhu, Bin Dong. "You Only Propagate Once: Painless Adversarial Training Using Maximal Principle." 33rd Annual Conference on Neural Information Processing Systems (NeurIPS) 2019 (*equal contribution) 
+>  
+>  3. <font color='red'>[*New*]</font>  Lu Y, Ji W, Izzo Z, et al. Importance Tempering: Group Robustness for Overparameterized Models. arXiv preprint arXiv:2209.08745, 2022.
  
 ## Optimal Control Formulation of Deep Learning
 
 
 >  1. **Yiping Lu**, Chao Ma, Yulong Lu, Jianfeng Lu, Lexing Ying. "A Mean-field Analysis of Deep ResNet and Beyond: Towards Provable Optimization Via Overparameterization From Depth" Thirty-seventh International Conference on Machine Learning (ICML), 2020
 >  
->  2. Dinghuai Zhang *, Tianyuan Zhang *,**Yiping Lu** *, Zhanxing Zhu, Bin Dong. "You Only Propagate Once: Painless Adversarial Training Using Maximal Principle." (*equal contribution) 33rd Annual Conference on Neural Information Processing Systems (NeurIPS) 2019
+>  2. Dinghuai Zhang *, Tianyuan Zhang *,**Yiping Lu** *, Zhanxing Zhu, Bin Dong. "You Only Propagate Once: Painless Adversarial Training Using Maximal Principle." 33rd Annual Conference on Neural Information Processing Systems (NeurIPS) 2019 (*equal contribution) 
 >  
->  3. **Yiping Lu** *, **Aoxiao Zhong** *, Quanzheng Li, Bin Dong. "Beyond Finite Layer Neural Network:Bridging Deep Architects and Numerical Differential Equations" Thirty-fifth International Conference on Machine Learning (ICML), 2018
+>  3. **Yiping Lu** *, Aoxiao Zhong *, Quanzheng Li, Bin Dong. "Beyond Finite Layer Neural Network:Bridging Deep Architects and Numerical Differential Equations" Thirty-fifth International Conference on Machine Learning (ICML), 2018 (*equal contribution) 
 
 ## Inverse Problem and Image Processing
 
 
 >  1. Xiaoshuai Zhang*, Yiping Lu*, Jiaying Liu, Bin Dong. "Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration" Seventh International Conference on Learning Representations(ICLR) 2019(*equal contribution) 
 > 
->  2.Bin Dong, Haochen Ju, Yiping Lu, Zuoqiang Shi. " CURE: Curvature Regularization For Missing Data Recovery." SIAM Journal on Imaging Science, 13(4), 2169-2188, 2020
+>  2. Bin Dong, Haochen Ju, Yiping Lu, Zuoqiang Shi. " CURE: Curvature Regularization For Missing Data Recovery." SIAM Journal on Imaging Science, 13(4), 2169-2188, 2020
