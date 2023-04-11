@@ -50,4 +50,4 @@ How large the sample size and how much computational power are needed to reach a
 # Other Projects
 
 - Experiment Design
-- Inverse Problem and Image Processing
+- Inverse Problem and Image Processing: Image inpainting via manifold learning [[SIIMS paper]](https://arxiv.org/abs/1901.09548), Control Inspired NN based Image Editting [[ICLR 2019 paper]](https://arxiv.org/abs/1805.07709)
