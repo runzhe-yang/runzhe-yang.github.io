@@ -27,13 +27,13 @@ Education
 Visiting Positions
 ======
 * Summer 2021: Microsoft Research
-  * **Host**: Greg Yang and Di He
+  * **Host**: [Greg Yang](https://www.microsoft.com/en-us/research/people/gregyang/) and [Di He](https://dihe-pku.github.io/)
 
 * Summer 2019: University of Tokyo
-  * **Host**: Taiji Suzuki
+  * **Host**: [Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/)
 
 * Summer 2018: Massachusetts Institute of Technology
-  * **Host**: Justin Solomon
+  * **Host**: [Justin Solomon](https://people.csail.mit.edu/jsolomon/)
 
 Honors and Awards
 ======
