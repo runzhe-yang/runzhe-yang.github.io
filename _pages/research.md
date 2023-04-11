@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
-  - /research/
+  - /research
 ---
 
 
@@ -33,7 +33,7 @@ theoretical computational science research?
 
 # Robust Machine Learning
 
-- In [a ICLR 2022 paper], we analyze Neural Collapse (NC), a highly symmetric geometry of neural networks that emerges during the terminal phase of training which leads to better generalization performance, better robustness, and better interpretability. We show that NC can be understood from a large margin view point. In [a arXiv paper], we use NC as a tool to improve overparametrized model trained with unlabel data. 
+- In [a ICLR 2022 paper](https://arxiv.org/abs/2110.02796), we analyze Neural Collapse (NC), a highly symmetric geometry of neural networks that emerges during the terminal phase of training which leads to better generalization performance, better robustness, and better interpretability. We show that NC can be understood from a large margin view point. In [a arXiv paper](https://arxiv.org/abs/2209.08745), we use NC as a tool to improve overparametrized model trained with unlabel data. 
 
 - In [a Neurips 2019 paper](https://arxiv.org/abs/1905.00877), we accelerated adversarial training by 3-5 times.
 
