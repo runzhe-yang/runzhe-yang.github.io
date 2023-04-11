@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-My research lies in the interface of **machine learning/non-parametric statistics**, **applied probability** and  **numerical computation**, with a primary focus on the algorithmic and theoretical foundations for solving `model based/informned` data-driven problems. 
+My research lies in the interface of **machine learning/non-parametric statistics**, **applied probability** and  **numerical computation**, with a primary focus on the algorithmic and theoretical foundations for solving `model based/informed` data-driven problems. 
 
 
 
@@ -16,8 +16,7 @@ My research lies in the interface of **machine learning/non-parametric statistic
 
 ## Sample Complexity and Optimization of Scientific Machine Learning
 
-How large the sample size and how much computational power are needed to reach a prescribed performance level is always the core problem for
-theoretical computational science research?
+How large the sample size and how much computational power are needed to reach a prescribed performance level for a physic problem?
  
 - **ML Solving PDE**: In [a ICLR 2022 paper](https://arxiv.org/abs/2110.06897), we analysis the sample complexity of learning a PDE solution and show a suboptimality of plug-in solvers. In [a Neurips 2022 paper](https://arxiv.org/abs/2205.07331), we analysis the optimization dynamic and show that using Sobolev norm as loss function can accelerate neural network training.
 
