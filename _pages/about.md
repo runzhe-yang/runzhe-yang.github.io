@@ -16,7 +16,7 @@ The long term goal of my research is to develop a hybrid scientific research dis
 - Courant Instructor, NYU, Sep 2023 - Sep 2024 (expected)
 
 - Ph.D. Candidate, ICME, Stanford University, 2019- 2023 (expected)
-  -  advised by with [Lexing Ying](https://web.stanford.edu/~lexing/) (Math) and [Jose Blanchet](https://scholar.google.com/citations?user=O24CcQQAAAAJ) (Management Science & Enginering).
+  -  advised by [Lexing Ying](https://web.stanford.edu/~lexing/) (Math) and [Jose Blanchet](https://scholar.google.com/citations?user=O24CcQQAAAAJ) (Management Science & Enginering).
 
 
 
