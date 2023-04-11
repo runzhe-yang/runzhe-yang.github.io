@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/
+permalink: /research/
 author_profile: true
 redirect_from:
-  - /projects/
+  - /research/
 ---
 
 
@@ -24,6 +24,12 @@ theoretical computational science research?
 - **Operator Learning**: In [a ICLR 2023 paper](https://arxiv.org/abs/2209.14430) , we consider the optimal learning rate for learning a linear operator between two infinite dimensional Hilbert spaces. We provided a novel lower bound to the literature and showed that multi-level machine learning is essential to achieve an optimal learning rate. This example showed a fundamental difference between infinite dimension machine learning and finite dimension one both in sample complexity and algorithmic design.
 
 ## Encoding Physics Information into a Model
+
+- In [a ICML 2018 paper](https://arxiv.org/abs/1710.09668), we present an initial attempt to learn evolution PDEs from data. The proposed PDE-Net learns differential operators by learning convolution kernels (filters) as finite difference scheme and apply neural networks or other machine learning methods to approximate the unknown nonlinear responses. This approach combines the representation power of the deep neural networks and the transparency of the PDE models which lead to better generalization property towards diverse initial conditions.
+
+- In [another ICML 2018 paper](https://arxiv.org/abs/1710.10121), we contributed to the understanding of popular neural networks by interpreting them as different numerical discretizations of (stochastic) differential equations. Our work is among the first to explore this relationship between ResNet and ODE.
+
+- In [a Neurips 2019 paper](https://arxiv.org/abs/1905.00877) and [a ICML 2020 paper](https://arxiv.org/abs/2003.05508), we further advanced the understanding of neural networks by linking their training process to solving an optimal control problem. This perspective offers both theoretical and empirical benefits in improving our ability to train neural networks effectively. 
 
 # Robust Machine Learning
 
