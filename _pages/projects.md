@@ -14,9 +14,19 @@ My research lies in the interface of **machine learning/non-parametric statistic
 
 # Scientific Machine Learning
 
-## Sample Complexity of Scientific Machine Learning
-- 
+## Sample Complexity and Optimization of Scientific Machine Learning
+
+How large the sample size and how much computational power are needed to reach a prescribed performance level is always the core problem for
+theoretical computational science research?
+ 
+- **ML Solving PDE**: In [a ICLR 2022 paper](https://arxiv.org/abs/2110.06897), we analysis the sample complexity of learning a PDE solution and show a suboptimality of plug-in solvers. In [a Neurips 2022 paper](https://arxiv.org/abs/2205.07331), we analysis the optimization dynamic and show that using Sobolev norm as loss function can accelerate neural network training.
+
+- **Operator Learning**: In [a ICLR 2023 paper](https://arxiv.org/abs/2209.14430) , we consider the optimal learning rate for learning a linear operator between two infinite dimensional Hilbert spaces. We provided a novel lower bound to the literature and showed that multi-level machine learning is essential to achieve an optimal learning rate. This example showed a fundamental difference between infinite dimension machine learning and finite dimension one both in sample complexity and algorithmic design.
 
 ## Encoding Physics Information into a Model
 
 # Robust Machine Learning
+
+# Experiment Design
+
+**Balanced Experiment Design**: In this [arxiv paper](https://arxiv.org/abs/2211.15241), we surprisingly connect balanced experiment design for panel data with phase retrieval problem from the inverse problem community. This connection enables us to generate the design via a generalized power method. For economists, our paper discovered that `best experiment = smallest (nonlinear) eigenvector` for the smallest eigenvector can cancel most linear effects. 
