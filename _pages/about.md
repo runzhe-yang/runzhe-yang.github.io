@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-The long term goal of my research is to develop a hybrid scientific research disipline which combines <mark>domain knowledge</mark>, <mark>machine learning</mark> and <mark>(randomized) experiments</mark>. Here's my breif bio:
+The long term goal of my research is to develop a hybrid scientific research disipline which combines <mark>domain knowledge</mark>, <mark>machine learning</mark> and <mark>(randomized) experiments</mark>. To this end, I'm working on interdisciplinary research approach across probability and statistics, numerical algorithms, control theory, signal processing/inverse problem and operations research. Here's my breif bio:
 
 
-- Assistant professor, IEMS, Northwestern University Sep 2024- 
+- Assistant professor, [ Industrial Engineering & Manegement Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University Sep 2024- 
 
 - Courant Instructor, NYU, Sep 2023 - Sep 2024 (expected)
 
