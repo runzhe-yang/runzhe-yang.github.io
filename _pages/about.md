@@ -66,4 +66,4 @@ ___
 
 >  1. Xiaoshuai Zhang*, Yiping Lu*, Jiaying Liu, Bin Dong. "Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration" Seventh International Conference on Learning Representations(ICLR) 2019(*equal contribution) 
 > 
->. 2.Bin Dong, Haochen Ju, Yiping Lu, Zuoqiang Shi. " CURE: Curvature Regularization For Missing Data Recovery." SIAM Journal on Imaging Science, 13(4), 2169-2188, 2020
+>  2.Bin Dong, Haochen Ju, Yiping Lu, Zuoqiang Shi. " CURE: Curvature Regularization For Missing Data Recovery." SIAM Journal on Imaging Science, 13(4), 2169-2188, 2020
