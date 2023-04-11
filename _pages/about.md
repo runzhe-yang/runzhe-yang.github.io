@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The long term goal of my research is to develop a hybrid scientific research disipline which combines <mark color=orange>domain knowledge</mark>, <mark color=orange>machine learning</mark> and <mark color=orange>(randomized) experiments</mark>. To this end, I'm working on interdisciplinary research approach across probability and statistics, numerical algorithms, control theory, signal processing/inverse problem and operations research. Here's my [<mark color=orange>research statement</mark>](https://2prime.github.io/files/rs.pdf) Here's my breif bio:
+The long term goal of my research is to develop a hybrid scientific research disipline which combines <mark color='orange'>domain knowledge</mark>, <mark color='orange'>machine learning</mark> and <mark color='orange'>(randomized) experiments</mark>. To this end, I'm working on interdisciplinary research approach across probability and statistics, numerical algorithms, control theory, signal processing/inverse problem and operations research. Here's my [<mark color='orange'>research statement</mark>](https://2prime.github.io/files/rs.pdf) Here's my breif bio:
 
 
 - Assistant professor, [ Industrial Engineering & Manegement Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University Sep 2024- 
@@ -37,19 +37,19 @@ ___
 
 ## Experiment Design
 
->  1. **Yiping Lu**, Jiajin Li, Lexing Ying, Jose Blancet. Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls.
+>  1. <font color='red'>[*New*]</font> **Yiping Lu**, Jiajin Li, Lexing Ying, Jose Blancet. Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls.
 
   
 ## Algorithms and Statistics of Scientific Machine Learning
 
- 
->  1. Zichao long*, **Yiping Lu** *, Xianzhong Ma*, Bin Dong. "PDE-Net:Learning PDEs From Data", Thirty-fifth International Conference on Machine Learning (ICML), 2018
+
+>  1. <font color='red'>[*New*]</font> Jikai Jin, **Yiping Lu**, Jose Blanchet, Lexing Ying Minimax Optimal Kernel Operator Learning via Multilevel Training ICLR 2023
+>   
+>  2. **Yiping Lu**, Haoxuan Chen, Jianfeng Lu, Lexing Ying, Jose Blanchet. Machine Learning For Elliptic PDEs: Fast Rate Generalization Bound, Neural Scaling Law and Minimax Optimality. International Conference on Learning Representations(ICLR) 2022
 >
->  2. **Yiping Lu**, Jose Blanchet,Lexing Ying. Sobolev Acceleration and Statistical Optimality for Learning Elliptic Equations via Gradient Descent. Neurips 2022
+>  4. **Yiping Lu**, Jose Blanchet,Lexing Ying. Sobolev Acceleration and Statistical Optimality for Learning Elliptic Equations via Gradient Descent. Neurips 2022
 >  
->  3. **Yiping Lu**, Haoxuan Chen, Jianfeng Lu, Lexing Ying, Jose Blanchet. Machine Learning For Elliptic PDEs: Fast Rate Generalization Bound, Neural Scaling Law and Minimax Optimality. International Conference on Learning Representations(ICLR) 2022
->  
->  4. Jikai Jin, **Yiping Lu**, Jose Blanchet, Lexing Ying Minimax Optimal Kernel Operator Learning via Multilevel Training ICLR 2023
+>  3. Zichao long*, **Yiping Lu** *, Xianzhong Ma*, Bin Dong. "PDE-Net:Learning PDEs From Data", Thirty-fifth International Conference on Machine Learning (ICML), 2018
 
  
 ## Optimal Control Formulation of Deep Learning
