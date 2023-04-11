@@ -7,7 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+Here is a more up-to-date pdf version : [<mark>overleaf</mark>](https://www.overleaf.com/read/crybjbqmgxth)
+
 
 Education
 ======
