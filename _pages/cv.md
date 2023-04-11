@@ -54,5 +54,6 @@ Service and leadership
   * Journal of Scientific Computing
   * Journal of Multivariate Analysis
   * Communications in Mathematical Sciences
+  * Research in Mathematical Sciences
   * CSIAM Transactions on Applied Mathematics
 * **Workshop/Session Organization**: ICCOPT 2022, SIAM OPT 2023
