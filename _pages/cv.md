@@ -49,6 +49,7 @@ Service and leadership
 * ICML2020 Top Reviewers,  Neurips 2022 Top Reviewers
 * **Journal Reviewer**:
   * Mathematics of Operations Research
+  * IEEE Transactions on Information Theory
   * Journal of Machine Learning Research
   * Journal of Scientific Computing
   * Journal of Multivariate Analysis
