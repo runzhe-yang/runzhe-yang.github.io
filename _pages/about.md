@@ -30,29 +30,31 @@ ___
 
 # Research Interest and Highlights
 
-- [ ] Debiasing Machine Learning Algorithm for Scientific Computing
+#### Debiasing Machine Learning Algorithm for Scientific Computing
 
 <table><tr><td bgcolor=yellow>
-- [ ] Experiment Design
-  - Yiping Lu, Jiajin Li, Lexing Ying, Jose Blancet. Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls.
+####  Experiment Design
+  <font size=5>1. **Yiping Lu**, Jiajin Li, Lexing Ying, Jose Blancet. Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls.</font>
  </td></tr></table>
   
 <table><tr><td bgcolor=yellow>  
-- [x] Algorithms and Statistics of Scientific Machine Learning
-  - Zichao long*, Yiping Lu*, Xianzhong Ma*, Bin Dong. "PDE-Net:Learning PDEs From Data", Thirty-fifth International Conference on Machine Learning (ICML), 2018
+#### Algorithms and Statistics of Scientific Machine Learning
+  <font size=5>1. Zichao long*, **Yiping Lu** *, Xianzhong Ma*, Bin Dong. "PDE-Net:Learning PDEs From Data", Thirty-fifth International Conference on Machine Learning (ICML), 2018</font>
 
-  - Yiping Lu, Jose Blanchet,Lexing Ying. Sobolev Acceleration and Statistical Optimality for Learning Elliptic Equations via Gradient Descent. Neurips 2022
+  <font size=5>2. **Yiping Lu**, Jose Blanchet,Lexing Ying. Sobolev Acceleration and Statistical Optimality for Learning Elliptic Equations via Gradient Descent. Neurips 2022</font>
+  
+  <font size=5>3. **Yiping Lu**, Haoxuan Chen, Jianfeng Lu, Lexing Ying, Jose Blanchet. Machine Learning For Elliptic PDEs: Fast Rate Generalization Bound, Neural Scaling Law and Minimax Optimality. International Conference on Learning Representations(ICLR) 2022 </font>
 
-  - Jikai Jin, Yiping Lu, Jose Blanchet, Lexing Ying Minimax Optimal Kernel Operator Learning via Multilevel Training ICLR 2023
+  <font size=5>4. Jikai Jin, **Yiping Lu**, Jose Blanchet, Lexing Ying Minimax Optimal Kernel Operator Learning via Multilevel Training ICLR 2023</font>
  </td></tr></table>
  
 
 <table><tr><td bgcolor=yellow>  
-- [x] Optimal Control Formulation of Deep Learning
+#### Optimal Control Formulation of Deep Learning
 
-  - Yiping Lu, Chao Ma, Yulong Lu, Jianfeng Lu, Lexing Ying. "A Mean-field Analysis of Deep ResNet and Beyond: Towards Provable Optimization Via Overparameterization From Depth" Thirty-seventh International Conference on Machine Learning (ICML), 2020
+  <font size=5> 1. **Yiping Lu**, Chao Ma, Yulong Lu, Jianfeng Lu, Lexing Ying. "A Mean-field Analysis of Deep ResNet and Beyond: Towards Provable Optimization Via Overparameterization From Depth" Thirty-seventh International Conference on Machine Learning (ICML), 2020</font>
 
-  - Dinghuai Zhang*, Tianyuan Zhang*,Yiping Lu*, Zhanxing Zhu, Bin Dong. "You Only Propagate Once: Painless Adversarial Training Using Maximal Principle." (*equal contribution) 33rd Annual Conference on Neural Information Processing Systems (NeurIPS) 2019
+  <font size=5> 2. Dinghuai Zhang *, Tianyuan Zhang *,**Yiping Lu** *, Zhanxing Zhu, Bin Dong. "You Only Propagate Once: Painless Adversarial Training Using Maximal Principle." (*equal contribution) 33rd Annual Conference on Neural Information Processing Systems (NeurIPS) 2019</font>
 
-  - Yiping Lu, Aoxiao Zhong, Quanzheng Li, Bin Dong. "Beyond Finite Layer Neural Network:Bridging Deep Architects and Numerical Differential Equations" Thirty-fifth International Conference on Machine Learning (ICML), 2018
+  <font size=5> 3. **Yiping Lu** *, **Aoxiao Zhong** *, Quanzheng Li, Bin Dong. "Beyond Finite Layer Neural Network:Bridging Deep Architects and Numerical Differential Equations" Thirty-fifth International Conference on Machine Learning (ICML), 2018</font>
 </td></tr></table>
