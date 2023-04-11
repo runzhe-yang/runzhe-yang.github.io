@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Portfolio"
-permalink: /portfolio/
+title: "Students"
+permalink: /students/
 author_profile: true
+redirect_from:
+  - /students
 ---
 
 #### Cooperating Undergraduate Students
