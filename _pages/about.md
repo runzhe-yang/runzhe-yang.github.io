@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+The long term goal of my research is to develop a hybrid scientific research disipline which combines <mark>domain knowledge</mark>, <mark>machine learning</mark> and <mark>(randomized) experiments</mark>. Here's my breif bio:
 
 
 - Assistant professor, IEMS, Northwestern University Sep 2024- 
