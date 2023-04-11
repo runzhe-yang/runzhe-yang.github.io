@@ -45,3 +45,10 @@ theoretical computational science research?
 # Experiment Design
 
 **Balanced Experiment Design**: In this [arxiv paper](https://arxiv.org/abs/2211.15241), we surprisingly connect balanced experiment design for panel data with phase retrieval problem from the inverse problem community. This connection enables us to generate the design via a generalized power method. For economists, our paper discovered that `best experiment = smallest (nonlinear) eigenvector` for the smallest eigenvector can cancel most linear effects. 
+
+---
+
+# Other Projects
+
+- Experiment Design
+- Inverse Problem and Image Processing
