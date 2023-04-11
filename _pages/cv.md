@@ -11,49 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+- Assistant professor, [Industrial Engineering & Manegement Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University Sep 2024- 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Courant Instructor, NYU, Sep 2023 - Sep 2024 (expected)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Ph.D. Candidate, ICME, Stanford University, 2019- 2023 (expected)
+  -  advised by with [Lexing Ying](https://web.stanford.edu/~lexing/) (Math) and [Jose Blanchet](https://scholar.google.com/citations?user=O24CcQQAAAAJ) (Management Science & Enginering).
 
-Publications
+
+
+- B.S. (Honor Track)  School Of Mathematical Science, Peking University, 2015-2019
+  - working with [Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/) and [Liwei Wang](http://www.liweiwang-pku.com/) 
+
+Visiting Positions
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Summer 2021: Microsoft Research
+  * **Host**: Greg Yang and Di He
+
+* Summer 2019: University of Tokyo
+  * **Host**: Taiji Suzuki
+
+* Summer 2018: Massachusetts Institute of Technology
+  * **Host**: Justin Solomon
+
+Honors and Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Rising Star in Data Science (University of Chicago), 2022
+* Stanford Interdisciplinary Graduate Fellowship, 2021
+* SenseTime Scholarship (30 undergraduates per year in the field of AI), 2018
+* China Mathematics Olympiad, Gold Medal, 2014
+
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* **Conference Reviewer**: ICML, Neurips, AISTATS, ICLR, ISIT, ECCV, ICCV, MSML
+* ICML2020 Top Reviewers,  Neurips 2022 Top Reviewers
+* **Journal Reviewer**:
+  * Mathematics of Operations Research
+  * Journal of Machine Learning Research
+  * Journal of Scientific Computing
+  * Journal of Multivariate Analysis
+  * Communications in Mathematical Sciences
+  * CSIAM Transactions on Applied Mathematics
+* **Workshop/Session Organization**: ICCOPT 2022, SIAM OPT 2023
