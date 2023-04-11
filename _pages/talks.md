@@ -10,7 +10,7 @@ author_profile: true
 
 ### Neural ODE and PDE-Net
 
-[Youtube](https://www.youtube.com/watch?v=URZG4ksH06g),[slide]([https://2prime.github.io/files/ODETalk(1).pdf](https://2prime.github.io/files/ODETalk%20(1).pdf))
+[Youtube](https://www.youtube.com/watch?v=URZG4ksH06g),[slide](https://2prime.github.io/files/ODETalk%20(1).pdf)
 
 ### Statistical analysis
 - Machine Learning Solving PDE: [slide](https://2prime.github.io/files/mlpde.pdf)
