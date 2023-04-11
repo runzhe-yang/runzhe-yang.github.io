@@ -16,4 +16,4 @@ author_profile: true
 
 ## Implicit Regularization for Algorithm Design: Neural Collapse and Worst Group Generalization
 
-[Youtube](https://www.youtube.com/watch?v=bM6jdI-T8CM),[Slide](https://drive.google.com/file/d/1UA5yr8W1iDdccZBbuA7xJioQ45q2RLZq/view)
+[Youtube](https://www.youtube.com/watch?v=bM6jdI-T8CM),[Slide](https://drive.google.com/file/d/1UA5yr8W1iDdccZBbuA7xJioQ45q2RLZq/view), [Old Note](https://www.overleaf.com/read/dxfkrjkhnfqr)
