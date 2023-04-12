@@ -49,5 +49,5 @@ How large the sample size and how much computational power are needed to reach a
 
 # Other Projects
 
-- **Experiment Design**: a spectral view of balanced experiment design [[paper]](https://arxiv.org/abs/2211.15241)
+
 - **Inverse Problem and Image Processing**: Image inpainting via manifold learning [[SIIMS paper]](https://arxiv.org/abs/1901.09548), Control Inspired NN based Image Editting [[ICLR 2019 paper]](https://arxiv.org/abs/1805.07709)
