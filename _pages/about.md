@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The long term goal of my research is to develop a hybrid scientific research disipline which combines <mark color='orange'>domain knowledge</mark>, <mark color='orange'>machine learning</mark> and <mark color='orange'>(randomized) experiments</mark>. To this end, I'm working on interdisciplinary research approach across probability and statistics, numerical algorithms, control theory, signal processing/inverse problem and operations research. Here's my [<mark color='orange'>research statement</mark>](https://2prime.github.io/files/rs.pdf) Here's my breif bio:
+The long term goal of my research is to develop a hybrid scientific research disipline which combines <mark color='orange'>domain knowledge</mark> (differential equation, stochastic process, control,...), <mark color='orange'>machine learning</mark> and <mark color='orange'>(randomized) experiments</mark>. To this end, I'm working on interdisciplinary research approach across probability and statistics, numerical algorithms, control theory, signal processing/inverse problem and operations research. Here's my [<mark color='orange'>research statement</mark>](https://2prime.github.io/files/rs.pdf) Here's my breif bio:
 
 
 - Assistant professor, [Industrial Engineering & Manegement Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University Sep 2024- 
