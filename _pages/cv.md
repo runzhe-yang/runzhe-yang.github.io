@@ -18,7 +18,7 @@ Education
 
 - Courant Instructor, [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), New York University, Sep 2023 - Sep 2024 (expected)
 
-- Ph.D. Candidate, [Institute for Computational and Mathematical Engineering](https://icme.stanford.edu/), Stanford University, 2019- 2023 (expected)
+- Ph.D. Candidate, [Institute for Computational & Mathematical Engineering](https://icme.stanford.edu/), Stanford University, 2019- 2023 (expected)
   -  advised by [Lexing Ying](https://web.stanford.edu/~lexing/) (Math) and [Jose Blanchet](https://scholar.google.com/citations?user=O24CcQQAAAAJ) (Management Science & Enginering).
 
 
