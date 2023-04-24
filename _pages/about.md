@@ -57,7 +57,7 @@ ___
 >
 >  2. Dinghuai Zhang *, Tianyuan Zhang *,**Yiping Lu** *, Zhanxing Zhu, Bin Dong. "You Only Propagate Once: Painless Adversarial Training Using Maximal Principle." 33rd Annual Conference on Neural Information Processing Systems (NeurIPS) 2019 (*equal contribution) 
 >  
->  3. <font color='red'>[*New*]</font>  Lu Y, Ji W, Izzo Z, et al. Importance Tempering: Group Robustness for Overparameterized Models. arXiv preprint arXiv:2209.08745, 2022.
+>  3. <font color='red'>[*New*]</font>  **Yiping Lu**, Wenlong Ji, Zach Izzo, et al. Importance Tempering: Group Robustness for Overparameterized Models. arXiv preprint arXiv:2209.08745, 2022.
  
 ## Optimal Control Formulation of Deep Learning
 
@@ -71,8 +71,8 @@ ___
 ## Inverse Problem and Image Processing
 
 
->  1. Xiaoshuai Zhang*, Yiping Lu*, Jiaying Liu, Bin Dong. "Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration" Seventh International Conference on Learning Representations(ICLR) 2019(*equal contribution) 
+>  1. Xiaoshuai Zhang*, **Yiping Lu** *, Jiaying Liu, Bin Dong. "Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration" Seventh International Conference on Learning Representations(ICLR) 2019(*equal contribution) 
 > 
->  2. Bin Dong, Haochen Ju, Yiping Lu, Zuoqiang Shi. " CURE: Curvature Regularization For Missing Data Recovery." SIAM Journal on Imaging Science, 13(4), 2169-2188, 2020
+>  2. Bin Dong, Haochen Ju, **Yiping Lu**, Zuoqiang Shi. " CURE: Curvature Regularization For Missing Data Recovery." SIAM Journal on Imaging Science, 13(4), 2169-2188, 2020 (alphabetical order)
 
 
