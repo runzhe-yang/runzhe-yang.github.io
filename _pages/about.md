@@ -53,7 +53,7 @@ ___
 
 ## Robust Machine Learning
 
->  1. Ji W, Lu Y, Zhang Y, et al. An unconstrained layer-peeled perspective on neural collapse. ICLR 2022.
+>  1. Wenlong Ji, **Yiping Lu**, et al. An unconstrained layer-peeled perspective on neural collapse. ICLR 2022.
 >
 >  2. Dinghuai Zhang *, Tianyuan Zhang *,**Yiping Lu** *, Zhanxing Zhu, Bin Dong. "You Only Propagate Once: Painless Adversarial Training Using Maximal Principle." 33rd Annual Conference on Neural Information Processing Systems (NeurIPS) 2019 (*equal contribution) 
 >  
