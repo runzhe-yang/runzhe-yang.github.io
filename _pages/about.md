@@ -76,3 +76,9 @@ ___
 >  2. Bin Dong, Haochen Ju, **Yiping Lu**, Zuoqiang Shi. " CURE: Curvature Regularization For Missing Data Recovery." SIAM Journal on Imaging Science, 13(4), 2169-2188, 2020 (alphabetical order)
 
 
+
+
+My Erdos Number = 4
+
+> Yiping Lu -> Lexing Ying -> David L. Donoho -> Charles Kam-tai Chui -> Paul Erdős
+> Yiping Lu -> Jose H. Blanchet -> Martin I. Reiman -> Fan Chung -> Paul Erdős
