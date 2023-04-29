@@ -10,13 +10,19 @@ redirect_from:
 Here is a more up-to-date pdf version : [<mark>overleaf</mark>](https://www.overleaf.com/read/crybjbqmgxth)
 
 
-Education
+Employment
 ======
 
 
 - Assistant professor, [Industrial Engineering & Manegement Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University Sep 2024- 
 
 - Courant Instructor, [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), New York University, Sep 2023 - Sep 2024 (expected)
+
+
+Education
+======
+
+
 
 - Ph.D. Candidate, [Institute for Computational & Mathematical Engineering](https://icme.stanford.edu/), Stanford University, 2019- 2023 (expected)
   -  advised by [Lexing Ying](https://web.stanford.edu/~lexing/) (Math) and [Jose Blanchet](https://scholar.google.com/citations?user=O24CcQQAAAAJ) (Management Science & Enginering).
