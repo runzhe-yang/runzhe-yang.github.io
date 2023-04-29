@@ -15,16 +15,16 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 - **Yiping Lu** *, Wenlong Ji*, Zach Izzo*,Lexing Ying. [Importance Tempering: Group Robustness for Overparameterized Models](https://arxiv.org/pdf/2209.08745). Submitted (*equal contribution)
 
-- Jikai Jin, **Yiping Lu**, Jose Blanchet, Lexing Ying [Minimax Optimal Kernel Operator Learning via Multilevel Training](https://arxiv.org/pdf/2209.14430) ICLR 2023 
+- Jikai Jin, **Yiping Lu**, Jose Blanchet, Lexing Ying [Minimax Optimal Kernel Operator Learning via Multilevel Training](https://arxiv.org/pdf/2209.14430) Eleventh  International Conference on Learning Representations(ICLR) 2023 
 
-- Huishuai Zhang, Da yu, **Yiping Lu**, Di He.  [Adversarial Noises Are Linearly Separable for (Nearly) Random Neural Networks](https://arxiv.org/pdf/2206.04316) AISTATS 2023 
+- Huishuai Zhang, Da yu, **Yiping Lu**, Di He.  [Adversarial Noises Are Linearly Separable for (Nearly) Random Neural Networks](https://arxiv.org/pdf/2206.04316)  26th International Conference on Artificial Intelligence and Statistics (AISTATS) 2023 
 
-- **Yiping Lu**, Jose Blanchet,Lexing Ying. [Sobolev Acceleration and Statistical Optimality for Learning Elliptic Equations via Gradient Descent](https://arxiv.org/pdf/2205.07331). Neurips 2022 
+- **Yiping Lu**, Jose Blanchet,Lexing Ying. [Sobolev Acceleration and Statistical Optimality for Learning Elliptic Equations via Gradient Descent](https://arxiv.org/pdf/2205.07331). Thirty-sixth  Conference on Neural Information Processing Systems (NeurIPS) 2022 
 
-- **Yiping Lu**, Haoxuan Chen, Jianfeng Lu, Lexing Ying, Jose Blanchet. [Machine Learning For Elliptic PDEs: Fast Rate Generalization Bound, Neural Scaling Law and Minimax Optimality](https://arxiv.org/pdf/2110.06897). International Conference on Learning Representations(ICLR) 2022
+- **Yiping Lu**, Haoxuan Chen, Jianfeng Lu, Lexing Ying, Jose Blanchet. [Machine Learning For Elliptic PDEs: Fast Rate Generalization Bound, Neural Scaling Law and Minimax Optimality](https://arxiv.org/pdf/2110.06897). 10th International Conference on Learning Representations(ICLR) 2022
 
 
-- Wenlong Ji, **Yiping Lu**, Yiliang Zhang, Zhun Deng, Weijie J Su. [An Unconstrained Layer-Peeled Perspective on Neural Collapse](https://arxiv.org/pdf/2110.02796). International Conference on Learning Representations(ICLR) 2022 
+- Wenlong Ji, **Yiping Lu**, Yiliang Zhang, Zhun Deng, Weijie J Su. [An Unconstrained Layer-Peeled Perspective on Neural Collapse](https://arxiv.org/pdf/2110.02796). Tenth  International Conference on Learning Representations(ICLR) 2022 
 
 - Bin Dong, Haochen Ju, **Yiping Lu**, Zuoqiang Shi. " [CURE: Curvature Regularization For Missing Data Recovery](https://arxiv.org/pdf/1901.09548)." SIAM Journal on Imaging Science, 13(4), 2169-2188, 2020 
 
@@ -41,7 +41,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 - Xiaoshuai Zhang*, **Yiping Lu** *, Jiaying Liu, Bin Dong. "[Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration](https://arxiv.org/pdf/1805.07709)" Seventh International Conference on Learning Representations(ICLR) 2019(*equal contribution) 
 
-- Zichao long*, **Yiping Lu** *, Xianzhong Ma*, Bin Dong. "[PDE-Net:Learning PDEs From Data](https://arxiv.org/pdf/1710.09668)", Thirty-fifth International Conference on Machine Learning (ICML), 2018(*equal contribution)\
+- Zichao long*, **Yiping Lu** *, Xianzhong Ma*, Bin Dong. "[PDE-Net:Learning PDEs From Data](https://arxiv.org/pdf/1710.09668)", Thirty-fifth International Conference on Machine Learning (ICML), 2018(*equal contribution)
 
 - **Yiping Lu**, Aoxiao Zhong, Quanzheng Li, Bin Dong. "[Beyond Finite Layer Neural Network:Bridging Deep Architects and Numerical Differential Equations](https://arxiv.org/pdf/1710.10121)" Thirty-fifth International Conference on Machine Learning (ICML), 2018
 
