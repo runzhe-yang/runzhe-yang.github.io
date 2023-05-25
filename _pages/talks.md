@@ -16,6 +16,8 @@ author_profile: true
 - Machine Learning Solving PDE: [slide](https://2prime.github.io/files/mlpde.pdf)
 - Operator Learning: [slide](https://2prime.github.io/files/oplearning.pdf) (job talk 2023)
 
+## Experiment Design
+- Synthetic Design via Sepctral Method: [slide](https://2prime.github.io/files/SD.pdf)
 ---
 
 ## Robust Machine Learning
