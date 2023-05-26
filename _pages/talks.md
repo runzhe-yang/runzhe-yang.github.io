@@ -5,6 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
+## New
+
+- Optimal Debiasing machine learning [preliminary slide](https://2prime.github.io/files/regressioncv.pdf)
 
 ## Scientific Machine Learning
 
