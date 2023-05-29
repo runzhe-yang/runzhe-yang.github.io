@@ -9,6 +9,7 @@ author_profile: true
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=NmhvVBgAAAAJ">my Google Scholar profile</a>.</u>
 
 
+- Jose Blanchet, Haoxuan Chen, Yiping Lu, Lexing Ying. [When can Regression-Adjusted Control Variates Help? Rare Events, Sobolev Embedding and Minimax Optimality] (https://arxiv.org/abs/2305.16527) (alphabetical order)
 
 
 - **Yiping Lu**, Jiajin Li, Lexing Ying, Jose Blancet. [Synthetic Principal Component Design: Fast Covariate Balancing with Synthetic Controls](https://arxiv.org/pdf/2211.15241).  
