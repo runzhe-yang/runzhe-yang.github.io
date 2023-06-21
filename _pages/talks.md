@@ -11,6 +11,8 @@ author_profile: true
 
 ## Scientific Machine Learning
 
+slide at CBMS deep learning for numerical PDE [odf](https://2prime.github.io/files/CBMS_dlpde.pdf)
+
 ### Neural ODE and PDE-Net
 
 [Youtube](https://www.youtube.com/watch?v=URZG4ksH06g),[slide](https://2prime.github.io/files/ODETalk%20(1).pdf)
