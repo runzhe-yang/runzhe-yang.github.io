@@ -12,7 +12,7 @@ The long term goal of my research is to develop a hybrid scientific research dis
 
 Here's my [<mark color='orange'>research statement</mark>](https://2prime.github.io/files/rs.pdf) 
 
-**Fine-grained research interest:** Scientific Machine Learning (AI4Science), Machine Learning Theory (RKHS, Empirical Process, Deep Learning), Inverse Problem, Robust Machine Learning
+**Fine-grained research interest:** Scientific Machine Learning (AI4Science), Stochastic Simulation, Machine Learning Theory (RKHS, Empirical Process, Deep Learning), Inverse Problem, Robust Machine Learning
 
 Here's my breif bio:
 
