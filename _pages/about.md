@@ -10,12 +10,13 @@ redirect_from:
 
 The long term goal of my research is to develop a hybrid scientific research disipline which combines <mark color='orange'>domain knowledge</mark> (differential equation, stochastic process, control,...), <mark color='orange'>machine learning</mark> and <mark color='orange'>(randomized) experiments</mark>. To this end, I'm working on interdisciplinary research approach across probability and statistics, machine learning, numerical algorithms, control theory, signal processing/inverse problem and operations research. 
 
-Here's my [<mark color='orange'>research statement</mark>](https://2prime.github.io/files/rs.pdf) 
+Here's my [<mark color='orange'>research statement</mark>](https://2prime.github.io/files/rs.pdf) and my latest [CV](https://www.overleaf.com/read/crybjbqmgxth).
+
+**Contact**: yplu [at] stanford dot edu
 
 **Fine-grained research interest:** Scientific Machine Learning (AI4Science), Stochastic Simulation, Machine Learning Theory (RKHS, Empirical Process, Deep Learning), Inverse Problem, Robust Machine Learning
 
-Here's my breif bio:
-
+Here's my brief bio:
 
 - Tenure-Track Assistant professor, [Industrial Engineering & Manegement Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University Sep 2024- 
 
