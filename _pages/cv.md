@@ -39,6 +39,9 @@ Visiting Positions
 
 * Summer 2019: University of Tokyo
   * **Host**: [Taiji Suzuki](http://ibis.t.u-tokyo.ac.jp/suzuki/)
+ 
+* Spring 2019: Microsoft Research
+  * **Host**: [David Wipft](http://www.davidwipf.com/) 
 
 * Summer 2018: Massachusetts Institute of Technology
   * **Host**: [Justin Solomon](https://people.csail.mit.edu/jsolomon/)
