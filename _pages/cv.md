@@ -49,6 +49,7 @@ Visiting Positions
 Honors and Awards
 ======
 * [Rising Star in Data Science (University of Chicago)](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/2022/), 2022
+* ICML2020 Top Reviewers,  Neurips 2022 Top Reviewers
 * [Stanford Interdisciplinary Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sigf), 2021-2024
 * SenseTime Scholarship (30 undergraduates per year in the field of AI), 2018
 * China Mathematics Olympiad, Gold Medal, 2014
