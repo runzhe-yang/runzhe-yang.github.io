@@ -17,6 +17,8 @@ Here's my [<mark color='orange'>research statement</mark>](https://2prime.github
 > Although Ph.D. admissions to Northwestern IEMS are handled at a department-wide level, not by me individually, candidates with undergraduate backgrounds in applied mathematics/computational physics, computer science, or statistics are encouraged to contact me by email with the following documentation:
 > - a current CV, which should include your previous research projects
 > - A slide/review that provides a high-level overview of potential directions for our work together, with an emphasis on areas of overlap between our interests. (theoretical/computational are both welcome)
+>
+> **Advertisement**: I'm also happy to hold (remote/in-person) visitors, my previous visitors are [here](https://2prime.github.io/students/). Please read [For Prospective students](https://docs.google.com/document/d/1PGZgc0EcAZrYt7PxAo7_jLOPztWU3Fko5gYq0bXtMnc/edit?usp=sharing) before emailing me.
 
 
 **Fine-grained research interest:** Scientific Machine Learning (AI4Science), Stochastic Simulation, Machine Learning Theory (RKHS, Empirical Process, Deep Learning), Inverse Problem, Robust Machine Learning
@@ -35,11 +37,6 @@ Here's my brief bio:
 - B.S. (Honor Track)  School of Mathematical Science, Peking University, 2015-2019
   - working with [Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/) and [Liwei Wang](http://www.liweiwang-pku.com/) 
 
-___
-
-**Advertisement**: For students who want to work with me see: [Prospective students](https://docs.google.com/document/d/1PGZgc0EcAZrYt7PxAo7_jLOPztWU3Fko5gYq0bXtMnc/edit?usp=sharing)
-
----
 
 # Research Interest and Highlights
 
