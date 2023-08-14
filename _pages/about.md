@@ -14,6 +14,11 @@ Here's my [<mark color='orange'>research statement</mark>](https://2prime.github
 
 **Contact**: yplu [at] stanford dot edu
 
+> Although Ph.D. admissions to Northwestern IEMS are handled at a department-wide level, not by me individually, candidates with undergraduate backgrounds in applied mathematics/computational physics, computer science, or statistics are encouraged to contact me by email with the following documentation:
+> - a current CV, which should include your previous research projects
+> - A slide/review that provides a high-level overview of potential directions for our work together, with an emphasis on areas of overlap between our interests. (theoretical/computational are both welcome)
+
+
 **Fine-grained research interest:** Scientific Machine Learning (AI4Science), Stochastic Simulation, Machine Learning Theory (RKHS, Empirical Process, Deep Learning), Inverse Problem, Robust Machine Learning
 
 Here's my brief bio:
