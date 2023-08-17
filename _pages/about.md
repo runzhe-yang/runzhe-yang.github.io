@@ -17,6 +17,8 @@ Here's my [<mark color='orange'>research statement</mark>](https://2prime.github
 **Contact**: yplu [at] stanford dot edu
 
 > **Advertisement**: I'm happy to hold (remote/in-person) visitors, my previous visitors are [here](https://2prime.github.io/students/). Please read [For Prospective Students](https://docs.google.com/document/d/1PGZgc0EcAZrYt7PxAo7_jLOPztWU3Fko5gYq0bXtMnc/edit?usp=sharing) before emailing me. Attaching a slide/review that provides a high-level overview of potential directions for our work together is a bonus item！
+>
+> Due to the large amount of emails, I may miss some of the emails. **The best way to approach me is by filling out the [form](https://forms.gle/BaUYbUx35RL4zD3R6)**
 > 
 > **For Ph.D. Applicants** I'm actively looking for Ph.D. students starting in Fall 2024. Although Ph.D. admissions to Northwestern IEMS are handled at a department-wide level, not by me individually, candidates with undergraduate backgrounds in applied mathematics/computational physics, computer science, or statistics are encouraged to contact me by email with the following documentation:
 > - a current CV, which should include your previous research projects
