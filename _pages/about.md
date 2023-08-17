@@ -23,7 +23,7 @@ Here's my [<mark color='orange'>research statement</mark>](https://2prime.github
 > - Short answer to the questions in [For Prospective Students](https://docs.google.com/document/d/1PGZgc0EcAZrYt7PxAo7_jLOPztWU3Fko5gYq0bXtMnc/edit?usp=sharing)
 > - A slide/review that provides a high-level overview of potential directions for our work together, with an emphasis on areas of overlap between our interests. (theoretical/computational are both welcome)
 
-I will dedicate 30 mins every week for junior PhD/master/undergraduate students, if you would like to chat about life, career plan, or research ideas related to AI/ML, feel free to email me to schedule a meeting. I encourage students from underrepresented groups to reach out and will prioritize these meetings.
+I will dedicate 30 mins every week for junior PhD/master/undergraduate students, if you would like to chat about life, career plan, or research ideas related to AI/ML, feel free to email me to schedule a meeting. I encourage students from underrepresented groups to reach out and will prioritize these meetings. File the [form](https://docs.google.com/forms/d/e/1FAIpQLSc00PnFeISZXi-gcfQaJuSlnZl0i8w0KA0H9LBpL48wzb__rw/viewform?usp=sf_link).
 
 
 
