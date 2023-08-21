@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Courant instructor in Courant Institute, New York University and an incoming tenure-track assistant professor at  [Industrial Engineering & Manegement Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University.
+I am a Courant instructor in [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), New York University and an incoming tenure-track assistant professor at  [Industrial Engineering & Manegement Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University.
 
 > **Advertisement** I am happy to host (remote) undergraduate/graduate visitors and looking for Ph.D. Students. Prospective Students see [here](https://2prime.github.io/students/). You can also find information about my research [here](https://2prime.github.io/research/) 
 
