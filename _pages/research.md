@@ -14,6 +14,10 @@ My research lies in the interface of **machine learning/non-parametric statistic
 
 # Scientific Machine Learning/Machine Learning for Science
 
+## Validated Scientific Machine Learning via Debiasing
+
+Coming soon, here's our first paper on [theory](https://arxiv.org/abs/2305.16527)
+
 ## Sample Complexity and Optimization of Scientific Machine Learning
 
 How large the sample size and how much computational power are needed to reach a prescribed performance level for a physic problem?
