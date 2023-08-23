@@ -57,6 +57,7 @@ Honors and Awards
 
 Service and leadership
 ======
+* **Area Chair**: AISTATS
 * **Conference Reviewer**: ICML, Neurips, AISTATS, ICLR, ISIT, ECCV, ICCV, MSML
 * ICML2020 Top Reviewers,  Neurips 2022 Top Reviewers
 * **Journal Reviewer**:
