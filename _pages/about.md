@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Courant instructor in [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), New York University and an incoming tenure-track assistant professor at  [Industrial Engineering & Manegement Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University.
+I am a Courant instructor at [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), New York University, and an incoming tenure-track assistant professor at  [Industrial Engineering & Management Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University. I received my Ph.D. degree in applied math from Stanford University in 2023 and my Bachelor’s degree in applied math from Peking University in 2019.
 
 > **Advertisement** I am happy to host (remote) undergraduate/graduate visitors and looking for Ph.D. Students. Prospective Students see [here](https://2prime.github.io/students/). You can also find information about my research [here](https://2prime.github.io/research/) 
 
-The long term goal of my research is to develop a hybrid scientific research disipline which combines <mark color='orange'>domain knowledge</mark> (differential equation, stochastic process, control,...), <mark color='orange'>machine learning</mark> and <mark color='orange'>(randomized) experiments</mark>. To this end, I'm working on interdisciplinary research approach across probability and statistics, machine learning, numerical algorithms, control theory, signal processing/inverse problem and operations research. 
+The long-term goal of my research is to develop a hybrid scientific research discipline that combines <mark color='orange'>domain knowledge</mark> (differential equation, stochastic process, control,...), <mark color='orange'>machine learning</mark> and <mark color='orange'>(randomized) experiments</mark>. To this end, I'm working on an interdisciplinary research approach across probability and statistics, machine learning, numerical algorithms, control theory, signal processing/inverse problem, and operations research. 
 
 Here's my [<mark color='orange'>research statement</mark>](https://2prime.github.io/files/rs.pdf) and my latest [CV](https://www.overleaf.com/read/crybjbqmgxth).
 
@@ -20,21 +20,6 @@ Here's my [<mark color='orange'>research statement</mark>](https://2prime.github
 
 **Contact**: yplu [at] stanford dot edu
 
-
-
-Here's my brief bio:
-
-- Tenure-Track Assistant professor, [Industrial Engineering & Manegement Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University Sep 2024- 
-
-- Courant Instructor, [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), New York University, Sep 2023 - Sep 2024 (expected)
-
-- Ph.D. Candidate, [Institute for Computational & Mathematical Engineering](https://icme.stanford.edu/), Stanford University, 2019- 2023 (expected)
-  -  advised by [Lexing Ying](https://web.stanford.edu/~lexing/) (Math) and [Jose Blanchet](https://scholar.google.com/citations?user=O24CcQQAAAAJ) (Management Science & Enginering).
-
-
-
-- B.S. (Honor Track)  School of Mathematical Science, Peking University, 2015-2019
-  - working with [Bin Dong](http://faculty.bicmr.pku.edu.cn/~dongbin/) and [Liwei Wang](http://www.liweiwang-pku.com/) 
 
 
 # Research Interest and Highlights
