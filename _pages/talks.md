@@ -5,13 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-## New
 
-- Optimal Debiasing machine learning [preliminary slide](https://2prime.github.io/files/regressioncv.pdf)
 
 ## Scientific Machine Learning
 
-slide at CBMS deep learning for numerical PDE [odf](https://2prime.github.io/files/CBMS_dlpde.pdf)
+slide at CBMS deep learning for numerical PDE [pdf](https://2prime.github.io/files/CBMS_dlpde.pdf)
 
 ### Neural ODE and PDE-Net
 
