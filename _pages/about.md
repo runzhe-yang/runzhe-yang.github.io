@@ -31,7 +31,7 @@ Here's my [<mark color='orange'>research statement</mark>](https://2prime.github
 
 ## Debiasing Machine Learning Algorithm for Scientific Computing
 
-> 1.<font color='red'>[*New*]</font>  Jose Blanchet, Haoxuan Chen, **Yiping Lu**, Lexing Ying. When can Regression-Adjusted Control Variates Help? Rare Events, Sobolev Embedding and Minimax Optimality (alphabetical order)
+> 1.<font color='red'>[*New*]</font>  Jose Blanchet, Haoxuan Chen, **Yiping Lu**, Lexing Ying. When can Regression-Adjusted Control Variates Help? Rare Events, Sobolev Embedding and Minimax Optimality (alphabetical order) Neurips 2023
 
 ## Experiment Design
 
