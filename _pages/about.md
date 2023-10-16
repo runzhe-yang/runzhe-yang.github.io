@@ -20,7 +20,7 @@ Here's my [<mark color='orange'>research statement</mark>](https://2prime.github
 
 **Fine-grained research interest:** Scientific Machine Learning (AI4Science), Stochastic Simulation, Machine Learning Theory (RKHS, Empirical Process, Deep Learning), Inverse Problem, Robust Machine Learning
 
-**Contact**: yiping [dot] lu [at] nyu dot edu 
+**Contact**: yiping [dot] lu [at] northwestern [dot] edu, yiping [dot] lu [at] nyu dot edu 
 
 **Office**: Office 0926, Warren Weaver Hall (CIWW), 251 Mercer St, New York, NY 10012
 
