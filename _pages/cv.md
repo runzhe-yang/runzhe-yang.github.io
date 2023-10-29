@@ -14,7 +14,7 @@ Employment
 ======
 
 
-- Assistant professor, [Industrial Engineering & Manegement Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University Sep 2024- 
+- Assistant professor, [Industrial Engineering & Management Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University Sep 2024- 
 
 - Courant Instructor, [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), New York University, Sep 2023 - Sep 2024 
 
