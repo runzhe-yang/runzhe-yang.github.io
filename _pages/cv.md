@@ -48,7 +48,7 @@ Visiting Positions
 
 Honors and Awards
 ======
-* Conference on Parsimony and Learning (CPAL) Rising Stars Award 2024
+* [Conference on Parsimony and Learning (CPAL) Rising Stars Award](https://cpal.cc/rising_stars/) 2024
 * [Rising Star in Data Science (University of Chicago)](https://datascience.uchicago.edu/research/postdoctoral-programs/rising-stars/2022/), 2022
 * ICML2020 Top Reviewers,  Neurips 2022 Top Reviewers
 * [Stanford Interdisciplinary Graduate Fellowship](https://vpge.stanford.edu/fellowships-funding/sigf), 2021-2024
