@@ -8,7 +8,7 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=NmhvVBgAAAAJ">my Google Scholar profile</a>.</u>
 
-- Yinuo Ren,  **Yiping Lu**, Lexing Ying, Grant Rotskoff. Statistical Inhomogeneous Diffusion Inference, The 38th Annual AAAI Conference on Artificial Intelligence, 2024
+- Yinuo Ren,  **Yiping Lu**, Lexing Ying, Grant Rotskoff. [Statistical Spatially Inhomogeneous Diffusion Inference](https://arxiv.org/abs/2312.05793), The 38th Annual AAAI Conference on Artificial Intelligence, 2024
 
 - Jose Blanchet, Haoxuan Chen, **Yiping Lu**, Lexing Ying. [When can Regression-Adjusted Control Variates Help? Rare Events, Sobolev Embedding and Minimax Optimality](https://arxiv.org/abs/2305.16527) (alphabetical order) Thirty-seventh Conference on Neural Information Processing Systems (Neurips) 2023
 
