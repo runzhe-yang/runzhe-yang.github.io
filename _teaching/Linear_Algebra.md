@@ -30,17 +30,16 @@ For longer discussions with TAs and to get help in person, we strongly encourage
 
 Syllabus
 ======
-Linear algebra is an area of mathematics devoted to the study of structure-preserving operators on special sets (linear operators on vector spaces). Linear algebra is a cornerstone of any mathematics curriculum for two very important (and related) reasons:
 
-- The theory of linear algebra is well understood and so a first step in many areas of applied mathematics is to reduce the problem into one in linear algebra.
-- The spaces and operations studied in the subject are commonplace in many different areas of mathematics, science, and engineering.
+- Week 1 [note]
 
 
-Homework and Sample Questioins
+
+Homework and Sample Questions
 ======
 
 
-Homework and Sample Questioins
+ChatGPT
 ======
 
 I'm collecting questions that Chatgpt/Bard provides wrong answers. If you find one, please report here in [(anonymous) form](https://forms.gle/5CrsQVUfG614DJwGA). 
