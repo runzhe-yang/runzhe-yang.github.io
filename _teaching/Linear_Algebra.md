@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-linear-algebra
 venue: "NYU Courant"
-date: 2024
+date: 2024-01-01
 location: "New York"
 ---
 
