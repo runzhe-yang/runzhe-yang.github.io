@@ -17,6 +17,17 @@ location: "New York"
 - Apply orthogonal projection to optimization (least-squares) problems;
 - Explore other topics (as time permits).
 
+Logistics
+======
+
+**Time and Location**:
+
+**Office Hour**:
+
+If you have a question, to get a response from the teaching staff quickly we strongly encourage you to post it to the class Piazza forum. For suggestions to improve Yiping's teaching, you can use the [(anonymous) form](https://forms.gle/Dtw6PRFdnbk8NQWRA). You can also leave a private matter here. If you wish to contact me via email, kindly include the tag "[linear algebra]" in the subject line. This will help ensure that I do not overlook your message.
+
+For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours.
+
 Syllabus
 ======
 Linear algebra is an area of mathematics devoted to the study of structure-preserving operators on special sets (linear operators on vector spaces). Linear algebra is a cornerstone of any mathematics curriculum for two very important (and related) reasons:
@@ -28,3 +39,8 @@ Linear algebra is an area of mathematics devoted to the study of structure-prese
 Homework and Sample Questioins
 ======
 
+
+Homework and Sample Questioins
+======
+
+I'm collecting questions that Chatgpt/Bard provides wrong answers. If you find one, please report here in [(anonymous) form](https://forms.gle/5CrsQVUfG614DJwGA). 
