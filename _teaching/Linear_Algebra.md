@@ -1,5 +1,5 @@
 ---
-title: "Linear ALgebra"
+title: "Linear Algebra (NYU 2023-2024)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-linear-algebra
