@@ -1,5 +1,5 @@
 ---
-title: "Linear Algebra (MATH-UA, NYU)"
+title: "Linear Algebra (MATH-UA 140, NYU)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-linear-algebra
