@@ -20,7 +20,9 @@ location: "New York"
 Logistics
 ======
 
-**Time and Location**:
+**Time and Location**: Monday and Wednesday
+-  9:30 - 10:45 in Brooklyn
+-  3:30 - 4:45 at Washington Square
 
 **Office Hour**:
 
