@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Courant instructor at [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), New York University, and an incoming tenure-track assistant professor at  [Industrial Engineering & Management Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University. I received my Ph.D. degree in applied math from Stanford University in 2023 and my Bachelor’s degree in applied math from Peking University in 2019.
 
-> **Advertisement** I am happy to host (remote) undergraduate/graduate visitors and looking for Ph.D. Students. Prospective Students see [here](https://2prime.github.io/students/). You can also find information about my research [here](https://2prime.github.io/research/) 
+> **Advertisement** I am happy to host (remote) undergraduate/graduate visitors and looking for Ph.D. Students and Postdocs. Prospective Students see [here](https://2prime.github.io/students/). You can also find information about my research [here](https://2prime.github.io/research/) 
 
 **To anyone:** I would appreciate [(anonymous) feedback](https://docs.google.com/forms/d/e/1FAIpQLScCWSzTQGMVKhxDVSiCopYD740Txm-cMoxIh-dg08FcRKT-8Q/viewform?usp=sf_link) about anything!
 
