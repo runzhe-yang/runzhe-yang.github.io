@@ -8,7 +8,7 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=NmhvVBgAAAAJ">my Google Scholar profile</a>.</u>
 
--Yihang Chen, Fanghui Liu, **Yiping Lu**, Grigorios Chrysos, Volkan Cevher. [Generalization Guarantees of Deep ResNets in the Mean-Field Regime](https://openreview.net/forum?id=cXs5md5wAq), International Conference on Learning Representations(ICLR) 2024, <font color='red'>[Spotlight]</font>
+- Yihang Chen, Fanghui Liu, **Yiping Lu**, Grigorios Chrysos, Volkan Cevher. [Generalization Guarantees of Deep ResNets in the Mean-Field Regime](https://openreview.net/forum?id=cXs5md5wAq), International Conference on Learning Representations(ICLR) 2024, <font color='red'>[Spotlight]</font>
 
 - Yinuo Ren,  **Yiping Lu**, Lexing Ying, Grant Rotskoff. [Statistical Spatially Inhomogeneous Diffusion Inference](https://arxiv.org/abs/2312.05793), The 38th Annual AAAI Conference on Artificial Intelligence, 2024 
 
