@@ -8,9 +8,9 @@ author_profile: true
 
 You can also find my articles on <u><a href="https://scholar.google.com/citations?user=NmhvVBgAAAAJ">my Google Scholar profile</a>.</u>
 
--Yihang Chen, Fanghui Liu, **Yiping Lu**, Grigorios Chrysos, Volkan Cevher. [Generalization Guarantees of Deep ResNets in the Mean-Field Regime](https://openreview.net/forum?id=cXs5md5wAq), International Conference on Learning Representations(ICLR) 2024, 
+-Yihang Chen, Fanghui Liu, **Yiping Lu**, Grigorios Chrysos, Volkan Cevher. [Generalization Guarantees of Deep ResNets in the Mean-Field Regime](https://openreview.net/forum?id=cXs5md5wAq), International Conference on Learning Representations(ICLR) 2024, <font color='red'>[Spotlight]</font>
 
-- Yinuo Ren,  **Yiping Lu**, Lexing Ying, Grant Rotskoff. [Statistical Spatially Inhomogeneous Diffusion Inference](https://arxiv.org/abs/2312.05793), The 38th Annual AAAI Conference on Artificial Intelligence, 2024 <font color='red'>[*Spotlight*]</font>
+- Yinuo Ren,  **Yiping Lu**, Lexing Ying, Grant Rotskoff. [Statistical Spatially Inhomogeneous Diffusion Inference](https://arxiv.org/abs/2312.05793), The 38th Annual AAAI Conference on Artificial Intelligence, 2024 
 
 - Jose Blanchet, Haoxuan Chen, **Yiping Lu**, Lexing Ying. [When can Regression-Adjusted Control Variates Help? Rare Events, Sobolev Embedding and Minimax Optimality](https://arxiv.org/abs/2305.16527) (alphabetical order) Thirty-seventh Conference on Neural Information Processing Systems (Neurips) 2023
 
@@ -19,7 +19,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 - **Yiping Lu** *, Wenlong Ji*, Zach Izzo*,Lexing Ying. [Importance Tempering: Group Robustness for Overparameterized Models](https://arxiv.org/pdf/2209.08745). Submitted (*equal contribution)
 
-- Jikai Jin, **Yiping Lu**, Jose Blanchet, Lexing Ying [Minimax Optimal Kernel Operator Learning via Multilevel Training](https://arxiv.org/pdf/2209.14430) Eleventh  International Conference on Learning Representations(ICLR) 2023  <font color='red'>[*Spotlight*]</font>
+- Jikai Jin, **Yiping Lu**, Jose Blanchet, Lexing Ying [Minimax Optimal Kernel Operator Learning via Multilevel Training](https://arxiv.org/pdf/2209.14430) Eleventh  International Conference on Learning Representations(ICLR) 2023  <font color='red'>[Spotlight]</font>
 
 - Huishuai Zhang, Da yu, **Yiping Lu**, Di He.  [Adversarial Noises Are Linearly Separable for (Nearly) Random Neural Networks](https://arxiv.org/pdf/2206.04316)  26th International Conference on Artificial Intelligence and Statistics (AISTATS) 2023 
 
