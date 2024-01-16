@@ -61,7 +61,7 @@ Here's my [<mark color='orange'>research statement</mark>](https://2prime.github
 ## Optimal Control Formulation of Deep Learning
 
 
->  1. Yihang Chen, Fanghui Liu, **Yiping Lu**, Grigorios Chrysos, Volkan Cevher. [Generalization Guarantees of Deep ResNets in the Mean-Field Regime](https://openreview.net/forum?id=tMzPZTvz2H), International Conference on Learning Representations(ICLR) 2024
+>  1. Yihang Chen, Fanghui Liu, **Yiping Lu**, Grigorios Chrysos, Volkan Cevher. Generalization Guarantees of Deep ResNets in the Mean-Field Regime, International Conference on Learning Representations(ICLR) 2024
 >     
 >  2.**Yiping Lu**, Chao Ma, Yulong Lu, Jianfeng Lu, Lexing Ying. "A Mean-field Analysis of Deep ResNet and Beyond: Towards Provable Optimization Via Overparameterization From Depth" Thirty-seventh International Conference on Machine Learning (ICML), 2020
 >  
