@@ -25,7 +25,8 @@ Logistics
 -  3:30 - 4:45 at Washington Square
 
 **Office Hour**:
-
+-  3:30 - 4:45 at CWWI 926
+ 
 If you have a question, to get a response from the teaching staff quickly we strongly encourage you to post it to the class Piazza forum. For suggestions to improve Yiping's teaching, you can use the [(anonymous) form](https://forms.gle/Dtw6PRFdnbk8NQWRA). You can also leave a private matter here. If you wish to contact me via email, kindly include the tag "[linear algebra]" in the subject line. This will help ensure that I do not overlook your message.
 
 For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours.
@@ -35,8 +36,8 @@ For longer discussions with TAs and to get help in person, we strongly encourage
 Syllabus
 ======
 
-- Week 1 [note]
-
+- Lecture 1, Strang Sections 1.1 and 1.2 (Vector space, dot product) ,1/22 [note]
+- Lecture 2, Strang Sections 1.2 and 1.3 (Span, Matrices, Linear Dependence and Independence), 1/24 [note]
 
 
 Homework and Sample Questions
