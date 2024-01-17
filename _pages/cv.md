@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here is a more up-to-date pdf version : [<mark>overleaf</mark>](https://www.overleaf.com/read/crybjbqmgxth)
+Here is a more up-to-date pdf version : [<mark>overleaf</mark>](https://www.overleaf.com/read/rmcykgwmwbcq#cbe18b)
 
 
 Employment
