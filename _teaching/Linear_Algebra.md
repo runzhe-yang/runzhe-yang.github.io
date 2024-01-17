@@ -21,11 +21,11 @@ Logistics
 ======
 
 **Time and Location**: Monday and Wednesday
--  9:30 - 10:45 in Brooklyn
--  3:30 - 4:45 at Washington Square
+-  9:30 - 10:45 at RGSH 203 (Brooklyn)
+-  3:30 - 4:45 at 19 West 4th Street 101 (Washington Square)
 
 **Office Hour**:
--  3:30 - 4:45 at CWWI 926
+-  Monday 4:45 - 5:45 at CWWI 926
  
 If you have a question, to get a response from the teaching staff quickly we strongly encourage you to post it to the class Piazza forum. For suggestions to improve Yiping's teaching, you can use the [(anonymous) form](https://forms.gle/Dtw6PRFdnbk8NQWRA). You can also leave a private matter here. If you wish to contact me via email, kindly include the tag "[linear algebra]" in the subject line. This will help ensure that I do not overlook your message.
 
@@ -36,8 +36,8 @@ For longer discussions with TAs and to get help in person, we strongly encourage
 Syllabus
 ======
 
-- Lecture 1, Strang Sections 1.1 and 1.2 (Vector space, dot product) ,1/22 [note]
-- Lecture 2, Strang Sections 1.2 and 1.3 (Span, Matrices, Linear Dependence and Independence), 1/24 [note]
+- Lecture 1, Strang Sections 1.1 and 1.2 (Vector space, dot product) ,1/22 [annotated note]
+- Lecture 2, Strang Sections 1.2 and 1.3 (Span, Matrices, Linear Dependence and Independence), 1/24 [annotated note]
 
 
 Homework and Sample Questions
