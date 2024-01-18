@@ -27,13 +27,17 @@ Logistics
 -  3:30 - 4:45 at 19 West 4th Street 101 (Washington Square)
 
 **Office Hour**:
--  Monday 4:45 - 5:45 at CWWI 926
+-  [campuswire](https://campuswire.com/p/G3AA19786), Course code see brightspace
  
 If you have a question, to get a response from the teaching staff quickly we strongly encourage you to post it to the class Piazza forum. For suggestions to improve Yiping's teaching, you can use the [(anonymous) form](https://forms.gle/Dtw6PRFdnbk8NQWRA). You can also leave a private matter here. If you wish to contact me via email, kindly include the tag "[linear algebra]" in the subject line. This will help ensure that I do not overlook your message.
 
 For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours.
 
 **Course grades:** The final course grade will be based on the following breakdown:
+- Attendance & Participation 5%
+- Quizzes 15%
+- Problem Sets 10%
+- Exams 70%
 
 Syllabus
 ======
