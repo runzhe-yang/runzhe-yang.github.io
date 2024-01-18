@@ -38,8 +38,8 @@ For longer discussions with TAs and to get help in person, we strongly encourage
 Syllabus
 ======
 
-- Lecture 1, Strang Sections 1.1 and 1.2 (Vector space, dot product) ,1/22 [slide] [annotated note]
-- Lecture 2, Strang Sections 1.2 and 1.3 (Span, Matrices, Linear Dependence and Independence), 1/24 [slide] [annotated note]
+- Lecture 1, Strang Sections 1.1 and 1.2 (Vector space, dot product) ,1/22 [slide](https://2prime.github.io/files/linear/linearslide1.pdf) [annotated note]
+- Lecture 2, Strang Sections 1.2 and 1.3 (Span, Matrices, Linear Dependence and Independence), 1/24 [slide](https://2prime.github.io/files/linear/linearslide1.pdf) [annotated note]
 
 
 Homework and Sample Questions
