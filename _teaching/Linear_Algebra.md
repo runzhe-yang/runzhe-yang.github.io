@@ -9,6 +9,8 @@ location: "New York"
 ---
 
 
+**Syllabus**: [pdf](https://2prime.github.io/files/LinearS24.pdf)
+
 - Formulate, solve, apply, and interpret systems of linear equations in several variables;
 - Compute with and classify matrices;
 - Master the fundamental concepts of abstract vector spaces;
