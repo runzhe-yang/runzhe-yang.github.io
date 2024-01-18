@@ -41,13 +41,20 @@ For longer discussions with TAs and to get help in person, we strongly encourage
 
 Syllabus
 ======
+Gilbert Strang's course video: [link](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/video_galleries/video-lectures/)
 
-- Lecture 1, Strang Sections 1.1 and 1.2 (Vector space, dot product) ,1/22 [slide](https://2prime.github.io/files/linear/linearslide1.pdf) [annotated note]
-- Lecture 2, Strang Sections 1.2 and 1.3 (Span, Matrices, Linear Dependence and Independence), 1/24 [slide](https://2prime.github.io/files/linear/linearslide1.pdf) [annotated note]
+- Lecture 1, Strang Sections 1.1 and 1.2 (Vector space, dot product) ,1/22 [[slide]](https://2prime.github.io/files/linear/linearslide1.pdf) [annotated note]
+- Lecture 2, Strang Sections 1.2 and 1.3 (Span, Matrices, Linear Dependence and Independence), 1/24 [[slide]](https://2prime.github.io/files/linear/linearslide2.pdf) [annotated note]
+- Lecture 3, Strang Sections 2.1 and 2.2 (Linear Systems, The Idea of Elimination), 1/29 [[slide]](https://2prime.github.io/files/linear/linearslide3.pdf) [annotated note]
+- Lecture 4, Strang Sections 2.3 and 2.4 (Elimination, Matrix Operations), 1/32 [[slide]](https://2prime.github.io/files/linear/linearslide4.pdf) [annotated note]
 
 
 Homework and Sample Questions
 ======
+**Quizzes** Timed weekly quizzes open on Fridays by 5 pm and are due on Gradescope by midnight on Sundays. No late work is allowed on those, please plan accordingly.
+
+**Problem Sets** Please make sure you submit one question per page and match correctly on Gradescope. Using latex is recommanded but not required. Latex baseic: [link](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
 - [Problem Set 1](https://nyu.box.com/s/qyspmr0o2xynd1kquax2xwza64c481il) - Due by midnight on Friday 2/9
 - [Problem Set 2](https://nyu.box.com/s/0eaviselsuk7tmcb1df6s7ospnsa0tnm) - Due by midnight on Friday 2/23
 - [Problem Set 3](https://nyu.box.com/s/cryx9b99lnhrgwau7886y0anm2b2l7dl) - Due by midnight on Friday 3/8
