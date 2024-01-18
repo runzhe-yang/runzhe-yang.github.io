@@ -46,6 +46,7 @@ Homework and Sample Questions
 
 ChatGPT
 ======
+While the use of AI tools to aid in problem-solving is becoming increasingly prevalent, it is important to note that relying solely on AI to complete your homework is not in accordance with the expectations of this course. Submitting AI-generated solutions without proper acknowledgment is a violation of ethical guidelines and academic standards.
 
 I'm collecting questions that Chatgpt/Bard provides wrong answers. If you find one, please report here in [(anonymous) form](https://forms.gle/5CrsQVUfG614DJwGA). 
 
@@ -58,7 +59,7 @@ In general, we do not grant extensions on assignments/exams. There are several e
 - *Family/Personal Emergencies:* If you have a family emergency (e.g. death in the family) or a personal emergency (e.g. mental health crisis), please contact your academic adviser or Counseling and Psychological Services (CaPS). In addition to offering support, they will reach out to the instructors for all your courses on your behalf to request an extension.
 - *University-Approved Absences:* If you are attending an out-of-town university-approved event (e.g. multi-day athletic/academic trip organized by the university), you may request an extension for the duration of the trip. You must provide confirmation of your attendance, usually from a faculty or staff organizer of the event.
 
-**Accommodations for Students with Disabilities:** If you have a disability and have an accommodation letter from the Disability Resources office, I encourage you to discuss your accommodations and needs with the instructor as early in the semester as possible. We will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, I encourage you to contact them.
+**Accommodations for Students with Disabilities:** If you have a disability and have an accommodation letter from the Disability Resources office, I encourage you to discuss your accommodations and needs with the Moses Center for Student Accessibility as early as possible in the semester for assistance. (Telephone: 212-998-4980, Website: http://www.nyu.edu/csd) We will work with you to ensure that accommodations are provided as appropriate. If you suspect that you may have a disability and would benefit from accommodations but are not yet registered with the Office of Disability Resources, I encourage you to contact them. Please note that it is your responsibility to schedule exams at the Moses Center, and to ensure that you are receiving all accommodations you are approved for.
 
 
 **Collaboration among Students:** The purpose of student collaboration is to facilitate learning, not to circumvent it. Studying the material in groups is strongly encouraged. It is also allowed to seek help from other students in understanding the material needed to solve a particular homework problem, provided no written notes (including code) are shared, or are taken at that time, and provided learning is facilitated, not circumvented. The actual solution must be done by each student alone.
