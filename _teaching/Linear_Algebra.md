@@ -44,12 +44,12 @@ Syllabus
 
 Homework and Sample Questions
 ======
-- Problem Set 1 - Due by midnight on Friday 2/9
-- Problem Set 2 - Due by midnight on Friday 2/23
-- Problem Set 3 - Due by midnight on Friday 3/8
-- Problem Set 4 - Due by midnight on Friday 4/5
-- Problem Set 5 - Due by midnight on Friday 4/19
-- Problem Set 6 - Due by midnight on Friday 5/3
+- [Problem Set 1](https://nyu.box.com/s/qyspmr0o2xynd1kquax2xwza64c481il) - Due by midnight on Friday 2/9
+- [Problem Set 2](https://nyu.box.com/s/0eaviselsuk7tmcb1df6s7ospnsa0tnm) - Due by midnight on Friday 2/23
+- [Problem Set 3](https://nyu.box.com/s/cryx9b99lnhrgwau7886y0anm2b2l7dl) - Due by midnight on Friday 3/8
+- [Problem Set 4](https://nyu.box.com/s/3ibhs12iscmahvkyodm4rigztcsdr2mi) - Due by midnight on Friday 4/5
+- [Problem Set 5](https://nyu.box.com/s/t8digsh1nxfit28gxum0u0txb1bg64oe) - Due by midnight on Friday 4/19
+- [Problem Set 6](https://nyu.box.com/s/1nrchup94my8crn3b43i7ds6mjmowdd2) - Due by midnight on Friday 5/3
 
 ChatGPT
 ======
