@@ -44,12 +44,12 @@ Syllabus
 
 Homework and Sample Questions
 ======
-Problem Set 1 - Due by midnight on Friday 2/9
-Problem Set 2 - Due by midnight on Friday 2/23
-Problem Set 3 - Due by midnight on Friday 3/8
-Problem Set 4 - Due by midnight on Friday 4/5
-Problem Set 5 - Due by midnight on Friday 4/19
-Problem Set 6 - Due by midnight on Friday 5/3
+- Problem Set 1 - Due by midnight on Friday 2/9
+- Problem Set 2 - Due by midnight on Friday 2/23
+- Problem Set 3 - Due by midnight on Friday 3/8
+- Problem Set 4 - Due by midnight on Friday 4/5
+- Problem Set 5 - Due by midnight on Friday 4/19
+- Problem Set 6 - Due by midnight on Friday 5/3
 
 ChatGPT
 ======
