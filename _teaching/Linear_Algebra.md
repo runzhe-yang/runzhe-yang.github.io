@@ -11,6 +11,7 @@ location: "New York"
 
 **Syllabus**: [pdf](https://2prime.github.io/files/LinearS24.pdf)
 
+
 - Formulate, solve, apply, and interpret systems of linear equations in several variables;
 - Compute with and classify matrices;
 - Master the fundamental concepts of abstract vector spaces;
@@ -33,11 +34,13 @@ If you have a question, to get a response from the teaching staff quickly we str
 
 For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours.
 
+ Free tutoring: [Math Department](https://math.nyu.edu/dynamic/undergrad/ba-cas/tutoring/), [University Learning Center](https://www.nyu.edu/students/academic-services/undergraduate-advisement/academic-resource-center/tutoring-and-learning/dropin-subjects.html)
+
 **Course grades:** The final course grade will be based on the following breakdown:
 - Attendance & Participation 5%
 - Quizzes 15%
 - Problem Sets 10%
-- Exams 70%
+- Exams 70% ( Midterm: 3/14, [Final Exam Scheldue](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/final-exams-and-course-evaluations/final-exam-schedule.html))
 
 Syllabus
 ======
