@@ -9,7 +9,7 @@ location: "New York"
 ---
 
 
-**Syllabus**: [pdf](https://2prime.github.io/files/LinearS24.pdf)
+**Syllabus**: [pdf](https://2prime.github.io/files/linear/LinearS24.pdf)
 
 
 - Formulate, solve, apply, and interpret systems of linear equations in several variables;
