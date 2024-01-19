@@ -58,12 +58,12 @@ Homework and Sample Questions
 
 **Problem Sets** Please make sure you submit one question per page and match correctly on Gradescope. Using latex is recommanded but not required. Latex baseic: [link](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
-- Problem Set 1[pdf](https://nyu.box.com/s/28zzdjvry33cdlku8jr7b5wzde4enzz6), [Latex](https://nyu.box.com/s/qyspmr0o2xynd1kquax2xwza64c481il) - Due by midnight on Friday 2/9
-- Problem Set 2[pdf](https://nyu.box.com/s/sdc6bgoc2sx1a3np24awudqbfn2ckrsa), [Latex](https://nyu.box.com/s/0eaviselsuk7tmcb1df6s7ospnsa0tnm) - Due by midnight on Friday 2/23
-- Problem Set 3[pdf](https://nyu.box.com/s/9yiupj6f4rlkds2x7pbbjqe7y1p1qt4e), [Latex](https://nyu.box.com/s/cryx9b99lnhrgwau7886y0anm2b2l7dl) - Due by midnight on Friday 3/8
-- Problem Set 4[pdf](https://nyu.box.com/s/rx5k6m755pi7e5gpcz0per8tqiie69ax), [Latex](https://nyu.box.com/s/3ibhs12iscmahvkyodm4rigztcsdr2mi) - Due by midnight on Friday 4/5
-- Problem Set 5[pdf](https://nyu.box.com/s/cbkc8abzxo8v6jcv8s14povuxildfa9d), [Latex](https://nyu.box.com/s/t8digsh1nxfit28gxum0u0txb1bg64oe) - Due by midnight on Friday 4/19
-- Problem Set 6[pdf](https://nyu.box.com/s/37o1xzvk3me22l1nkm3xe3qlxmzv0xyl), [Latex](https://nyu.box.com/s/1nrchup94my8crn3b43i7ds6mjmowdd2) - Due by midnight on Friday 5/3
+- Problem Set 1 [pdf](https://nyu.box.com/s/28zzdjvry33cdlku8jr7b5wzde4enzz6), [Latex](https://nyu.box.com/s/qyspmr0o2xynd1kquax2xwza64c481il) - Due by midnight on Friday 2/9
+- Problem Set 2 [pdf](https://nyu.box.com/s/sdc6bgoc2sx1a3np24awudqbfn2ckrsa), [Latex](https://nyu.box.com/s/0eaviselsuk7tmcb1df6s7ospnsa0tnm) - Due by midnight on Friday 2/23
+- Problem Set 3 [pdf](https://nyu.box.com/s/9yiupj6f4rlkds2x7pbbjqe7y1p1qt4e), [Latex](https://nyu.box.com/s/cryx9b99lnhrgwau7886y0anm2b2l7dl) - Due by midnight on Friday 3/8
+- Problem Set 4 [pdf](https://nyu.box.com/s/rx5k6m755pi7e5gpcz0per8tqiie69ax), [Latex](https://nyu.box.com/s/3ibhs12iscmahvkyodm4rigztcsdr2mi) - Due by midnight on Friday 4/5
+- Problem Set 5 [pdf](https://nyu.box.com/s/cbkc8abzxo8v6jcv8s14povuxildfa9d), [Latex](https://nyu.box.com/s/t8digsh1nxfit28gxum0u0txb1bg64oe) - Due by midnight on Friday 4/19
+- Problem Set 6 [pdf](https://nyu.box.com/s/37o1xzvk3me22l1nkm3xe3qlxmzv0xyl), [Latex](https://nyu.box.com/s/1nrchup94my8crn3b43i7ds6mjmowdd2) - Due by midnight on Friday 5/3
 
 ChatGPT
 ======
