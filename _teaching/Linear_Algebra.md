@@ -58,6 +58,8 @@ Homework and Sample Questions
 
 **Problem Sets** Please make sure you submit one question per page and match correctly on Gradescope. Using latex is recommanded but not required. Latex baseic: [link](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
+This [video](https://drive.google.com/file/d/14kDD71aLOqob6ScXUGEyFYcb7P5_kx1E/view?usp=sharing) explains how to upload to Gradescope, this [video](https://drive.google.com/file/d/1a11BB2dP9TzfbFTL05MOo20zE4UBLlLa/view?usp=sharing) shows what good and bad submissions are, and examples of good and bad scans are [here](https://drive.google.com/file/d/1iDuBj5pXcgm-BtMXZ5fhU8aewan3D3QY/view?usp=sharing).
+
 - Problem Set 1 [pdf](https://nyu.box.com/s/28zzdjvry33cdlku8jr7b5wzde4enzz6), [Latex](https://nyu.box.com/s/qyspmr0o2xynd1kquax2xwza64c481il) - Due by midnight on Friday 2/9
 - Problem Set 2 [pdf](https://nyu.box.com/s/sdc6bgoc2sx1a3np24awudqbfn2ckrsa), [Latex](https://nyu.box.com/s/0eaviselsuk7tmcb1df6s7ospnsa0tnm) - Due by midnight on Friday 2/23
 - Problem Set 3 [pdf](https://nyu.box.com/s/9yiupj6f4rlkds2x7pbbjqe7y1p1qt4e), [Latex](https://nyu.box.com/s/cryx9b99lnhrgwau7886y0anm2b2l7dl) - Due by midnight on Friday 3/8
