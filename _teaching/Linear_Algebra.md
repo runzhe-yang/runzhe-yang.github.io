@@ -49,7 +49,7 @@ Gilbert Strang's course video: [link](https://ocw.mit.edu/courses/18-06-linear-a
 - Lecture 1, Strang Sections 1.1 and 1.2 (Vector space, dot product) ,1/22 [[slide]](https://2prime.github.io/files/linear/linearslide1.pdf) [annotated note]
 - Lecture 2, Strang Sections 1.2 and 1.3 (Span, Matrices, Linear Dependence and Independence), 1/24 [[slide]](https://2prime.github.io/files/linear/linearslide2.pdf) [annotated note]
 - Lecture 3, Strang Sections 2.1 and 2.2 (Linear Systems, The Idea of Elimination), 1/29 [[slide]](https://2prime.github.io/files/linear/linearslide3.pdf) [annotated note]
-- Lecture 4, Strang Sections 2.3 and 2.4 (Elimination, Matrix Operations), 1/32 [[slide]](https://2prime.github.io/files/linear/linearslide4.pdf) [annotated note] [Cheat Sheet on matrix operations]
+- Lecture 4, Strang Sections 2.3 and 2.4 (Elimination, Matrix Operations), 1/31 [[slide]](https://2prime.github.io/files/linear/linearslide4.pdf) [annotated note] [Cheat Sheet on matrix operations]
 
 
 Homework and Sample Questions
