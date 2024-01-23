@@ -24,8 +24,8 @@ Logistics
 ======
 
 **Time and Location**: Monday and Wednesday
--  9:30 - 10:45 at RGSH 203 (Brooklyn)
--  3:30 - 4:45 at 19 West 4th Street 101 (Washington Square)
+-  9:30 - 10:45 at RGSH 203 (Brooklyn) (Final: [TBD](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/final-exams-and-course-evaluations/final-exam-schedule.html))
+-  3:30 - 4:45 at 19 West 4th Street 101 (Washington Square) (Final: Mon 5/13 2pm-3:50pm)
 
 **Office Hour**:
 - 2:00 - 3:00 Monday [campuswire](https://campuswire.com/p/G3AA19786), Course code see brightspace
@@ -45,7 +45,7 @@ For longer discussions with TAs and to get help in person, we strongly encourage
 - Attendance & Participation 5%
 - Quizzes 15%
 - Problem Sets 10%
-- Exams 70% ( Midterm: 3/14, [Final Exam Scheldue](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/final-exams-and-course-evaluations/final-exam-schedule.html))
+- Exams 70% ( Midterm: 3/14, Final Exam: See time and location)
 
 Syllabus
 ======
