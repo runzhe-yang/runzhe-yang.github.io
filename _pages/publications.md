@@ -43,7 +43,7 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 - Zichao Long, **Yiping Lu**, Bin Dong. " [PDE-Net 2.0: Learning PDEs from Data with A Numeric-Symbolic Hybrid Deep Network](https://arxiv.org/pdf/1812.04426)" Journal of Computational Physics, 399, 108925, 2019. 
 
-- Xiaoshuai Zhang*, **Yiping Lu** *, Jiaying Liu, Bin Dong. "[Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration](https://arxiv.org/pdf/1805.07709)" Seventh International Conference on Learning Representations(ICLR) 2019(*equal contribution) 
+- Xiaoshuai Zhang\*, **Yiping Lu** *, Jiaying Liu, Bin Dong. "[Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration](https://arxiv.org/pdf/1805.07709)" Seventh International Conference on Learning Representations(ICLR) 2019(*equal contribution) 
 
 - Zichao long\*, **Yiping Lu** \*, Xianzhong Ma\*, Bin Dong. "[PDE-Net:Learning PDEs From Data](https://arxiv.org/pdf/1710.09668)", Thirty-fifth International Conference on Machine Learning (ICML), 2018(*equal contribution)
 
