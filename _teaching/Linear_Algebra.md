@@ -31,9 +31,9 @@ Logistics
 - 2:00 - 3:00 Monday [campuswire](https://campuswire.com/p/G3AA19786), Course code see brightspace
 
 **TA Office Hour:**
-- 2:00 - 3:00 Wednsday office 868,2 MTC, by Ao
-- 3:00 - 5:00 in WWH 524 by Adithya
-- by Animesh
+- 2:00 - 3:00 Wednsday, 868,2 MTC, by Ao
+- 3:00 - 5:00 Thursday, 524 WWH, by Adithya
+- TBD, by Animesh
  
 If you have a question, to get a response from the teaching staff quickly we strongly encourage you to post it to the class Piazza forum. For suggestions to improve Yiping's teaching, you can use the [(anonymous) form](https://forms.gle/Dtw6PRFdnbk8NQWRA). You can also leave a private matter here. If you wish to contact me via email, kindly include the tag "[linear algebra]" in the subject line. This will help ensure that I do not overlook your message.
 
