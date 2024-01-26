@@ -58,6 +58,11 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5)
 - Lecture 3, Strang Sections 2.1 and 2.2 (Matrices, Linear Systems), 1/29 [[slide]](https://2prime.github.io/files/linear/linearslide3.pdf) [annotated note] [Cheat Sheet 1 on matrix operations]
 - Lecture 4, Strang Sections 2.1 and 2.2 (Linear Systems, Linear Dependence and Independence), 1/31 [[slide]](https://2prime.github.io/files/linear/linearslide4.pdf) [annotated note] 
 
+Recitation
+======
+Quiz on gradescope
+- February 2nd, [Recitation 1](https://nyu.app.box.com/s/tqsdxz9c3tr3awjqltxrhl4q7qvka4ix), Quiz 1 due on Sunday covers Vector space, Span, Matrices and Linear (in)dependence.
+- Februry 9th, [Recitation 2](https://nyu.app.box.com/s/ne80i4v8km0uu0mp8g3364kz02odkbjk), Quiz 2 due on Sunday covers
 
 Homework and Sample Questions
 ======
