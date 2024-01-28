@@ -28,7 +28,7 @@ Logistics
 -  3:30 - 4:45 at 19 West 4th Street 101 (Washington Square) (Final: Mon 5/13 2pm-3:50pm)
 
 **Office Hour**:
-- 10:45 - 11:45 room 870, 2 MTC
+- 10:45 - 11:45 Monday room 870, 2 MTC
 - 2:00 - 3:00 Monday [campuswire](https://campuswire.com/p/G3AA19786), Course code see brightspace
 
 **TA Office Hour:**
