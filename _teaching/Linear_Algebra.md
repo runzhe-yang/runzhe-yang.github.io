@@ -56,7 +56,7 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5)
 
 - Lecture 1, Strang Sections 1.1 and 1.2 (Vector space, dot product) ,1/22 [[slide]](https://2prime.github.io/files/linear/linearslide1.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide1filled.pdf)
 - Lecture 2, Strang Sections 1.2 and 1.3 (Recap of vector space, Span), 1/24 [[slide]](https://2prime.github.io/files/linear/linearslide2.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide2filled.pdf)
-- Lecture 3, Strang Sections 2.1 and 2.2 (Matrices, Linear Systems), 1/29 [[slide]](https://2prime.github.io/files/linear/linearslide3.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide3filled.pdf) 
+- Lecture 3, Strang Sections 2.1 and 2.2 (Matrices, Linear Systems), 1/29 [[slide]](https://2prime.github.io/files/linear/linearslide3.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide3filled.pdf) [[matrix vector multiplication]](https://2prime.github.io/files/linear/matrixvector.pdf)
 - Lecture 4, Strang Sections 2.1 and 2.2 (Linear Systems, Linear Dependence and Independence), 1/31 [[slide]](https://2prime.github.io/files/linear/linearslide4.pdf) [annotated note] 
 
 Recitation
