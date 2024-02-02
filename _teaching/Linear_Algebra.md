@@ -64,8 +64,9 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5)
 Recitation
 ======
 Quiz on gradescope
-- February 2nd, [Recitation 1](https://nyu.app.box.com/s/tqsdxz9c3tr3awjqltxrhl4q7qvka4ix), Quiz 1 due on Sunday covers Vector space, Span, Matrices and Linear (in)dependence.
+- February 2nd, [Recitation 1](https://nyu.app.box.com/s/tqsdxz9c3tr3awjqltxrhl4q7qvka4ix), Quiz 1 due on Sunday covers Vector space, Span, Matrices and Linear (in)dependence. [(Recitation1 Solution)](https://2prime.github.io/files/linear/recitation1_sol.pdf)
 - Februry 9th, [Recitation 2](https://nyu.app.box.com/s/ne80i4v8km0uu0mp8g3364kz02odkbjk), Quiz 2 due on Sunday covers
+- Februry 16th, [Recitation 3](https://nyu.app.box.com/s/gvoso2vbzobxk43xkkelwis9mdqea6jf), Quiz 3 due on Sunday covers
 
 Homework and Sample Questions
 ======
