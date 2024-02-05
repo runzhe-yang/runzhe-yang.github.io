@@ -36,7 +36,7 @@ Logistics
 - 3:00 - 5:00 Thursday, 524 WWH, by Adithya
 - 9:30 AM - 10:30 AM Thusday and 12 PM - 1 PM Friday, 228 WWH 228, by Animesh
 
-**ChatGPT Tutor Specifically Trained for this Course**: [link](https://chat.openai.com/g/g-b4AcPzk7L-linear-algebra-tutor-nyu)
+**ChatGPT Tutor**: The [link](https://chat.openai.com/g/g-b4AcPzk7L-linear-algebra-tutor-nyu) here provides a Large Language Model agents that is specifically trained for this course.
  
 If you have a question, to get a response from the teaching staff quickly we strongly encourage you to post it to the class Piazza forum. For suggestions to improve Yiping's teaching, you can use the [(anonymous) form](https://forms.gle/Dtw6PRFdnbk8NQWRA). You can also leave a private matter here. If you wish to contact me via email, kindly include the tag "[linear algebra]" in the subject line. This will help ensure that I do not overlook your message.
 
