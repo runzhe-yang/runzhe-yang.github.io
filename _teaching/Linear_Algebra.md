@@ -24,8 +24,8 @@ Logistics
 ======
 
 **Time and Location**: Monday and Wednesday
--  9:30 - 10:45 at RGSH 203 (Brooklyn) (Final: [TBD](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/final-exams-and-course-evaluations/final-exam-schedule.html))
--  3:30 - 4:45 at 19 West 4th Street 101 (Washington Square) (Final: Mon 5/13 2pm-3:50pm)
+-  9:30 - 10:45 at RGSH 203 (Brooklyn) (Final: [TBD](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/final-exams-and-course-evaluations/final-exam-schedule.html)) (Midterm: 3/13/2024 in class, Final: Mon 05/13/2024 8:00AM-10:00AM)
+-  3:30 - 4:45 at 19 West 4th Street 101 (Washington Square) (Midterm: 3/13/2024 in class, Final: Mon 05/13/2024 2:00pm-3:50pm)
 
 **Office Hour**:
 - 10:45 - 11:45 Monday, Wednsday room 870, 2 MTC
@@ -38,7 +38,7 @@ Logistics
 
 **ChatGPT Tutor**: The [link](https://chat.openai.com/g/g-b4AcPzk7L-linear-algebra-tutor-nyu) here provides a Large Language Model agents that is specifically trained for this course.
  
-If you have a question, to get a response from the teaching staff quickly we strongly encourage you to post it to the class Piazza forum. For suggestions to improve Yiping's teaching, you can use the [(anonymous) form](https://forms.gle/Dtw6PRFdnbk8NQWRA). You can also leave a private matter here. If you wish to contact me via email, kindly include the tag "[linear algebra]" in the subject line. This will help ensure that I do not overlook your message.
+If you have a question, to get a response from the teaching staff quickly we strongly encourage you to post it to the class Piazza forum. For suggestions to improve Yiping's teaching, you can use the [(anonymous) form](https://forms.gle/Dtw6PRFdnbk8NQWRA). You can also leave a private matter here. If you wish to contact me via email, kindly include the tag "[Linear Algebra]" in the subject line. This will help ensure that I do not overlook your message.
 
 For longer discussions with TAs and to get help in person, we strongly encourage you to come to office hours.
 
