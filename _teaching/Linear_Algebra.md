@@ -24,7 +24,7 @@ Logistics
 ======
 
 **Time and Location**: Monday and Wednesday
--  9:30 - 10:45 at RGSH 203 (Brooklyn) (Final: [TBD](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation/final-exams-and-course-evaluations/final-exam-schedule.html)) (Midterm: 3/13/2024 in class, Final: Mon 05/13/2024 8:00AM-10:00AM)
+-  9:30 - 10:45 at RGSH 203 (Brooklyn) (Midterm: 3/13/2024 in class, Final: Mon 05/13/2024 8:00AM-10:00AM)
 -  3:30 - 4:45 at 19 West 4th Street 101 (Washington Square) (Midterm: 3/13/2024 in class, Final: Mon 05/13/2024 2:00pm-3:50pm)
 
 **Office Hour**:
@@ -67,8 +67,8 @@ Recitation
 ======
 Quiz on gradescope
 - February 2nd, [Recitation 1](https://nyu.app.box.com/s/tqsdxz9c3tr3awjqltxrhl4q7qvka4ix), Quiz 1 due on Sunday covers Vector space, Span, Matrices and Linear (in)dependence. [(Recitation1 Solution)](https://2prime.github.io/files/linear/recitation1_sol.pdf)
-- Februry 9th, [Recitation 2](https://nyu.app.box.com/s/ne80i4v8km0uu0mp8g3364kz02odkbjk), Quiz 2 due on Sunday covers linear system,elimination, matrix operation, elimination matrix, permutation matrix
-- Februry 16th, [Recitation 3](https://nyu.app.box.com/s/gvoso2vbzobxk43xkkelwis9mdqea6jf), Quiz 3 due on Sunday covers
+- Februry 9th, [Recitation 2](https://nyu.app.box.com/s/ne80i4v8km0uu0mp8g3364kz02odkbjk),[(Recitation1 Solution)]()
+- Februry 16th, [Recitation 3](https://nyu.app.box.com/s/gvoso2vbzobxk43xkkelwis9mdqea6jf), Quiz 2 due on Sunday covers linear system,elimination, matrix operation, elimination matrix, permutation matrix
 
 Homework and Sample Questions
 ======
