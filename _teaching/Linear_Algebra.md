@@ -62,13 +62,16 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5)
 - Lecture 4, Strang Sections 2.1 and 2.2 (Linear Systems, Linear Dependence and Independence), 1/31 [[slide]](https://2prime.github.io/files/linear/linearslide4.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide4filled.pdf)
 - Lecture 5, Strang Sections 2.1 and 2.4 (Linear Systems, Matrix Operations), 2/5 [[slide]](https://2prime.github.io/files/linear/linearslide5.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide5filled.pdf) [[Animation]](http://matrixmultiplication.xyz/) [[Gilbert Strang's Video 1]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-1-the-geometry-of-linear-equations/) [[Gilbert Strang's Video 3]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-3-multiplication-and-inverse-matrices/) 
 - Lecture 6, Strang Section 2.2 and 2.3 (Elimination, Elimination using Matrices), 2/7 [[slide]](https://2prime.github.io/files/linear/linearslide6.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide6filled.pdf) [[Gilbert Strang's Video 2]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-2-elimination-with-matrices/)
+- Lecture 7, Review and Section 2.5 (Review and Inverse Matrix), 2/11 [[slide]](https://2prime.github.io/files/linear/linearslide7.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide7filled.pdf) [[Gilbert Strang's Video 3]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-3-multiplication-and-inverse-matrices/) 
+- Lecture 8, Section 2.5 and 2.6 (Inverse matrix and LU Decomposition), 2/13 [[slide]](https://2prime.github.io/files/linear/linearslide8.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide8filled.pdf) [[Gilbert Strang's Video 4]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-4-factorization-into-a-lu/)
 
 Recitation
 ======
 Quiz on gradescope
-- February 2nd, [Recitation 1](https://nyu.app.box.com/s/tqsdxz9c3tr3awjqltxrhl4q7qvka4ix), Quiz 1 due on Sunday covers Vector space, Span, Matrices and Linear (in)dependence. [(Recitation1 Solution)](https://2prime.github.io/files/linear/recitation1_sol.pdf)
-- Februry 9th, [Recitation 2](https://nyu.app.box.com/s/ne80i4v8km0uu0mp8g3364kz02odkbjk),[(Recitation1 Solution)]()
-- Februry 16th, [Recitation 3](https://nyu.app.box.com/s/gvoso2vbzobxk43xkkelwis9mdqea6jf), Quiz 2 due on Sunday covers linear system,elimination, matrix operation, elimination matrix, permutation matrix
+- Feb 2nd, [Recitation 1](https://nyu.app.box.com/s/tqsdxz9c3tr3awjqltxrhl4q7qvka4ix), Quiz 1 due on Sunday covers Vector space, Span, Matrices and Linear (in)dependence. [(Recitation1 Solution)](https://2prime.github.io/files/linear/recitation1_sol.pdf)
+- Feb 9th, [Recitation 2](https://nyu.app.box.com/s/ne80i4v8km0uu0mp8g3364kz02odkbjk),[(Recitation1 Solution)]()
+- Feb 16th, [Recitation 3](https://nyu.app.box.com/s/gvoso2vbzobxk43xkkelwis9mdqea6jf), Quiz 2 due on Sunday covers linear system,elimination, matrix operation, elimination matrix, permutation matrix
+- Fe 23th, [Recitation 4](https://nyu.app.box.com/s/mawjhnd3px4lgnssb60qmgih350zky06)
 
 Homework and Sample Questions
 ======
