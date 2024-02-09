@@ -116,6 +116,7 @@ author:
   youtube          : "https://www.youtube.com/channel/UCImue1V2lJc6eMo9srzv83A"
   wikipedia        :
 
+version: v1.2.0
 
 # Reading Files
 include:
