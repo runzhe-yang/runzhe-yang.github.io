@@ -64,9 +64,14 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5)
 - Lecture 6, Strang Section 2.2 and 2.3 (Elimination, Elimination using Matrices), 2/7 [[slide]](https://2prime.github.io/files/linear/linearslide6.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide6filled.pdf) [[Gilbert Strang's Video 2]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-2-elimination-with-matrices/)
 - Lecture 7, Review and Strang Section 2.5 (Review and Inverse Matrix), 2/11 [[slide]](https://2prime.github.io/files/linear/linearslide7.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide7filled.pdf) [[Gilbert Strang's Video 3]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-3-multiplication-and-inverse-matrices/) 
 - Lecture 8, Strang Section 2.5 and 2.6 (Inverse matrix and LU Decomposition), 2/13 [[slide]](https://2prime.github.io/files/linear/linearslide8.pdf) [[annotated note]](https://2prime.github.io/files/linear/linearslide8filled.pdf) [[Gilbert Strang's Video 4]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-4-factorization-into-a-lu/)
-- Lecture 9, No Class
-- Lecture 10, Strang Section 2.6 and 2.7 (LDU, LDL Decomposition, Transposes and Permutations)
-- Lecture 11,Strang Sections 3.1 and 3.2 (Spaces of Vectors, Nullspace)
+- Lecture 9, No Class, 2/19
+- Lecture 10, Strang Section 2.6 (LU, LDU, LDL Decomposition), 2/21
+- Lecture 11,Strang Sections 2.7 and 3.1 (Transposes and Permutations, Spaces of Vectors), 2/26
+- Lectrue 12, Strang Sections 3.2 and 3.3 (Nullspace, The Complete Solutions), 2/28
+- Lectrue 13, Strang Section 3.4 (Independence, Basis and Dimension) 3/4
+- Lectrue 14, Strang Section 3.5 (Dimensions of the Four Subspaces) 3/6
+- Lectrue 15, Strang Section 4.1 and 4.2 (Orthogonality of the Four Subspaces, Projection) 3/11
+- Lectrue 16, Midterm, 3/13
 
 Recitation
 ======
