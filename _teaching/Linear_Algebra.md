@@ -70,7 +70,7 @@ Cheat Sheet: [[link]](https://www.overleaf.com/read/jjbswyyqvzdx#8803d5)
 - Lectrue 12, Strang Sections 3.2 and 3.3 (Nullspace, The Complete Solutions), 2/28 [[Gilbert Strang's Video 6]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-6-column-space-and-nullspace/) [[Gilbert Strang's Video 7]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-7-solving-ax-0-pivot-variables-special-solutions/) [[Gilbert Strang's Video 8]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-8-solving-ax-b-row-reduced-form-r/)
 - Lectrue 13, Strang Section 3.4 (Independence, Basis and Dimension) 3/4   [[Gilbert Strang's Video 9]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-9-independence-basis-and-dimension/)
 - Lectrue 14, Strang Section 3.5 (Dimensions of the Four Subspaces) 3/6 [[Gilbert Strag's Video 10]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-11-matrix-spaces-rank-1-small-world-graphs/)
-- Lectrue 15, Strang Section 4.1 and 4.2 (Orthogonality of the Four Subspaces, Projection) 3/11 [[Gilbert Strag's Video 14]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-14-orthogonal-vectors-and-subspaces/)
+- Lectrue 15, Strang Section 4.1 and 4.2 (Orthogonality of the Four Subspaces, Projection) 3/11 [[Gilbert Strag's Video 14]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-14-orthogonal-vectors-and-subspaces/) [[Gilbert Strag's Video 15]](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/resources/lecture-15-projections-onto-subspaces/)
 - Lectrue 16, Midterm, 3/13
 
 Recitation
