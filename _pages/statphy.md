@@ -36,11 +36,11 @@ redirect_from:
 
 [Ⅰ. General Theory of Poisson Process](../files/ri/1.pdf)
 
-[Ⅱ. Discrete Time Random Interlacement: Existence, Properties and Stochastic Domination](../files/ri/2.pdf)
+[Ⅱ. Discrete Time RW Random Interlacement: Existence, Properties and Stochastic Domination](../files/ri/2.pdf)
 
-[Ⅲ. Discrete Time Random Interlacement Point Process: Construction and Properties](../files/ri/3.pdf)
+[Ⅲ. Discrete Time RW Random Interlacement Point Process: Construction and Properties](../files/ri/3.pdf)
 
-[Ⅳ. Percolation of Vacant Sets on Discrete Time Random Interlacements](../files/ri/4.pdf)
+[Ⅳ. Percolation of Vacant Sets on Discrete Time RW Random Interlacements](../files/ri/4.pdf)
 
 [Ⅴ. Continuous Time Brownian Random Interlacement: Brownian Capacity, Construction and Properties, Occupation Time and its Scaling Limit](../files/ri/5.pdf)
 
@@ -88,7 +88,7 @@ redirect_from:
 
 [Ⅲ. Continuous Time RW Loops: Rooted Loops, Pointed Loops and Unrooted Loops](../files/otgff/3.pdf)
 
-[Ⅳ. Poisson Gas of Continuous Time Loops: Occupation Fields, Representation Formula and Connection with Random Interlacements](../files/otgff/4.pdf)
+[Ⅳ. Poisson Gas of Continuous Time RW Loops: Occupation Fields, Representation Formula and Connection with Random Interlacements](../files/otgff/4.pdf)
 
 [Ⅴ. Discrete Time RW Loops and its Poisson Ensembles: Properties, Excursion Decomposition and Occupation Fields](../files/otgff/5.pdf)
 
