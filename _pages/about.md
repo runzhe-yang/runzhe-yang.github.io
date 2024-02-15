@@ -14,13 +14,13 @@ Short Bio
 
 My name is **Yang, Runzhe (杨润哲)**. The Chinese character “润” means nourishing or abundant, while “哲” was chosen by my parents with the hope that I would always think rationally and calmly.
 
-I am now a fourth-year undergraduate student at the *[School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/index.htm)*, *[Wuhan University](https://en.whu.edu.cn/)*, majoring in Statistics and Probability, on the way of being a probabilist.
+I am now a fourth-year undergraduate student at *[the School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/index.htm)*, *[Wuhan University](https://en.whu.edu.cn/)*, majoring in Statistics and Probability, on the way of being a probabilist.
 
 I was born in Chaoshan region and grew up in Huizhou, Guangdong in Southern China.
 
 **My primary research interests lie in the area involving Probability and Analysis.**
 
-See my [CV](../files/cv.pdf) here.
+See my CV [here](../files/cv.pdf).
 
 Education
 ===
