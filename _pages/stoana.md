@@ -9,8 +9,68 @@ redirect_from:
 
 *“il cessa de calculer et de vivre.” ― Marquis de Condorcet*
 
-Mathematical Finance (2023)
-References: [1].Mathematical Finance, N. H. Bingham (primary) [2].Mathematical Finance, Steve Lalley [3].Lectures on Malliavin calculus and its applications to finance, Eulalia Nualart
+
+*Malliavin Calculus (2023)*
+===
+*References: [1].[An Introduction to Malliavin Calculus](https://www.uni-ulm.de/fileadmin/website_uni_ulm/mawi.inst.020/kunze/malliavin/Malliavin_skript.pdf) , Markus Kunze (primary) [2].[Introduction to Malliavin Calculus](https://www.hairer.org/notes/Malliavin.pdf), M. Hairer*
+
+[Ⅰ. Wiener Chaos and its Decomposition](../files/mc/1.pdf)
+
+[Ⅱ. Malliavin Derivative: Properties, Divergence Operator and Ornstein-Uhlenbeck Semigroup](../files/mc/2.pdf)
+
+[Ⅲ. Stochastic Calculus: Mutiple Wiener Integrals, Calculus for White Noise and Ito Integrals](../files/mc/3.pdf)
+
+[Ⅳ. Smoothness of Probability Laws: Absolutely Continuous, Smoothness, SDEs and Hormander’s THM](../files/mc/4.pdf)
+
+*Stochastic Partial Differential Equations (2023)*
+===
+
+*References:[1] [An Introduction to Stochastic PDEs](https://www.hairer.org/SPDEs.pdf), Martin Hairer [2] Stochastic Partial Differential Equation, Étienne Pardoux*
+
+[Ⅰ.Gaussian Measure Theory: Cameron-Martin Space, Image of Gaussian Measures and Cylindrical Wiener Processes](../files/spde/1.pdf)
+
+[Ⅱ. Linear SPDEs: Ito Calculus in Hilbert spce, Regularity of Solutions and its Long Time Behaviors](../files/spde/2.pdf)
+
+[Ⅲ. Semilinear SPDEs: Existence and Uniqueness, Sobolev Embedding and Some Examples](../files/spde/3.pdf)
+
+[Ⅳ. SPDEs Driven by Space-Time White Noises and Super Brownian Motions](../files/spde/4.pdf)
+
+
+*Diffusive Processes and its Applications (2022)*
+===
+
+*Reference: Stochastic Differential Equations, Øksendal B.*
+
+[Ⅰ.Ito Integral and Ito Process](../files/sde/1.pdf)
+
+[Ⅱ.Example:Filtering Problem](../files/sde/2.pdf)
+
+[Ⅲ.Diffusion Process: Properties, Generators, Feynman-Kac Formula, Mart. Problem, Random Time Change, Girsanov THM of Diffusions](../files/sde/3.pdf)
+
+[Ⅳ.Boundary Value Problem: Poisson-Dirichlet Problem](../files/sde/5.pdf)
+
+[Ⅴ.Optimal Stopping](../files/sde/6.pdf)
+
+[Ⅵ.Application in Stochastic Control: HJB Equations and Terminal Conditions](../files/sde/7.pdf)
+
+[Ⅶ.Application in Finance: Attainable and Complete, Option Pricing](../files/sde/8.pdf)
+
+[Complement: Stationary Distribution of Diffusions](../files/sde/4.pdf)
+
+*Mathematical Finance (2023)*
+===
+
+*References: [1].[Mathematical Finance](https://www.ma.ic.ac.uk/~bin06/M3A22/), N. H. Bingham (primary) [2].[Mathematical Finance](https://galton.uchicago.edu/~lalley/Courses/390/index.html), Steve Lalley [3].[Lectures on Malliavin calculus and its applications to finance](https://people.math.wisc.edu/~tgkurtz/NualartLectureNotes.pdf), Eulalia Nualart*
+
+[Ⅰ. Economic Background](../files/mafin/1.pdf)
+
+[Ⅱ. Finance in Discrete Time: Arbitrage, Completeness, Discrete Time Black-Scholes Model and Option](../files/mafin/2.pdf)
+
+[Ⅲ. Finance in Continuous Time: GBMs, Black-Scoles Model and BS PDE, Barrier Option and CM Formula](../files/mafin/3.pdf)
+
+[Ⅳ. Insurance Math: Ruin Problem](../files/mafin/4.pdf)
+
+[Ⅴ.Foregin Exchange](../files/mafin/5.pdf)
 
 *Stochastic Calculus (2022)*
 ===
