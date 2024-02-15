@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: " "
-excerpt: "Runzhe Yang 杨润哲"
 author_profile: True
 redirect_from: 
   - /about/
@@ -56,9 +55,13 @@ Contact
 
 > “Silenc1o” is “Silencio”, a word in Spanish, which means silence in English. Using this word is motivated from a fancing scene in one movie called Mulholland Drive, directed by David Lynch.
 
-
-
-<a href='https://clustrmaps.com/site/1bvf5'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=RjSLE6Qs1sYxpYNHy1GLYhM5L0JIdHwXcQNSgaPTNRg&co=ffffff&ct=ffffff'/></a>
-
-
-<a href="https://info.flagcounter.com/NYhr"><img src="https://s01.flagcounter.com/map/NYhr/size_m/txt_000000/border_0F0E0F/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
