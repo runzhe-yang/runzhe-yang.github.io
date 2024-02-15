@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiping Lu"
+title                    : "Runzhe Yang 杨润哲"
 title_separator          : "-"
-name                     : &name "Yiping Lu"
+name                     : &name "Runzhe Yang 杨润哲"
 description              : &description "personal description"
-url                      : https://ReinyYang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://runzhe-yang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ReinyYang/ReinyYang.github.io"
+repository               : "runzhe-yang/runzhe-yang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yiping Lu"
-  avatar           : "profile.png"
-  bio              : "Machine Learning, Numerical Algorithms, Applied Probability"
-  location         : #"Location"
-  employer         : "Courant Instructor, <br>Incoming AP @Northwestern IEMS"
+  name             : "Runzhe Yang 杨润哲"
+  avatar           : "profile4.JPG"
+  bio              : "Undergraduate at Wuhan University (WHU)"
+  location         : "299 Luojia Hill Rd., Wuchang District, Wuhan, Hubei, China, 430061"
+  employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=NmhvVBgAAAAJ"
-  email            : "yiping.lu@northwestern.edu"
-  researchgate     : "https://www.researchgate.net/profile/Yiping-Lu-5"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "runzheyang2020@whu.edu.cn"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "runzhe-yang"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/yrzreiny"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCImue1V2lJc6eMo9srzv83A"
+  youtube          :
   wikipedia        :
 
 
