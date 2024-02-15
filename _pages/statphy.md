@@ -32,7 +32,7 @@ redirect_from:
 *Random Interlacements (2023)*
 ===
 
-*Reference:[1].An Introduction to Random Interlacements, A. Drewitz , B. Ráth , A. Sapozhnikov [2]. [Vacacnt Set of Random Interlacements and Percolation](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2010_interlacements.pdf), A. Sznitman [3].[Lectures on the Poisson Process](https://www.math.kit.edu/stoch/~last/seite/lectures_on_the_poisson_process/media/lastpenrose2017.pdf), Gunter Last, Mathew Penrose*
+*Reference:[1].An Introduction to Random Interlacements, A. Drewitz , B. Ráth , A. Sapozhnikov [2]. [Vacacnt Set of Random Interlacements and Percolation](https://ethz.ch/content/dam/ethz/special-interest/math/department/Research/Research_Groups/Sznitman/Publications/2010_interlacements.pdf), A. Sznitman [3].[Lectures on the Poisson Process](https://www.math.kit.edu/stoch/~last/seite/lectures_on_the_poisson_process/media/lastpenrose2017.pdf), Gunter Last, Mathew Penrose [4]. [On scaling limits and Brownian interlacements](https://arxiv.org/abs/1209.4531), Alain-Sol Sznitman [5].[Percolative Properties of Brownian Interlacements and Its Vacant Set](https://arxiv.org/abs/1610.08204), Xinyi Li*
 
 [Ⅰ. General Theory of Poisson Process](../files/ri/1.pdf)
 
@@ -41,6 +41,8 @@ redirect_from:
 [Ⅲ. Discrete Time Random Interlacement Point Process: Construction and Properties](../files/ri/3.pdf)
 
 [Ⅳ. Percolation of Vacant Sets on Discrete Time Random Interlacements](../files/ri/4.pdf)
+
+[Ⅴ. Continuous Time Brownian Random Interlacement: Brownian Capacity, Construction and Properties, Occupation Time and its Scaling Limit](../files/ri/5.pdf)
 
 *Bernoulli Percolation in Z^d (2024)*
 ===
