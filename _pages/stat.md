@@ -78,3 +78,16 @@ redirect_from:
 [Complement: Fisher Information](../files/si/8.pdf)
 
 [Complement: Examine Statistical model](../files/si/9.pdf)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
