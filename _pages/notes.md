@@ -25,3 +25,17 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn’t unt
 - **[Statistics Related](../_pages/stat.md) :** *Multivariate Statistics, Linear Model and Regression, Mathematical Statistics*
 
 - **[Basic Courses](../_pages/basic.md) :** *Real Analysis, Complex Analysis, Differential Manifolds, ODEs, General Topology, Abstract Algebra*
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
