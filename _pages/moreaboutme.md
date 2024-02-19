@@ -94,10 +94,6 @@ It seems that I’m an INTJ-A/INTJ-T.
 
 > People like to treat their daily lives as a theatrical stage, playing the roles that society expects of them in certain situations, as posited by Erving Goffmana, one sociologist.
 
-
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
