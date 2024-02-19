@@ -319,12 +319,6 @@ Some Selected Works
     <p> </p>
 </center>
 
-
-
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
