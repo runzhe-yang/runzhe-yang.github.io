@@ -37,6 +37,3 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn’t unt
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
