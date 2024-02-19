@@ -61,4 +61,3 @@ Q7: What's the dual space of *R^∞* equipped with box topology?
 <br>
 <br>
 <br>
-<br>
