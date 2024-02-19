@@ -111,9 +111,6 @@ redirect_from:
 
 [Complement: Poisson Clumping Heuristic](../files/apsp/11.pdf)
 
-
-
-<br>
 <br>
 <br>
 <br>
