@@ -87,7 +87,7 @@ redirect_from:
 
 [Ⅴ.General Theory of Markov Process](../files/sc/5.pdf)
 
-
+<br>
 <br>
 <br>
 <br>
