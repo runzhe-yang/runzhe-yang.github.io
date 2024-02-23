@@ -7,9 +7,11 @@ redirect_from:
   - /notes
 ---
 
+*"Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein." -- Friedrich Nietzsche*
+
 *Harmonic Analysis (2022)*
 ===
-*References: [1] Fourier analysis, Javier Duoandikoetxea (primary) [2] Functional Analysis: Introduction to Further Topics in Analysis, Elias M. Stein, Rami Shakarchi [3]Fourier analysis: an introduction, Elias M. Stein, Rami Shakarchi [4]Classical Fourier analysis, Loukas Grafakos [5] Modern Fourier analysis, Loukas Grafakos*
+*References: [1] Fourier analysis, Javier Duoandikoetxea (primary) [2] Functional Analysis: Introduction to Further Topics in Analysis, Elias M. Stein, Rami Shakarchi [3] Fourier analysis: an introduction, Elias M. Stein, Rami Shakarchi [4] Classical Fourier analysis, Loukas Grafakos [5] Modern Fourier analysis, Loukas Grafakos*
 
 [Ⅰ.Fourier Series and Integral](../files/ha/1.pdf)
 
@@ -31,7 +33,7 @@ redirect_from:
 
 *Multidimensional Complex Analysis (2023)*
 ===
-*References: [1]. [Lecture notes on multidimensional complex analysis](https://haroldpboas.gitlab.io/courses/650-2019c/), Harold P. Boas [2].多元复分析, 涂振汉*
+*References: [1] [Lecture notes on multidimensional complex analysis](https://haroldpboas.gitlab.io/courses/650-2019c/), Harold P. Boas [2] 多元复分析, 涂振汉*
 
 [Ⅰ. Multivariate Holomorphics: Properties, Complex Submanifolds, Injective Holomorphic, Biholomorphics on Domains](../files/mca/1.pdf)
 
@@ -48,7 +50,7 @@ redirect_from:
 *Partial Differential Equations (2022)*
 ===
 
-*References:[1]Partial Differential Equations, Lawrence C. Evans [2]Functional Analysis, Sobolev Spaces and Partial Differential Equations, Haim Brezis*
+*References:[1] Partial Differential Equations, Lawrence C. Evans [2] Functional Analysis, Sobolev Spaces and Partial Differential Equations, Haim Brezis*
 
 [Ⅰ.Preliminary](../files/pde/1.pdf)
 
@@ -67,7 +69,7 @@ redirect_from:
 *(Linear) Functional Analysis (2022)*
 ===
 
-*References:[1]Functional Analysis, Sobolev Spaces and Partial Differential Equations, Haim Brezis [2] Principles of Functional Analysis, Martin Schechter [3]Functional analysis, Peter D. Lax*
+*References:[1] Functional Analysis, Sobolev Spaces and Partial Differential Equations, Haim Brezis [2] Principles of Functional Analysis, Martin Schechter [3] Functional analysis, Peter D. Lax*
 
 [Ⅰ.Linear Space: Hahn-Banach THM, Dimension, Duality, Orthogonal, Conjugate convex Functions](../files/fa/1.pdf)
 
