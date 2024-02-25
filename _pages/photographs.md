@@ -24,13 +24,24 @@ Some Selected Works
 > “Which of my photographs is my favorite? The one I am going to take tomorrow.” ― Imogen Cunnigham
 
 <center>
+ <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/50.jpg" 
+        width = "44%">
+      <br> 
+ <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/49.jpg" 
+        width = "44%">
             <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/48.jpg" 
         width = "44%">
       <br> 
-            <img style = "
+   <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/47.jpg" 
