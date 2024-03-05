@@ -7,7 +7,7 @@ redirect_from:
   - /notes
 ---
 
-*“il cessa de calculer et de vivre.” ― Marquis de Condorcet*
+*“Happiness is a trap. It can't last forever.” ― Rick & Morty*
 
 
 *Malliavin Calculus (2023)*
