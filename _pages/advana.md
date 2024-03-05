@@ -7,7 +7,7 @@ redirect_from:
   - /notes
 ---
 
-*"Und wenn du lange in einen Abgrund blickst, blickt der Abgrund auch in dich hinein." -- Friedrich Nietzsche*
+*"钱塘江上潮信来,今日方知我是我。" --《水浒传·第一百一十九回》*
 
 *Harmonic Analysis (2022)*
 ===
