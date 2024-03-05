@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-*“I could be bounded in a nutshell and count myself a king of infinite space.” ― 《Hamlet》*
+*“I could be bounded in a nutshell and count myself a king of infinite space.” ― Hamlet*
 
 Preface
 ===
