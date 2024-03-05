@@ -7,7 +7,7 @@ redirect_from:
   - /notes
 ---
 
-*"我不是想赢，我只是不想输" —— 《飞驰人生》*
+*“One of the symptoms of an approaching nervous breakdown is the belief that one’s work is terribly important.” ― Bertrand Russell*
 
 *Real Analysis (2021)*
 ===
