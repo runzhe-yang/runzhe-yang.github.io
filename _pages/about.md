@@ -25,7 +25,7 @@ See my CV [here](../files/cv.pdf).
 Education
 ===
 
-- Oct. 2024 - Oct. 2026: **M.Sc. in Stochastics & MathFinance**, *Berlin Mathematical School, Berlin, German, supervised by [Prof. Dr. Peter K. Friz](https://page.math.tu-berlin.de/~friz/)* (Expected)
+- Oct. 2024 — Oct. 2026: **M.Sc. in Stochastics & MathFinance**, *Berlin Mathematical School, Berlin, German, supervised by [Prof. Dr. Peter K. Friz](https://page.math.tu-berlin.de/~friz/)* (Expected)
 
 - Mar. 2024 — June 2024: **Visiting Internship Student for Research**, *Department of Mathematics, The Hong Kong University of Science and Technology, Hong Kong SAR, hosted by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)* (Expected)
 
