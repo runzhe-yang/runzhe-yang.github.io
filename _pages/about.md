@@ -12,7 +12,7 @@ redirect_from:
 Short Bio
 ===
 
-My name is **Yang, Runzhe (杨润哲)**. The Chinese character “润” means nourishing or abundant, while “哲” was chosen by my parents with the hope that I would always think rationally and calmly.
+My name is **Yang, Runzhe (杨润哲)**. The Chinese character “润” means nourishing or abundant, while “哲” was chosen by my parents with the hope that I would always think rationally and calmly. Alternatively, you can call me *Reiny* directly.
 
 I am now a fourth-year undergraduate student at *[the School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/index.htm)*, *[Wuhan University](https://en.whu.edu.cn/)*, majoring in Statistics and Probability, on the way of being a probabilist.
 
@@ -25,7 +25,9 @@ See my CV [here](../files/cv.pdf).
 Education
 ===
 
-- Mar. 2024 — May 2024: **Visiting Internship Student for Research**, *Department of Mathematics, The Hong Kong University of Science and Technology, Hong Kong SAR, hosted by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)* (Expected)
+- Oct. 2024 - Oct. 2026: **Master of Science in Stochastics & MathFinance**, *[Berlin Mathematical School](https://www.math-berlin.de/index.php), Berlin, German, supervised by Prof. Dr. Peter K. Friz* (Expected)
+
+- Mar. 2024 — June 2024: **Visiting Internship Student for Research**, *Department of Mathematics, The Hong Kong University of Science and Technology, Hong Kong SAR, hosted by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)* (Expected)
 
 - Sept. 2020 — June 2024: **B.Sc. in Statistics**, *School of Mathematics and Statistics, Wuhan University, Wuhan, China* (Expected)
 
@@ -38,6 +40,7 @@ Honors and Awards
 4. [First Class](http://maths.whu.edu.cn/info/1197/18654.htm) (Top 3-%), *WHU Outstanding Mathematics Students Scholarship, 2021-2022 Academic Year, Nov. 2022*
 5. [Third Prize](../files/awards/CMC2.jpg), *Finals of the 13th China National Mathematics Competition for College Students, Mar. 2023*
 6. Laureate, *Scholariship for Research Internship Student at HKUST (15,000 HKD per Month), Spring Semester, Feb. 2024*
+7. Laureate, *Phase I Scholarship for Student at Berlin Mathematical School (1,000 Euros per Month), 2024 - 2026*
 
 Academic Experiences
 ===
