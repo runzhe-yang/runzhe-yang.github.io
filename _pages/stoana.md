@@ -7,7 +7,7 @@ redirect_from:
   - /notes
 ---
 
-*“Happiness is a trap. It can't last forever.” ― Rick & Morty*
+*“Aut Caesar, aut nihil.” ― Cesare Borgia*
 
 
 *Malliavin Calculus (2023)*
