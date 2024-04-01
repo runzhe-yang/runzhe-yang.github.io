@@ -25,11 +25,11 @@ See my CV [here](../files/cv.pdf).
 Education
 ===
 
-- Oct. 2024 — Oct. 2026: **M.Sc. in Math (Stochastics & MathFinance)**, *Berlin Mathematical School(HU/TU/FU), Berlin, German, supervised by [Prof. Dr. Peter K. Friz](https://page.math.tu-berlin.de/~friz/)* (Expected)
+- Oct. 2024 — Oct. 2026: **M.Sc. in Math (Stochastics & MathFinance)**, *[Berlin Mathematical School(HU/TU/FU)](https://www.math-berlin.de/), Berlin, German, supervised by [Prof. Dr. Peter K. Friz](https://page.math.tu-berlin.de/~friz/)* (Expected)
 
-- Mar. 2024 — June 2024: **Visiting Internship Student for Research**, *Department of Mathematics, The Hong Kong University of Science and Technology, Hong Kong SAR, hosted by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)* (Expected)
+- Mar. 2024 — June 2024: **Visiting Internship Student for Research**, *[Department of Mathematics](https://www.math.hkust.edu.hk/), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong SAR, hosted by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)* (Expected)
 
-- Sept. 2020 — June 2024: **B.Sc. in Math (Statistics)**, *School of Mathematics and Statistics, Wuhan University, Wuhan, China* (Expected)
+- Sept. 2020 — June 2024: **B.Sc. in Math (Statistics)**, *[School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/index.htm)*, *[Wuhan University](https://en.whu.edu.cn/), Wuhan, China* (Expected)
 
 Honors and Awards
 ===
