@@ -20,7 +20,7 @@ Q3: Do you really think *p(θ∈(a,b))∈{0,1}* for some parameter *θ*?
    >This is an essential difference between a Bayesian and a Frequenist. I have to say: I am totally a Bayesian. 
 
 Q4: For a given r.v. X, could you find a r.v. Y st. it’s i.i.d. as X?
-    >Generally, we require the probability space to be nonatomic to guaratee the indepedence will hold. And You can search for a THM called Skorokhod's 
+> Generally, we require the probability space to be nonatomic to guaratee the indepedence will hold. And You can search for a THM called Skorokhod's 
       Representation THM, which is one of my most favourite THM in Probability.
 
 Q5: For a n.v.s *E. F* is a close subspace, is there a *m* in *F* st. *d(x,F)=d(x,m)*? 
