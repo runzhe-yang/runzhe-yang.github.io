@@ -41,7 +41,7 @@ Honors and Awards
 5. [Third Prize](../files/awards/CMC2.jpg), *Finals of the 13th China National Mathematics Competition for College Students, Mar. 2023*
 6. Laureate, *Scholariship for Research Internship Student at HKUST (15,000 HKD per Month), Spring Semester, Jan. 2024*
 7. Laureate, *Phase I Scholarship for Student at Berlin Mathematical School (1,000 Euros per Month), 2024 - 2026, Feb. 2024*
-8. Outstanding Graduate, *Wuhan University, Apr. 2024*
+8. Laureate, *Outstanding Graduate, Wuhan University, Apr. 2024*
 
 Academic Experiences
 ===
