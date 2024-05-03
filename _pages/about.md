@@ -38,6 +38,7 @@ Honors and Awards
 4. [First Class](http://maths.whu.edu.cn/info/1197/18654.htm) (Top 3-%), *WHU Outstanding Mathematics Students Scholarship, 2021-2022 Academic Year, Nov. 2022*
 5. [Third Prize](../files/award/CMC2.jpg), *Finals of the 13th China National Mathematics Competition for College Students, Mar. 2023*
 6. Laureate, *Scholariship for Research Internship Student at HKUST (15,000 HKD per Month), Spring Semester, Feb. 2024*
+7. Outstanding Graduate, *Wuhan University, Apr. 2024* 
 
 Academic Experiences
 ===
