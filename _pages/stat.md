@@ -9,6 +9,21 @@ redirect_from:
 
 *"When I went to school, they asked me what I wanted to be when I grew up. I wrote down ‘happy’. They told me I didn’t understand the assignment, and I told them they didn’t understand life." -- John Lennon*
 
+*Time Series Analysis (2024)*
+===
+
+*References:[1] Time Series: Theory and Methods,  Peter J. Brockwell, Richard A. Davis [2] [Time Series for Macroeconomics and Finance](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5ed92dcb7665261af1aa23f2/1591291342389/time_series_book.pdf), John H. Cochrane*
+
+[Ⅰ.Stationary Process and Decomposition Model](../files/tsa/1.pdf)
+
+[Ⅱ.ARMA  Process](../files/tsa/2.pdf)
+
+[Ⅲ.Prediction](../files/tsa/3.pdf)
+
+[Ⅳ.Estimations](../files/tsa/4.pdf)
+
+[Ⅴ.Spectral Decomposition](../files/tsa/5.pdf)
+
 *Linear Model (2022)*
 ===
 
