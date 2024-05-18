@@ -9,12 +9,18 @@ redirect_from:
 
 *“Aut Caesar, aut nihil.” ― Cesare Borgia*
 
-*Rough Path Analysis and Signature*
+*Mean Field Games*
+===
+*References: [1].[Mean field games and interacting particle systems](https://www.columbia.edu/~dl3133/MFGSpring2018.pdf), Daniel Lacker*
+
+***IN PROGRESS***
+
+*Rough Path Analysis and Signatures*
 ===
 *References: [1].[Rough Path Theory](https://metaphor.ethz.ch/x/2021/fs/401-4611-21L/notes/RP_lecture_notes_Allan.pdf), Andrew L. Allan [2]. [A Course on Rough Paths](https://www.hairer.org/notes/RoughPaths.pdf), Peter K. Friz, Martin Hairer [3].[An Introduction to the Theory of Rough Paths](https://researchers.ms.unimelb.edu.au/~xgge@unimelb/Files/Notes/Rough%20Path%20Theory.pdf),  Xi Geng [4]. [Multidimensional Stochastic Processes as
  Rough Paths: Theory and Applications](https://page.math.tu-berlin.de/~friz/master4_May6th.pdf),  Peter K. Friz, Nicolas B. Victoir*
 
- - Part i: Rough Path Theory
+ - *Part i: Rough Path Theory*
    
    [Ⅰ.Background: Motivation, Tensor Product and Holder Space](../files/rpa/1.pdf)
 
@@ -30,7 +36,7 @@ redirect_from:
 
    [Ⅶ. Stochastic Sewing Lemma](../files/rpa/7.pdf)
 
-- Part ii: Signatures
+- *Part ii: Signatures*
 
   [Ⅰ. Variation and Holder](../files/s/1.pdf)
 
