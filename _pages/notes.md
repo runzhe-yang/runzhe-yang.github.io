@@ -15,7 +15,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn’t unt
 
 > The notes below were made when I was studying at WHU. In addition to them, my courseworks at WHU w.r.t. Math/Stat/CS also contain: Numerical Analysis, C Language, Sampling Survey, Number Theory, Mathematical Logic, R Language and Statistics Computing.
 
-- **[Stochastic Analysis Related](../_pages/stoana.md) :** *Malliavin Calculus, SPDEs, Diffusion Processes, Mathematical Finance, Stochastic Calculus*
+- **[Stochastic Analysis Related](../_pages/stoana.md) :** *Rough Path Analysis and Signature, Malliavin Calculus, SPDEs, Diffusion Processes, Mathematical Finance, Stochastic Calculus*
 
 - **[Statistical Physics Related](../_pages/statphy.md) :** *Schramm-Loewner Evolutions, Random Interlacements, Bernoulli Percolation, Conformal Invariance of 2D Lattice Models, Loop Soups and Occupation Time, Gaussian Free Fields*
 
@@ -23,7 +23,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn’t unt
 
 - **[Advanced Analysis Related](../_pages/advana.md) :** *Harmonic Analysis, Multidimensional Complex Analysis, PDEs and Sobolev Space, Functional Analysis*
 
-- **[Statistics Related](../_pages/stat.md) :** *Multivariate Statistics, Linear Model and Regression, Mathematical Statistics*
+- **[Statistics Related](../_pages/stat.md) :** *Time Series Analysis, Multivariate Statistics, Linear Model and Regression, Mathematical Statistics*
 
 - **[Basic Courses](../_pages/basic.md) :** *Real Analysis, Complex Analysis, Differential Manifolds, ODEs, General Topology, Abstract Algebra*
 
