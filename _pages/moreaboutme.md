@@ -43,6 +43,8 @@ The following are my TOP 15:
 
 - *Days of Being Wild (1990), directed by Karwei Wong*
 
+- *Blue Velvet (1986), directed by David Lynch*
+
 - *American Psycho (2000), directed by Mary Harron*
 
 - *Thirst (2009), directed by Park Chan-wook*
