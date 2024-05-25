@@ -36,7 +36,7 @@ Honors and Awards
 
 1. [First Prize](../files/awards/CMC.jpg) (Finalist), [rank 16th](../files/awards/cmcrank.pdf), *the 13th China National Mathematics Competition for College Students, Dec. 2021*
 2. [Finalist](https://damo.alibaba.com/events/32023091716949315290182565?language=en) (Top 1‰), *the 4th Alibaba Global Mathematics Competition, May 2022*
-3. [Winner’s Prize](../files/awards/Yau-contest.jpg), [rank 19th](http://www.yau-contest.com/uploads/file/20220804/20220804000607_65581.pdf), *the 13th S.-T. Yau College Student Mathematics Contest, Statistics and Probability track, Jul. 2022*
+3. [Winner’s Prize](../files/awards/Yau-contest.jpg), [rank 19th](../files/awards/yau-list.pdf), *the 13th S.-T. Yau College Student Mathematics Contest, Statistics and Probability track, Jul. 2022*
 4. [First Class](http://maths.whu.edu.cn/info/1197/18654.htm) (Top 3-%), *WHU Outstanding Mathematics Students Scholarship, 2021-2022 Academic Year, Nov. 2022*
 5. [Third Prize](../files/awards/CMC2.jpg), *Finals of the 13th China National Mathematics Competition for College Students, Mar. 2023*
 6. Laureate, *Scholariship for Research Internship Student at HKUST (15,000 HKD per Month), Spring Semester, Jan. 2024*
