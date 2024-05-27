@@ -11,7 +11,7 @@ redirect_from:
 
 *Mean Field Games*
 ===
-*References: [1].[Mean field games and interacting particle systems](https://www.columbia.edu/~dl3133/MFGSpring2018.pdf), Daniel Lacker*
+*References: [1].[Mean field games and interacting particle systems](https://www.columbia.edu/~dl3133/MFGSpring2018.pdf), Daniel Lacker [2].[Mean field games with common noise](https://arxiv.org/abs/1407.6181), Rene Carmona, Francois Delarue, Daniel Lacker*
 
 ***IN PROGRESS***
 
