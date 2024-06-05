@@ -58,7 +58,7 @@ Contact
 
 **Pronouns**: he/him/his
 
-**My E-mail**: *runzheyang2020@whu.edu.cn*
+**My E-mail**: *runzheyang2001@gmail.com*
 
 **My WeChat** : *[Silenc1o](../files/wechat.jpg)*. Please feel free to contact me.
 
