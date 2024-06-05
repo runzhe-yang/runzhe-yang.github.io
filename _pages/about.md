@@ -14,7 +14,7 @@ Short Bio
 
 My name is **Yang, Runzhe (杨润哲)**. The Chinese character “润” means nourishing or abundant, while “哲” was chosen by my parents with the hope that I would always think rationally and calmly. Alternatively, you can call me *Reiny (Yang)* directly.
 
-I am currently a first-year phase I/M.Sc. student majoring in Stochastics & Finance at Ph.D. program of *[Berlin Mathematical School(HU/TU/FU)](https://www.math-berlin.de/about-bms)*, supervised by *[Prof. Dr. Peter K. Friz](https://page.math.tu-berlin.de/~friz/)*, on the way of being a probabilist. Prior to that, I got my B.Sc. degree at *[the School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/index.htm)*, *[Wuhan University](https://en.whu.edu.cn/)*.  During my undergraduate period, I was very fortune to work with *[Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)* at *[Department of Mathematics](https://www.math.hkust.edu.hk/), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/)*. 
+I am currently a first-year phase I/M.Sc. student majoring in Stochastics & Finance at Ph.D. program of *[Berlin Mathematical School(HU/TU/FU)](https://www.math-berlin.de/about-bms)*, supervised by *[Prof. Dr. Peter Friz](https://page.math.tu-berlin.de/~friz/)*, on the way of being a probabilist. Prior to that, I got my B.Sc. degree at *[the School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/index.htm)*, *[Wuhan University](https://en.whu.edu.cn/)*.  During my undergraduate period, I was very fortune to work with *[Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)* at *[Department of Mathematics](https://www.math.hkust.edu.hk/), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/)*. 
 
 I was born in Chaoshan region and grew up in Huizhou, Guangdong in Southern China.
 
@@ -25,7 +25,7 @@ See my CV [here](../files/cv.pdf).
 Education
 ===
 
-- Oct. 2024 — Oct. 2026: **M.Sc. in Math (Stochastics & Finance)/Phase I**, *[Berlin Mathematical School(HU/TU/FU)](https://www.math-berlin.de/about-bms), Berlin, German, supervised by [Prof. Dr. Peter K. Friz](https://page.math.tu-berlin.de/~friz/)* (Expected)
+- Oct. 2024 — Oct. 2026: **M.Sc. in Math (Stochastics & Finance)/Phase I**, *[Berlin Mathematical School(HU/TU/FU)](https://www.math-berlin.de/about-bms), Berlin, German, supervised by [Prof. Dr. Peter Friz](https://page.math.tu-berlin.de/~friz/)* (Expected)
 
 - Mar. 2024 — June 2024: **Visiting Internship Student for Research**, *[Department of Mathematics](https://www.math.hkust.edu.hk/), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong SAR, hosted by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)*  [[Photo]](../files/hkwithmn.jpg) 
 
