@@ -46,7 +46,7 @@ Honors and Awards
 
 Research Projects
 ===
-1. **Lower Bound for Disconnection of Vacant Set in Loop Percolations**, *supervised by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/), HKUST, May 2023 — June 2024*
+1. **Lower Bound for Disconnection of Vacant Set in Loop Percolations**, *supervised by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/), HKUST, May 2023 - June 2024*
 
 Academic Experiences
 ===
