@@ -46,12 +46,12 @@ Honors and Awards
 
 Research Projects
 ===
-1. **[Lower Bound for Disconnection of Vacant Set in Loop Percolations]**, supervised by *[Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)*, HKUST, May 2023 — June 2024
+1. **Lower Bound for Disconnection of Vacant Set in Loop Percolations**, *supervised by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/), HKUST, May 2023 — June 2024*
 
 Academic Experiences
 ===
 
-*1. **[Summer School Series on Probability and Related Fields: Masterclass in Random Geometry](https://bicmr.pku.edu.cn/content/show/17-2928.html?catid=KiQhKyYs)** , funded by Beijing International Center For Mathematical Research (BICMR), Peking University, Beijing, China, July 2023.*
+1. **[Summer School Series on Probability and Related Fields: Masterclass in Random Geometry](https://bicmr.pku.edu.cn/content/show/17-2928.html?catid=KiQhKyYs)** , *funded by Beijing International Center For Mathematical Research (BICMR), Peking University, Beijing, China, July 2023.*
 
 Contact
 ===
