@@ -26,7 +26,7 @@ Research Projects
 
 Supervisor: *[Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)*
 
-*May 2023 — June 2024*
+*May 2023 — June 2024, HKUST*
 
 The principal aim of this project is to derive asymptotic lower on the probability that in a certain model of random walk loops on the integer lattice, a macroscopic set is disconnected from infinity by the trace of the loops. We also investigate the large deviation for occupation time field of loop soup.
 
