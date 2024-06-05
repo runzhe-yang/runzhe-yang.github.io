@@ -22,11 +22,13 @@ Research Interests
 Research Projects
 ===
 
-***1.Lower Bound for Disconnection of Vacant Set in Loop Percolation***
+**1.Lower Bound for Disconnection of Vacant Set in Loop Percolation**
 
 Supervisor: *[Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)*
 
-*May 2023 — Now (Ongoing)*
+*May 2023 — June 2024*
+
+The principal aim of this project is to derive asymptotic lower on the probability that in a certain model of random walk loops on the integer lattice, a macroscopic set is disconnected from infinity by the trace of the loops. We also investigate the large deviation for occupation time field of loop soup.
 
 Publications and Preprints
 ===
