@@ -9,16 +9,17 @@ author_profile: true
 
 Research Interests
 ===
+1. Stochastic Analysis and its Applications:
+   - Mathematical Finance
+   - Rough Analysis
+   - Stochastic Partial Differential Equations
 
-1. Statistical Physics:
+2. Statistical Physics:
    - Percolation
    - Gaussian Free Fields and Interface Models
    - Random Walks and Random Interlacements
    - Schramm-Loewner Evolutions
-2. Stochastic Analysis and its Applications:
-   - Mathematical Finance
-   - Stochastic Partial Differential Equations
-
+     
 Research Projects
 ===
 
