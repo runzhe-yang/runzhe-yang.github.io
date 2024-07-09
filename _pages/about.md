@@ -29,7 +29,7 @@ Education
 
 - Mar. 2024 — June 2024: **Visiting Internship Student for Research**, *[Department of Mathematics](https://www.math.hkust.edu.hk/), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong SAR, hosted by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)*  [[Photo]](../files/hkwithmn.jpg) 
 
-- Sept. 2020 — June 2024: **B.Sc. in Math (Probability & Statistics)**, *[School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/index.htm)*, *[Wuhan University](https://en.whu.edu.cn/), Wuhan, China*
+- Sept. 2020 — June 2024: **B.Sc. in Math (Probability & Statistics)**, *[School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/index.htm)*, *[Wuhan University](https://en.whu.edu.cn/), Wuhan, China* [[Photo]](../files/grad.jpg)
 
 - Sept. 2017 — June 2020: **High School Diploma**, *Huizhou No.1 Middle School, Huizhou, Guangdong, China*
 
@@ -43,7 +43,7 @@ Honors and Awards
 5. [Third Prize](../files/awards/CMC2.jpg), *Finals of the 13th China National Mathematics Competition for College Students, Shanghai, Mar. 2023*
 6. Laureate, *Scholariship for Research Internship Student at HKUST (15,000 HKD/Month), Spring Semester, Jan. 2024*
 7. Laureate, *Phase I Scholarship for Student at Berlin Mathematical School (1,000 Euros/Month), 2024 - 2026, Feb. 2024*
-8. Laureate (Top 20%-), *Outstanding Undergraduate Award, Wuhan University, May 2024*
+8. Merit Undergraduate (Top 20%-)*, Wuhan University, May 2024*
 9. Laureate (Top 3%-), *Outstanding Bachelor's Degree Thesis Award, Wuhan University, June 2024*
 
 Research Projects
