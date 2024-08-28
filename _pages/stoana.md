@@ -13,7 +13,17 @@ redirect_from:
 ===
 *References: [1].[Mean field games and interacting particle systems](https://www.columbia.edu/~dl3133/MFGSpring2018.pdf), Daniel Lacker [2].[Mean field games with common noise](https://arxiv.org/abs/1407.6181), Rene Carmona, Francois Delarue, Daniel Lacker*
 
-***IN PROGRESS***
+[Ⅰ. Prelininary: Intro., Convergence and Metric, Stochastic Control](../files/mfg/1.pdf)
+
+[Ⅱ. Mckean Vlasov Equations: Limit THM, PDE System, Loss of Markovian, Common Noise and Long Time Behavior](../files/mfg/2.pdf)
+
+[Ⅲ. Static MFG: Limit THM and Multiple Type of Agents](../files/mfg/3.pdf)
+
+[Ⅳ. Stochatic Differential Game: Two Player Games and n-Player Games](../files/mfg/4.pdf)
+
+[Ⅴ. Stochastic MFG: Limit THM, Semilinear MFG Example, Multiple Typer of Agents](../files/mfg/5.pdf)
+
+[Ⅵ. The Master Equations: Calculus on Measure Space, Ito Formula, Verfication THM](../files/mfg/6.pdf)
 
 *Rough Path Analysis and Signatures*
 ===
