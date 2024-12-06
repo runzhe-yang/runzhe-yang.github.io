@@ -24,21 +24,55 @@ Some Selected Works
 > “Which of my photographs is my favorite? The one I am going to take tomorrow.” ― Imogen Cunnigham
 
 <center>
-                          <img style = "
+   <br>
+                    <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/165.jpg" 
+         src = "../files/pictures/photos/172.jpg" 
         width = "44%"> 
                     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/164.jpg" 
+         src = "../files/pictures/photos/171.jpg" 
         width = "44%"> 
   <br>
                           <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/163.jpg" 
+         src = "../files/pictures/photos/170.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/169.jpg" 
+        width = "44%"> 
+  <br>
+                    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/168.jpg" 
+        width = "44%"> 
+                    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/167.jpg" 
+        width = "44%"> 
+  <br>
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/166.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/165.jpg" 
+        width = "44%"> 
+  <br>
+                    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/164.jpg" 
         width = "44%"> 
                     <img style = "
         border-radius: 0.3125em;
