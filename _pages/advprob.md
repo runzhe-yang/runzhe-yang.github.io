@@ -42,7 +42,7 @@ redirect_from:
 *Advanced Stochastic Process (2022)*
 ===
 
-*References:[1]Probability Theory: Theory and Examples, Richard Durrett [2][Lecture Notes on Measure-theoretic Probability Theory](https://people.math.wisc.edu/~roch/grad-prob/index.html), Sebastien Roch*
+*References:[1]Probability Theory: Theory and Examples, Richard Durrett [2][Lecture Notes on Measure-theoretic Probability Theory](https://people.math.wisc.edu/~roch/grad-prob/index.html), Sebastien Roch [3][Sample path properties of Brownian motion](https://www.math-berlin.de/images/stories/lecnotes_moerters.pdf), Peter Morters*
 
 [Ⅰ.Discrete Martingales](../files/ASP/1.pdf)
 
@@ -55,6 +55,8 @@ redirect_from:
 [Ⅴ.Brownian Motion](../files/ASP/5.pdf)
 
 [Ⅵ.Q-Process](../files/ASP/6.pdf)
+
+[Ⅶ.Path Property of Brownian Motion](../files/ASP/7.pdf)
 
 *Advanced Probability Thoery (2021)*
 ===
