@@ -130,7 +130,7 @@ Some Selected Works
         display: inline-block;
         color: #999;
         padding: 2px;">
-        2024
+        2025
     </div>
     <p> </p>
 </center>
