@@ -53,7 +53,7 @@ The following are my TOP 15:
 
 - *Interstellar (2014), directed by Christopher Nolan*
 
-- *Ghost in the Shell 1 & 2 (1995 & 2004), directed by Mamoru Oshii*
+- *Eyes Wide Shut (1999), directed by Stanley Kubrick*
 
 - *Being John Malkovich (1999), directed by Spike Jonze*
 
