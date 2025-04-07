@@ -25,6 +25,8 @@ redirect_from:
 
 [Ⅵ. The Master Equations: Calculus on Measure Space, Ito Formula, Verfication THM](../files/mfg/6.pdf)
 
+[VII. MFG with Common Noise](../files/mfg/7.pdf)
+
 *Rough Path Analysis and Signatures*
 ===
 *References: [1].[Rough Path Theory](https://metaphor.ethz.ch/x/2021/fs/401-4611-21L/notes/RP_lecture_notes_Allan.pdf), Andrew L. Allan [2]. [A Course on Rough Paths](https://www.hairer.org/notes/RoughPaths.pdf), Peter K. Friz, Martin Hairer [3].[An Introduction to the Theory of Rough Paths](https://researchers.ms.unimelb.edu.au/~xgge@unimelb/Files/Notes/Rough%20Path%20Theory.pdf),  Xi Geng [4]. [Multidimensional Stochastic Processes as
