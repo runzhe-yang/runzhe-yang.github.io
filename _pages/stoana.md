@@ -9,7 +9,35 @@ redirect_from:
 
 *“Aut Caesar, aut nihil.” ― Cesare Borgia*
 
-*Mean Field Games*
+*Fokker-Planck Equations (2024)*
+===
+*Reference: Linear and Nonlinear Fokker-Planck Equations: Analysis & Probabilistic Counterparts, Marco Reheimer*
+
+[Ⅰ. Linear FPEs: Existence and Uniqueness](../files/fpe/1.pdf)
+
+[Ⅱ. Superposition Principle](../files/fpe/2.pdf)
+
+[Ⅲ. Connection with Markov Process](../files/fpe/3.pdf)
+
+[Ⅳ. Nonlinear FPEs: Existence & Uniqueness and its Superposition Principle](../files/fpe/4.pdf)
+
+[Ⅴ. Flow Selection for NLFPEs](../files/fpe/5.pdf)
+
+[Ⅵ. Connections with Nonlinear Markov Process](../files/fpe/6.pdf)
+
+*Continuous Time Mathematical Finance (2024)*
+===
+*Reference: Introduction on Financial Math II, Peter Bank*
+
+[Ⅰ. Preliminary & Settings](../files/ctmf/1.pdf)
+
+[Ⅱ. Hedging and Pricing: Basic THMs and Applications on Kunita Watanabe Decompositions](../files/ctmf/2.pdf)
+
+[Ⅲ. Financial Modeling: Brownian Financial Models, Volatility Models and Term Structure Models](../files/ctmf/3.pdf)
+
+[Ⅳ. Financial Optimization: Metron's Problem & HJB Equations and Convex Dual Method](../files/ctmf/4.pdf)
+
+*Mean Field Games (2024)*
 ===
 *References: [1].[Mean field games and interacting particle systems](https://www.columbia.edu/~dl3133/MFGSpring2018.pdf), Daniel Lacker [2].[Mean field games with common noise](https://arxiv.org/abs/1407.6181), Rene Carmona, Francois Delarue, Daniel Lacker*
 
@@ -25,9 +53,9 @@ redirect_from:
 
 [Ⅵ. The Master Equations: Calculus on Measure Space, Ito Formula, Verfication THM](../files/mfg/6.pdf)
 
-[VII. MFG with Common Noise](../files/mfg/7.pdf)
+[Ⅶ. MFG with Common Noise](../files/mfg/7.pdf)
 
-*Rough Path Analysis and Signatures*
+*Rough Path Analysis and Signatures (2024)*
 ===
 *References: [1].[Rough Path Theory](https://metaphor.ethz.ch/x/2021/fs/401-4611-21L/notes/RP_lecture_notes_Allan.pdf), Andrew L. Allan [2]. [A Course on Rough Paths](https://www.hairer.org/notes/RoughPaths.pdf), Peter K. Friz, Martin Hairer [3].[An Introduction to the Theory of Rough Paths](https://researchers.ms.unimelb.edu.au/~xgge@unimelb/Files/Notes/Rough%20Path%20Theory.pdf),  Xi Geng [4]. [Multidimensional Stochastic Processes as
  Rough Paths: Theory and Applications](https://page.math.tu-berlin.de/~friz/master4_May6th.pdf),  Peter K. Friz, Nicolas B. Victoir*
@@ -59,6 +87,14 @@ redirect_from:
   [Ⅳ. Geometric Rough Paths](../files/s/4.pdf)
 
   [Ⅴ. Enhanced BMs, Levy Area and Approximation](../files/s/5.pdf)
+
+  [Ⅵ. Lifted Conti. Semimart: BDG inequi, Regularity and Approxi.](../files/s/6.pdf)
+
+  [Ⅶ. Enhanced Gaussian Processes](../files/s/7.pdf)
+
+  [Ⅷ. Markovian Rough Path and Dirichlet Form](../files/s/8.pdf)
+
+  [Ⅸ. Rough Differential Equation and Integrations](../files/s/9.pdf)
    
 *Malliavin Calculus (2023)*
 ===
@@ -127,15 +163,25 @@ redirect_from:
 
 *References:[1]Brownian Motion, Martingales, and Stochastic Calculus, Le Gall, Jean-François(primary) [2] Continuous martingales and Brownian motion, Daniel Revuz, Marc Yor [3]Brownian Motion and Stochastic Calculus, Ioannis Karatzas, Steven E. Shreve*
 
-[Ⅰ.Continuous Martingales](../files/sc/1.pdf)
+[Ⅰ. Continuous Martingales](../files/sc/1.pdf)
 
-[Ⅱ.Continuous Semimartingales](../files/sc/2.pdf)
+[Ⅱ. Continuous Semimartingales](../files/sc/2.pdf)
 
-[Ⅲ.Stochastic Integration: Construction, Ito Formula, Representation of Marts, and Girsanov Thm](../files/sc/3.pdf)
+[Ⅲ. Stochastic Integration: Construction, Ito Formula, Representation of Marts, and Girsanov Thm](../files/sc/3.pdf)
 
-[Ⅳ.Local Time and Generalized Ito Formula](../files/sc/4.pdf)
+[Ⅳ. Local Time and Generalized Ito Formula](../files/sc/4.pdf)
 
-[Ⅴ.General Theory of Markov Process](../files/sc/5.pdf)
+[Ⅴ. General Theory of Markov Process](../files/sc/5.pdf)
+
+[Ⅵ. Levy Processes](../files/sc/6.pdf)
+
+[Ⅶ. SDEs: Existence & Uniqueness, Yamada Theory and Local Solutions & Blowup](../files/sc/7.pdf)
+
+[Complement on Motivation of Gaussian white noise and Origin of BM](../files/sc/8.pdf)
+
+[Complement on Continuous Local Mart](../files/sc/9.pdf)
+
+[Complement on Stochastic Integration](../files/sc/10.pdf)
 
 <br>
 <br>
