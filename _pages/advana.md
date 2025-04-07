@@ -9,6 +9,38 @@ redirect_from:
 
 *"钱塘江上潮信来,今日方知我是我。" --《水浒传·第一百一十九回》*
 
+*Nonlinear PDEs (2024)*
+===
+*Reference: Differential Equations IIB, Alex Kaltenbach*
+
+[Ⅰ. Introduction and Examples](../files/nlpde/1.pdf)
+
+[Ⅱ. Monotone Operator Theory](../files/nlpde/2.pdf)
+
+[Ⅲ. Application of Monotone Operator Theory: P-Laplace Equations and P-Stokes Equations](../files/nlpde/3.pdf)
+
+[Ⅳ. PseudoMonotone Operator](../files/nlpde/4.pdf)
+
+[Ⅴ. Calculus of Variation](../files/nlpde/5.pdf)
+
+*Manifolds and Riemannian Geometry (2024)*
+===
+*Reference:[1]. Differential Geometry II, J.M.Sullivan [2].Introduction to Smooth Manifolds, John M. Lee [3]. Riemannian Manifolds: An Introduction to Curvature,  John M. Lee*
+
+Ⅰ. [1.Introduction and Basic Def](../files/mrm/1.pdf) [2.Tangent Vector and Submanifolds](../files/mrm/2.pdf) [3.Tangent space II](../files/mrm/3.pdf) [4.Vector Field and Flow](../files/mrm/4.pdf) [5.Lie Derivative](../files/mrm/5.pdf) [6. Vector Bundle and Dual Space](../files/mrm/6.pdf)
+
+Ⅱ.  [1. Bilinear Forms](../files/mrm/7.pdf)  [2.Partition of Unity](../files/mrm/8.pdf)  [3. Riemannian Metric](../files/mrm/9.pdf)  
+
+Ⅲ.  [1. Tensor product & Exterior Algebra](../files/mrm/10.pdf) [2. Differential Form & Exterior Derivative](../files/mrm/11.pdf) [3. Integration on Manifold](../files/mrm/12.pdf) [4. Stokes THM](../files/mrm/13.pdf) [5. Lie derivative for K-form](../files/mrm/14.pdf) 
+
+Ⅳ. [1. Connections](../files/mrm/15.pdf) [2. Parallel Transport & Geodesic](../files/mrm/16.pdf)
+
+Ⅴ. [1. Riemannian Curvature](../files/mrm/17.pdf) [2. Flat Metric](../files/mrm/18.pdf) [3. Ricci Curvature](../files/mrm/19.pdf)
+
+[Ⅵ. Variation of Energy](../files/mrm/20.pdf)
+
+[Ⅶ. Lie Groups](../files/mrm/21.pdf)
+
 *Harmonic Analysis (2022)*
 ===
 *References: [1] Fourier analysis, Javier Duoandikoetxea (primary) [2] Functional Analysis: Introduction to Further Topics in Analysis, Elias M. Stein, Rami Shakarchi [3] Fourier analysis: an introduction, Elias M. Stein, Rami Shakarchi [4] Classical Fourier analysis, Loukas Grafakos [5] Modern Fourier analysis, Loukas Grafakos*
