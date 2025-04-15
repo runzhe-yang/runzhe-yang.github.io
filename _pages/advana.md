@@ -25,7 +25,7 @@ redirect_from:
 
 *Manifolds and Riemannian Geometry (2024)*
 ===
-*Reference:[1]. Differential Geometry II, J.M.Sullivan [2].Introduction to Smooth Manifolds, John M. Lee [3]. Riemannian Manifolds: An Introduction to Curvature,  John M. Lee*
+*Reference:[1]. Differential Geometry II, J.M.Sullivan [2].Introduction to Smooth Manifolds, John M. Lee [3]. Riemannian Manifolds: An Introduction to Curvature,  John M. Lee [4]. [Riemannian geometry](http://staff.ustc.edu.cn/~wangzuoq/Courses/16S-RiemGeom/index.html), Zuoqin Wang*
 
 Ⅰ. [1.Introduction and Basic Def](../files/mrm/1.pdf) [2.Tangent Vector and Submanifolds](../files/mrm/2.pdf) [3.Tangent space II](../files/mrm/3.pdf) [4.Vector Field and Flow](../files/mrm/4.pdf) [5.Lie Derivative](../files/mrm/5.pdf) [6. Vector Bundle and Dual Space](../files/mrm/6.pdf)
 
