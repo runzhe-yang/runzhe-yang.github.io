@@ -98,6 +98,12 @@ redirect_from:
 
 [Ⅶ.Linear Evolution Equations](../files/pde/7.pdf)
 
+[Revisit: Weak Derivative and Sobolev](../files/pde/8.pdf)
+
+[Revisit：Differential Equations](../files/pde/9.pdf)
+
+[Revisit：Multidimension Case](../files/pde/10.pdf)
+
 *(Linear) Functional Analysis (2022)*
 ===
 
@@ -128,6 +134,18 @@ redirect_from:
 [Complement: Quotient Space](../files/fa/12.pdf)
 
 [Complement: Vector Space over Complex Domain](../files/fa/13.pdf)
+
+[Revisit: Basic Topology and Counterexamples](../files/fa/14.pdf)
+
+[Revisit: Normed Spaces and Examples](../files/fa/15.pdf)
+
+[Revisit: Linear Operators and Counterexamples](../files/fa/16.pdf)
+
+[Revisit: Reflexive and Counterexamples](../files/fa/17.pdf)
+
+[Revisit: Hilbert Spaces and Examples](../files/fa/18.pdf)
+
+
 
 
 <br>
