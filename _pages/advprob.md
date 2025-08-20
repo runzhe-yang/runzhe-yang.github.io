@@ -39,6 +39,10 @@ redirect_from:
 
 [Ⅱ.General Principles: Properties, Contraction THM, Varadhan THM](../files/ldt/2.pdf)
 
+[Ⅲ.Cramer THM and Schilder THM](../files/ldt/3.pdf)
+
+[Ⅳ.Generalized Cramer Theory](../files/ldt/4.pdf)
+
 *Advanced Stochastic Process (2022)*
 ===
 
