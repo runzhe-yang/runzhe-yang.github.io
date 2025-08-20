@@ -52,3 +52,14 @@ redirect_from:
 [Ⅴ.Extrapolation](../files/numm/5.pdf)
 
 [Ⅵ.Boundary Value Problem](../files/numm/6.pdf)
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
