@@ -58,7 +58,7 @@ redirect_from:
 *Rough Path Analysis and Signatures (2024)*
 ===
 *References: [1].[Rough Path Theory](https://metaphor.ethz.ch/x/2021/fs/401-4611-21L/notes/RP_lecture_notes_Allan.pdf), Andrew L. Allan [2]. [A Course on Rough Paths](https://www.hairer.org/notes/RoughPaths.pdf), Peter K. Friz, Martin Hairer [3].[An Introduction to the Theory of Rough Paths](https://researchers.ms.unimelb.edu.au/~xgge@unimelb/Files/Notes/Rough%20Path%20Theory.pdf),  Xi Geng [4]. [Multidimensional Stochastic Processes as
- Rough Paths: Theory and Applications](https://page.math.tu-berlin.de/~friz/master4_May6th.pdf),  Peter K. Friz, Nicolas B. Victoir*
+ Rough Paths: Theory and Applications](https://page.math.tu-berlin.de/~friz/master4_May6th.pdf),  Peter K. Friz, Nicolas B. Victoir [5]. Introduction to the Rough Paths, Marco Reheimer*
 
  - *Part i: Rough Path Theory*
    
@@ -75,6 +75,16 @@ redirect_from:
    [Ⅵ. Consistency with Stochastic Calculus](../files/rpa/6.pdf)
 
    [Ⅶ. Stochastic Sewing Lemma](../files/rpa/7.pdf)
+
+   [Revisit：Motivaton](../files/rpa/8.pdf)
+
+   [Revisit：Space of Rough Paths](../files/rpa/9.pdf)
+
+   [Revisit：Rough Integrals](../files/rpa/10.pdf)
+
+   [Revisit：Comparison with Stochastic Analysis](../files/rpa/11.pdf)
+
+   [Revisit：Rough Differential Equations](../files/rpa/12.pdf)
 
 - *Part ii: Signatures*
 
@@ -95,6 +105,7 @@ redirect_from:
   [Ⅷ. Markovian Rough Path and Dirichlet Form](../files/s/8.pdf)
 
   [Ⅸ. Rough Differential Equation and Integrations](../files/s/9.pdf)
+
    
 *Malliavin Calculus (2023)*
 ===
