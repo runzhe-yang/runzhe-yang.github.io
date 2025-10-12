@@ -17,7 +17,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn’t unt
 
 - **[Stochastic Analysis Related](../_pages/stoana.md) :** *Fokker-Planck Equations, Continuous Time Mathematical Finance, Mean Field Games, Rough Path Analysis and Signature, Malliavin Calculus, SPDEs, Diffusion Processes, Mathematical Finance, Stochastic Calculus*
 
-- **[Mathematical Modeling Related](../_pages/mathmod.md) :** *Mathematical Foundation of Machine Learning, Numerical Method for ODEs*
+- **[Mathematical Modeling Related](../_pages/mathmod.md) :** *Computational Finance, Mathematical Foundation of Machine Learning, Numerical Method for ODEs*
 
 - **[Statistical Physics Related](../_pages/statphy.md) :** *Schramm-Loewner Evolutions, Random Interlacements, Bernoulli Percolation, Conformal Invariance of 2D Lattice Models, Loop Soups and Occupation Time, Gaussian Free Fields*
 
