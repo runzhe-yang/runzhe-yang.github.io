@@ -9,6 +9,22 @@ redirect_from:
 
 *“れつきの臆病のせゐか、僕はあらゆる喜悦に不吉な予感を交へてゐた” ― 三島 由紀夫*
 
+*Computational Finance (2025)*
+===
+*Reference: [Computational Finance](https://www.wias-berlin.de/people/bayerc/compfin.jsp), Christian Bayer, Antonis Papapantoleon, Raul Tempone*
+
+[Ⅰ.Monte Carlo Simulation](../files/comf/1.pdf)
+
+[Ⅱ.Quasi Monte Carlo Simulation](../files/comf/2.pdf)
+
+[Ⅲ.Sample path generations](../files/comf/3.pdf)
+
+[Ⅳ.Discretization of SDEs](../files/comf/4.pdf)
+
+[Ⅴ.Fourier method for option pricing](../files/comf/5.pdf)
+
+[Ⅵ.Numerical methods for PDEs](../files/comf/6.pdf)
+
 *Mathematical Foundation of Machine Learning (2025)*
 ===
 *Reference: Mathematische Grundlagen des Maschinellen Lernens I, Hanno Gottschalk*
