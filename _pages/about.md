@@ -27,7 +27,7 @@ Education
 
 - Oct. 2024 — Present: **Phase I**, *[Berlin Mathematical School(HU/TU/FU)](https://www.math-berlin.de/about-bms), Berlin, Berlin, German, supervised by [Prof. Dr. Peter Friz](https://page.math.tu-berlin.de/~friz/) & [Prof. Dr. Christian Bayer](https://www.wias-berlin.de/people/bayerc/)*
 
-- Mar. 2024 — June 2024: **Visiting Internship Student for Research**, *[Department of Mathematics](https://www.math.hkust.edu.hk/), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong SAR, hosted by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)*  [[Photo]](../files/hkwithmn.jpg) 
+- Mar. 2024 — May 2024: **Visiting Internship Student for Research**, *[Department of Mathematics](https://www.math.hkust.edu.hk/), [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), Hong Kong SAR, hosted by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)*  [[Photo]](../files/hkwithmn.jpg) 
 
 - Sept. 2020 — June 2024: **B.Sc. in Math (Probability & Statistics)**, *[School of Mathematics and Statistics](http://maths.whu.edu.cn/Englishversion/index.htm)*, *[Wuhan University](https://en.whu.edu.cn/), Wuhan, China* [[Photo]](../files/grad.jpg)
 
@@ -48,7 +48,8 @@ Honors and Awards
 
 Research Projects
 ===
-1. **Lower Bound for Disconnection of Vacant Set in Loop Percolations**, *supervised by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/), HKUST, May 2023 - June 2024*
+1. **Lower Bound for Disconnection of Vacant Set in Loop Percolations**, *supervised by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/), HKUST, June 2023 - May 2024*
+2. **On the Rough and Quadratic Rough Heston Models**, *supervised by [Dr. Christian Bayer](https://www.wias-berlin.de/people/bayerc/), WIAS and TU Berlin, Ongoing*
 
 Academic Experiences
 ===
