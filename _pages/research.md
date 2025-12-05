@@ -9,7 +9,6 @@ author_profile: true
 
 Research Interests
 ===
-Stochastic Analysis and its Applications:
    - Mathematical Finance, Rough Volatility, Computational Finance and Machine Learning
    - Stochastic Analysis and Stochastic (Partial) Differential Equations
    - Rough analysis and its applications
