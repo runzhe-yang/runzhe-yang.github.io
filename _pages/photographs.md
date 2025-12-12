@@ -24,6 +24,193 @@ Some Selected Works
 > “Which of my photographs is my favorite? The one I am going to take tomorrow.” ― Imogen Cunnigham
 
 <center>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/277.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/276.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/275.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/274.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/273.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/272.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/271.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/270.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/269.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/268.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/267.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/266.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/265.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/264.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/263.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/262.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/261.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/260.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/259.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/258.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/257.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/256.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/255.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/254.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/253.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/252.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/251.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/250.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/249.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/248.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/247.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/246.jpg" 
+        width = "44%"> 
+    <br>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/245.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/244.jpg" 
+        width = "44%"> 
+    <br>
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -1113,7 +1300,7 @@ Some Selected Works
       <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/37b.jpg" 
+         src = "../files/pictures/photos/37c.jpg" 
         width = "44%">
   <br>
       <img style = "
