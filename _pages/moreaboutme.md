@@ -27,7 +27,7 @@ author_profile: true
 Personal Interests
 ===
 
-**I am a cinephile**, enjoying watching a variety of films. When I’m not immersed in mathematics, I spend the majority of my free time watching movies. My all-time favorite director is *Karwei Wong*, who first inspired my love for movies. In fact, I have a dream to be a director. You can see my Douban [here](https://movie.douban.com/people/210616758/).
+**I am a cinephile**, enjoying watching a variety of films. When I’m not immersed in mathematics, I spend the majority of my free time watching movies. My all-time favorite director is *Karwei Wong*, who first inspired my love for movies. I also have great admiration for the works of *Stanley Kubrick*, who was an absolute genius. In fact, I have a dream to be a director. You can see my Douban [here](https://movie.douban.com/people/210616758/).
 
 The following are my TOP 15:
 
