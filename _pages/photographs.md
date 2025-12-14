@@ -38,7 +38,7 @@ Some Selected Works
      <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/275.jpg" 
+         src = "../files/pictures/photos/275a.jpg" 
         width = "44%"> 
                           <img style = "
         border-radius: 0.3125em;
@@ -109,13 +109,13 @@ Some Selected Works
                           <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/262.jpg" 
+         src = "../files/pictures/photos/261.jpg" 
         width = "44%"> 
     <br>
      <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/261.jpg" 
+         src = "../files/pictures/photos/262.jpg" 
         width = "44%"> 
                           <img style = "
         border-radius: 0.3125em;
@@ -126,7 +126,7 @@ Some Selected Works
      <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/259.jpg" 
+         src = "../files/pictures/photos/259a.jpg" 
         width = "44%"> 
                           <img style = "
         border-radius: 0.3125em;
@@ -175,13 +175,13 @@ Some Selected Works
                           <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/250.jpg" 
+         src = "../files/pictures/photos/249.jpg" 
         width = "44%"> 
     <br>
      <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/249.jpg" 
+         src = "../files/pictures/photos/250.jpg" 
         width = "44%"> 
                           <img style = "
         border-radius: 0.3125em;
@@ -210,6 +210,39 @@ Some Selected Works
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/244.jpg" 
         width = "44%"> 
+     <br>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/243_8.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/243_7.jpg" 
+        width = "44%">
+     <br>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/243_6.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/243_5.jpg" 
+        width = "44%">
+     <br>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/243_4.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/243_3.jpg" 
+        width = "44%">
     <br>
     <img style = "
         border-radius: 0.3125em;
@@ -269,7 +302,7 @@ Some Selected Works
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/233.jpg" 
+         src = "../files/pictures/photos/233a.jpg" 
         width = "44%"> 
                           <img style = "
         border-radius: 0.3125em;
