@@ -20,7 +20,7 @@ I was born in Chaoshan region and grew up in Huizhou, Guangdong in Southern Chin
 
 My primary research interests lie in the area involving Probability and Analysis.
 
-See my CV [here](../files/cv.pdf).
+See my CV [here](../files/cv1.pdf).
 
 Education
 ===
