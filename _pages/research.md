@@ -24,13 +24,13 @@ Supervisor: *[Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mn
 
 The principal aim of this project is to derive asymptotic lower on the probability that in a certain model of random walk loops on the integer lattice, a macroscopic set is disconnected from infinity by the trace of the loops. We further study the large deviations of the occupation-time field for the loop soup and characterize its supercritical behavior.
 
-**2.On the Rough and Quadratic Rough Heston Model**
+<!--**2.On the Rough and Quadratic Rough Heston Model**
 
 Supervisor: *[Dr. Christian Bayer](https://www.wias-berlin.de/people/bayerc/)*
 
 *Ongoing, WIAS and TU Berlin*
 
-In this project, we mainly investigate the Rough and Quadratic Rough Heston Model. So far, I’ve studied the weak Markovian approximation for the Rough Heston model and proved that the weak scheme introduced by Bayer and Breneis indeed achieves the second-order weak rate they didn’t establish. And I’ve also extended the PPDE method by developing Malliavin calculus for stochastic Volterra equations, which allows us to obtain the path-dependent Feynman–Kac equation and the functional Itô formula, and thereby derive the error bound for the Quadratic Rough Heston model.
+In this project, we mainly investigate the Rough and Quadratic Rough Heston Model. So far, I’ve studied the weak Markovian approximation for the Rough Heston model and proved that the weak scheme introduced by Bayer and Breneis indeed achieves the second-order weak rate they didn’t establish. And I’ve also extended the PPDE method by developing Malliavin calculus for stochastic Volterra equations, which allows us to obtain the path-dependent Feynman–Kac equation and the functional Itô formula, and thereby derive the error bound for the Quadratic Rough Heston model.-->
 
 Publications and Preprints
 ===
