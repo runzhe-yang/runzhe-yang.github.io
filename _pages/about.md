@@ -49,7 +49,9 @@ Honors and Awards
 Research Projects
 ===
 1. **Lower Bound for Disconnection of Vacant Set in Loop Percolations**, *supervised by [Prof. Dr. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/), HKUST, June 2023 - May 2024*
-2. **On the Rough and Quadratic Rough Heston Models**, *supervised by [Dr. Christian Bayer](https://www.wias-berlin.de/people/bayerc/), WIAS and TU Berlin, Ongoing*
+   
+<!--2. **On the Rough and Quadratic Rough Heston Models**, *supervised by [Dr. Christian Bayer](https://www.wias-berlin.de/people/bayerc/), WIAS and TU Berlin, Ongoing*-->
+   
 
 Academic Experiences
 ===
