@@ -15,7 +15,7 @@ In July 2020, I walked into the realm of advanced MATH. However, it wasn’t unt
 
 > The notes below were made when I was studying at WHU. In addition to them, my courseworks at WHU w.r.t. Math/Stat/CS also contain: Numerical Analysis, C Language, Sampling Survey, Number Theory, Mathematical Logic, R Language and Statistics Computing.
 
-- **[Stochastic Analysis Related](../_pages/stoana.md) :** *Fokker-Planck Equations, Continuous Time Mathematical Finance, Mean Field Games, Rough Path Analysis and Signature, Malliavin Calculus, SPDEs, Diffusion Processes, Mathematical Finance, Stochastic Calculus*
+- **[Stochastic Analysis Related](../_pages/stoana.md) :** *Rough Stochastic Diferential Equations, Fokker-Planck Equations, Continuous Time Mathematical Finance, Mean Field Games, Rough Path Analysis and Signature, Malliavin Calculus, Stochastic PDEs, Diffusion Processes, Mathematical Finance, Stochastic Calculus*
 
 - **[Mathematical Modeling Related](../_pages/mathmod.md) :** *Computational Finance, Mathematical Foundation of Machine Learning, Numerical Method for ODEs*
 
