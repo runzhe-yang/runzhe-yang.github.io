@@ -9,6 +9,20 @@ redirect_from:
 
 *“Aut Caesar, aut nihil.” ― Cesare Borgia*
 
+*Rough Stochastic Differential Equations (2026)*
+===
+*Reference: [1]. [Rough stochastic differential equations](https://arxiv.org/pdf/2106.10340), Peter K. Friz, Antoine Hocquet, Khoa Lê [2]. [A stochastic sewing lemma and applications](https://arxiv.org/pdf/1810.10500), Khoa Lê [3].[Stochastic sewing in Banach space](https://arxiv.org/pdf/2105.09364), Khoa Lê [4].[Rough PDEs for local stochastic volatility models](https://arxiv.org/pdf/2307.09216), Peter Bank, Christian Bayer, Peter K. Friz, Luca Pelizzari [5].[Rough stochastic filtering](https://arxiv.org/pdf/2509.11825), Fabio Bugini, Peter K. Friz, Khoa Lê, Huilin Zhang, [6].[Nonlinear rough Fokker-Planck equations](https://arxiv.org/pdf/2507.17469), Fabio Bugini, Peter K. Friz, Wilhelm Stannat*
+
+[Ⅰ. Intoduction](../files/rsde/1.pdf)
+
+[Ⅱ. Stochastic Rough Integrals](../files/rsde/2.pdf)
+
+[Ⅲ. Rough SDEs](../files/rsde/3.pdf)
+
+[Ⅳ. Applications of RSDEs](../files/rsde/4.pdf)
+
+[Ⅴ. Local Stochastic Volatility](../files/rsde/5.pdf)
+
 *Fokker-Planck Equations (2024)*
 ===
 *Reference: Linear and Nonlinear Fokker-Planck Equations: Analysis & Probabilistic Counterparts, Marco Reheimer*
@@ -132,6 +146,17 @@ redirect_from:
 
 [Ⅳ. SPDEs Driven by Space-Time White Noises and Super Brownian Motions](../files/spde/4.pdf)
 
+[Complement：Intro and Examples](../files/spde/5.pdf)
+
+[Complement：Stochastic Analysis on Hilbert Space](../files/spde/6.pdf)
+
+[Complement：SDE on Hilbert Space](../files/spde/7.pdf)
+
+[Complement：Variational Approach to SPDEs](../files/spde/8.pdf)
+
+[Complement：Rough SPDEs](../files/spde/9.pdf)
+
+[Complement：Stochastic Filtering](../files/spde/10.pdf)
 
 *Diffusive Processes and its Applications (2022)*
 ===
