@@ -39,7 +39,7 @@ NULL
 Theses
 ===
 - **(Bachelor's Degree Thesis)** Moderate Deviation of Gaussian Fluctuations for Coulomb Gases at Any Temperature, supervised by *[Prof. Dr. Fuqing Gao](https://www.semanticscholar.org/author/F.-Gao/2658205)*, Winter 2023. [[PDF]](../files/theses/btc3.pdf) [[Slides]](../files/theses/大便屁屁踢.pdf)
-> In this thesis, I study and introduce the transport-based method introduced by Prof. Serfaty, which is used for obtaining the free energy expansion of Gaussian fluctuation of Coulmob gas in 2020. Then I make use of it to establish the moderate deviation principle for Gaussian fluctuation of d-dimensional Coulomb gases with d ≥ 2.
+> In this thesis, I study and introduce the transport-based method proposed by Prof. Serfaty, which is used for obtaining the free energy expansion of Gaussian fluctuation of Coulmob gas in 2020. Then I make use of it to establish moderate deviation principle for Gaussian fluctuation of d-dim Coulomb gases with d ≥ 2.
 
 <br>
 <br>
