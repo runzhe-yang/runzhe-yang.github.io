@@ -27,7 +27,7 @@ Contact
 
 **Pronouns**: he/him/his
 
-**My E-mail**: *runzheyang2001@gmail.com*
+**My E-mail**: *runzheyang2001[at]gmail.com*
 
 <a href='https://clustrmaps.com/site/1bvf5'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=70&t=n&d=RjSLE6Qs1sYxpYNHy1GLYhM5L0JIdHwXcQNSgaPTNRg&co=ffffff'/></a>
 
