@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Runzhe Yang 杨润哲"
   avatar           : "profile4.JPG"
-  bio              : "Phase I Student at Berlin Math School (BMS)"
-  location         : "Wasgenstraße 75, Berlin, <br> Berlin, German, 14129"
+  bio              : "Ph.D. Student at Imperial College London"
+  location         : "Huxley Building, 180 Queen’s Gate, London SW7 2AZ, UK"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "runzheyang2001@gmail.com"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           : "runzhe-yang"
   google_plus      :
   keybase          :
-  instagram        : "yrzreiny"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
