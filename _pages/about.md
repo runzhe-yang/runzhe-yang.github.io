@@ -16,7 +16,7 @@ My name is **Yang, Runzhe (杨润哲)**. The Chinese character “润” means n
 
 I am currently a Ph.D. student in MathFin at *Department of Mathematics, Imperial College London*, supervised by *[Prof. Antoine Jacquier](https://jackantoinejacquie.wixsite.com/jacquier)* and *[Prof. Eyal Neuman](https://eyaln13.wixsite.com/eyal-neuman)*. Prior to that, I got my M.Sc. degree at *Berlin Mathematical School (HU/TU/FU) & Technische Universität Berlin*, supervised by *[Prof. Peter Friz](https://page.math.tu-berlin.de/~friz/)* and *[Prof. Christian Bayer](https://www.wias-berlin.de/people/bayerc/)*. Prior to that, I got my B.Sc. degree at *Wuhan University*.  During my undergraduate period, I was very fortune to work with *[Prof. Maximilian Nitzschner](https://www.math.hkust.edu.hk/~mnitzschner/)* at *The Hong Kong University of Science and Technology*. 
 
-I was born in Chaoshan region and grew up in Huizhou, Guangdong in Southern China. I have since lived in Wuhan, Hongkong, Berlin, London.
+I'm from Chaoshan region and grew up in Huizhou, Guangdong in Southern China.
 
 My primary research interests lie in the area involving Probability and Analysis, and their applications in Mathematical Finance.
 
