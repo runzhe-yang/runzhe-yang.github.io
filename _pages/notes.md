@@ -11,17 +11,15 @@ author_profile: true
 Preface
 ===
 
-In July 2020, I walked into the realm of advanced MATH. However, it wasn’t until I read *Topology* by *Munkres* and *Algebra* by *Hungerford* during the Winter of 2021 that I realized it’s overwhelming. The concepts and theorems in these books proved to be challenging, prompting me to take inspiration from *Kunihiko Kodaira* and develop my own approach to learning MATH.
+In July 2020, I entered the realm of advanced Math. However, it wasn’t until I read the book *Algebra* written by *T. Hungerford* during the Winter of 2021 that I realized it’s overwhelming. Inspired by *Kunihiko Kodaira*, I developed my own approach to learning mathematics.
 
-> The notes below were made when I was studying at WHU. In addition to them, my courseworks at WHU w.r.t. Math/Stat/CS also contain: Numerical Analysis, C Language, Sampling Survey, Number Theory, Mathematical Logic, R Language and Statistics Computing.
-
-- **[Stochastic Analysis Related](../_pages/stoana.md) :** *Rough Stochastic Diferential Equations, Fokker-Planck Equations, Continuous Time Mathematical Finance, Mean Field Games, Rough Path Analysis and Signature, Malliavin Calculus, Stochastic PDEs, Diffusion Processes, Mathematical Finance, Stochastic Calculus*
+- **[Stochastic Analysis Related](../_pages/stoana.md) :** *Rough Stochastic Differential Equations, Fokker-Planck Equations, Continuous Time Mathematical Finance, Mean Field Games, Rough Path Analysis and Signature, Malliavin Calculus, Stochastic PDEs, Diffusion Processes, Mathematical Finance, Stochastic Calculus*
 
 - **[Mathematical Modeling Related](../_pages/mathmod.md) :** *Computational Finance, Mathematical Foundation of Machine Learning, Numerical Method for ODEs*
 
 - **[Statistical Physics Related](../_pages/statphy.md) :** *Schramm-Loewner Evolutions, Random Interlacements, Bernoulli Percolation, Conformal Invariance of 2D Lattice Models, Loop Soups and Occupation Time, Gaussian Free Fields*
 
-- **[Advanced Probability Related](../_pages/advprob.md) :** *Random Walks, Advanced Stochastic Process, Large Deviation Theory, Advanced Probability Thoery, Applied Stochastic Process*
+- **[Advanced Probability Related](../_pages/advprob.md) :** *Random Walks, Advanced Stochastic Process, Large Deviation Theory, Advanced Probability Theory, Applied Stochastic Process*
 
 - **[Advanced Analysis Related](../_pages/advana.md) :** *Nonlinear PDEs, Manifolds and Riemannian Geometry, Harmonic Analysis, Multidimensional Complex Analysis, PDEs and Sobolev Space, Functional Analysis*
 
