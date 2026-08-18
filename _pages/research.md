@@ -38,10 +38,10 @@ NULL
 
 Theses
 ===
-- **(Master's Degree Thesis)** Second-order Weak Schemes and Error Bounds for Rough Heston and Quadratic Rough Heston Models, supervised by *[Dr. Christian Bayer](https://www.wias-berlin.de/people/bayerc/)*, Winter 2026. [[PDF]](../files/theses/mtc.pdf) [[Slides]](../files/theses/mtcppt.pdf)
+- **(Master's Thesis)** Second-order Weak Schemes and Error Bounds for Rough Heston and Quadratic Rough Heston Models, supervised by *[Dr. Christian Bayer](https://www.wias-berlin.de/people/bayerc/)*, Winter 2026. [[PDF]](../files/theses/mtc.pdf) [[Slides]](../files/theses/mtcppt.pdf)
 > In this thesis, I mainly investigate the Rough and Quadratic Rough Heston Model. I proved that the weak scheme introduced by Bayer and Breneis indeed achieves the second-order weak rate. I also extended the PPDE method by developing Malliavin calculus framework for a broader class of SVEs, which allows us to obtain the path-dependent Feynman–Kac equation and the functional Itô formula, and thereby derived the error bound for the Quadratic Rough Heston model. Besides, an efficient weak scheme for simulating the quadratic rough Heston model is also proposed.
 
-- **(Bachelor's Degree Thesis)** Moderate Deviation of Gaussian Fluctuations for Coulomb Gases at Any Temperature, supervised by *[Prof. Dr. Fuqing Gao](https://www.semanticscholar.org/author/F.-Gao/2658205)*, Winter 2023. [[PDF]](../files/theses/btc3.pdf) [[Slides]](../files/theses/大便屁屁踢.pdf)
+- **(Bachelor's Thesis)** Moderate Deviation of Gaussian Fluctuations for Coulomb Gases at Any Temperature, supervised by *[Prof. Dr. Fuqing Gao](https://www.semanticscholar.org/author/F.-Gao/2658205)*, Winter 2023. [[PDF]](../files/theses/btc3.pdf) [[Slides]](../files/theses/大便屁屁踢.pdf)
 > In this thesis, I study and introduce the transport-based method proposed by Prof. Serfaty, which is used for obtaining the free energy expansion of Gaussian fluctuation of Coulmob gas in 2020. Then I make use of it to establish moderate deviation principle for Gaussian fluctuation of d-dim Coulomb gases with d ≥ 2.
 
 <br>
