@@ -27,7 +27,9 @@ author_profile: true
 Personal Interests
 ===
 
-**I am a cinephile**, enjoying watching a variety of films. When I’m not immersed in mathematics, I spend the majority of my free time watching movies. My all-time favorite director is *Karwei Wong*, who first inspired my love for movies. I also have great admiration for the works of *Stanley Kubrick*, who was an absolute genius. In fact, I have a dream to be a director. You can see my Douban [here](https://movie.douban.com/people/210616758/).
+**I am a cinephile**, enjoying watching a variety of films. When I’m not immersed in mathematics, I spend lots of my free time watching movies. My all-time favorite director is *Karwei Wong*, who first inspired my love for movies. I have great admiration for the works of *Stanley Kubrick* as well, who is an absolute genius. In fact, I have a dream to be a director. My Douban page is [here](https://movie.douban.com/people/210616758/).
+
+Also, I appreciate the works from *Tatsuki Fujimoto (藤本树)* very much although I don’t often read manga.
 
 The following are my TOP 15:
 
@@ -65,36 +67,12 @@ The following are my TOP 15:
 
 - *Three Colours: Red (1994), directed by Krzysztof Kieślowski*
 
-My top two favorite series are: (which I consider to be PERFECT)
+My top two favorite series are: 
 
 - Breaking Bad
 
 - Better Call Saul
 
-**When it comes to Anime, I have a great appreciation for the works of *Shinichirō Watanabe (渡边信一郎)* , a dual director of *Karwei Wong* in Japaness Anime.** The follows are my favourite:
-
-- Cowboy Bebop
-
-- Attack on Titan
-
-> The character in Attack on Titan whom I admire most is Erwin Smith. I believe that we are of the same kind of people, both agree a saying, “朝闻道，夕死可矣。”
-
-- Rick and Morty
-
-- Futurama
-
-- Neon Genesis Evangelion
-
-**I appreciate the works from *Tatsuki Fujimoto (藤本树)* very much although I don’t read manga usually.** The following is the rank of some of his works depending on my preference: *1. Goodbye, Eri 2. Fire punch 3.Chainsaw man 4. Look Back*.
-
-My MBTI
-===
-
-It seems that I’m an INTJ-A/INTJ-T.
-
-> **Mind**: 82% Introverted **Energy**: 77% Intuitiive **Nature**: 68% Thinking **Tactics**: 64% Judging **Identity**: 60% Assertive
-
-> People like to treat their daily lives as a theatrical stage, playing the roles that society expects of them in certain situations, as posited by Erving Goffmana, one sociologist.
 
 <br>
 <br>
