@@ -83,13 +83,13 @@ Q2: How to prove any two families of o.n.b of one Hilbert space have the same ca
    >You will find sth amazing in definition of "SUM".
 
 Q3: Do you really think *p(θ∈(a,b))∈{0,1}* for some parameter *θ*?
-   >This is an essential difference between a Bayesian and a Frequenist. I have to say: I am totally a Bayesian. 
+   >This is an essential difference between a Bayesian and a Frequenist.
 
 Q4: For a given r.v. X, could you find a r.v. Y st. it’s i.i.d. as X?
 > Generally, we require the probability space to be nonatomic to guaratee the indepedence will hold. And You can search for a THM called Skorokhod's 
       Representation THM, which is one of my most favourite THM in Probability.
 
-Q5: For a n.v.s *E. F* is a close subspace, is there a *m* in *F* st. *d(x,F)=d(x,m)*? 
+Q5: For a n.v.s *E*. Assume *F* is a close subspace of *E*, is there a *m* in *F* st. *d(x,F)=d(x,m)*? 
    >There's a sufficient and necessary condition for its holding.
 
 Q6: Do you think one transition function can correspond one CTMC? What's about one generator and one CTMC?
@@ -97,7 +97,7 @@ Q6: Do you think one transition function can correspond one CTMC? What's about o
 
 Q7: What's the dual space of *R^∞* equipped with box topology?
    >Can you recall the definition of dual space? You can think it algebracally rather than analysisly.(hint: search for concepts: inductive limit and projective 
-    limit)
+    limit).
 
 
 <br>
