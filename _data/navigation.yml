@@ -16,5 +16,5 @@ main:
   - title: "Photographs"
     url: /photographs/
     
-  - title: "Miscellaneous"
-    url: /misc/
+  #- title: "Miscellaneous"
+  #  url: /misc/
