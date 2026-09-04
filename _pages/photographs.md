@@ -16,7 +16,7 @@ I am a semiprofessional street photographer, liking to take photos of something 
 
 I will share my works on my [INS](https://www.instagram.com/yrzreiny) and [Xiaohongshu](https://www.xiaohongshu.com/user/profile/65f6bfcf000000000b00dc13), also summarize some meaningful works annually and make them into a video, published on bilibili:
 
-[[Collections of Sakura]](https://www.bilibili.com/video/BV1UF4m1F7xP/?spm_id_from=333.999.0.0&vd_source=483ff7b5b5abbc08d378ae0ea4591ad5) [[2023]](https://www.bilibili.com/video/BV1xC4y1X7a5/?spm_id_from=333.999.0.0&vd_source=483ff7b5b5abbc08d378ae0ea4591ad5) [[2024]](https://www.xiaohongshu.com/explore/676eef03000000000900fcd2?xsec_token=AB8kSh11MTlRL-aM0AiD_68VpJVbEdZjfd1uHv_64lTpg=&xsec_source=pc_user)
+[[Collections of Sakura]](https://www.bilibili.com/video/BV1UF4m1F7xP/?spm_id_from=333.999.0.0&vd_source=483ff7b5b5abbc08d378ae0ea4591ad5) [[2023]](https://www.bilibili.com/video/BV1xC4y1X7a5/?spm_id_from=333.999.0.0&vd_source=483ff7b5b5abbc08d378ae0ea4591ad5) [[2024]](https://www.xiaohongshu.com/explore/676eef03000000000900fcd2?xsec_token=AB8kSh11MTlRL-aM0AiD_68VpJVbEdZjfd1uHv_64lTpg=&xsec_source=pc_user) [[2026]](https://www.xiaohongshu.com/explore/695bf6c70000000022039232?xsec_token=ABMqmZOg85tGeHN4uu0FKDbHzXADyh_8g9RRRoKposKCY=&xsec_source=pc_user)
 
 Some Selected Works
 ===
@@ -25,6 +25,39 @@ Some Selected Works
 
 
 <center>
+            <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/461.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/460.jpg" 
+        width = "44%"> 
+    <br>
+            <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/459.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/458.jpg" 
+        width = "44%"> 
+    <br>
+            <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/457.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/456.jpg" 
+        width = "44%"> 
+    <br>
       <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
