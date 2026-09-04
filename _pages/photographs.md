@@ -23,7 +23,75 @@ Some Selected Works
 
 > “Which of my photographs is my favorite? The one I am going to take tomorrow.” ― Imogen Cunnigham
 
+
 <center>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/287.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/286.jpg" 
+        width = "44%"> 
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        2026
+    </div>
+    <p> </p>
+</center>
+
+<center>
+     <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/285.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/284.jpg" 
+        width = "44%"> 
+    <br>
+          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/283.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/282.jpg" 
+        width = "44%"> 
+    <br>
+          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/281.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/280.jpg" 
+        width = "44%"> 
+    <br>
+          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/279.jpg" 
+        width = "44%"> 
+                          <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src = "../files/pictures/photos/278.jpg" 
+        width = "44%"> 
+    <br>
      <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
