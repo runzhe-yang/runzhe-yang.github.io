@@ -9,12 +9,12 @@ main:
     
   - title: "Notes"
     url: /notes/
-        
+    
+  - title: "Photography"
+    url: /photographs/
+    
   - title: "More about ME"
     url: /moreaboutme/
-    
-  - title: "Photographs"
-    url: /photographs/
     
   #- title: "Miscellaneous"
   #  url: /misc/
