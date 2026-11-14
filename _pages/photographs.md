@@ -28,7 +28,7 @@ Photographs
 
 > We can only see the half of our world. — A One and a Two
 
-I am a semiprofessional street photographer, liking to take photos of something that most people can’t notice. I appreciate the works from *Vivian Maier*, *Ho Fan (何藩)*, *William Klein* and *Daidō Moriyama (森山大道)* very much.
+I am a semiprofessional street photographer, liking to take photos of something that most people can’t notice. I appreciate the works from *Vivian Maier*, *Ho Fan (何藩)*, *Diane Arbus* and *Yoshihiko Ueda (上田義彦)* very much.
 
 
 I will share my works on my [INS](https://www.instagram.com/yrzreiny) and [Xiaohongshu](https://www.xiaohongshu.com/user/profile/65f6bfcf000000000b00dc13), also summarize some meaningful works annually and make them into a video, published on bilibili:
