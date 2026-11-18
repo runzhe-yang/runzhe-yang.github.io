@@ -73,18 +73,7 @@ Some Selected Works
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/460.jpg" 
-        width = "44%">
-    <br>
-<img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/459.jpg" 
-        width = "44%">
-<img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/458.jpg" 
         width = "44%">
     <br>
 <img style = "
@@ -134,326 +123,315 @@ Some Selected Works
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/446.jpg" 
-        width = "44%">
-<img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/445.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/444.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/443.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/442.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/439.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/438.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/437.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/436.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/435.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/434.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/433.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/432.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/431.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/430.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/429.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/428.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/427.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/426.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/425.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/424.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/423.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/422.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/421.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/420.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/419.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/418.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/417.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/416.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/415.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/413.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/412.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/411.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/410.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/408.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/407.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/406.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/405.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/404.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/403.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/402.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/401.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/400.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/399.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/398.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/397.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/396.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/395.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/394.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/393.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/392.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/391.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/390.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/389.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/388.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/387.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/386.jpg" 
         width = "44%">
-<img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/385.jpg" 
-        width = "44%">
     <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/384.jpg" 
+         src = "../files/pictures/photos/385.jpg" 
         width = "44%">
 <img style = "
         border-radius: 0.3125em;
@@ -497,23 +475,12 @@ Some Selected Works
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/375.jpg" 
-        width = "44%">
-<img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/374.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/373.jpg" 
-        width = "44%">
-<img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/372.jpg" 
         width = "44%">
     <br>
 <img style = "
@@ -524,172 +491,161 @@ Some Selected Works
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/369.jpg" 
-        width = "44%">
-    <br>
-<img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/368.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/367.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/366.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/365.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/364.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/362.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/361.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/360.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/359.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/358.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/357.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/356.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/355.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/354.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/353.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/352.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/351.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/350.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/349.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/348.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/346.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/345.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/344.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/342.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/341.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/340.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/339.jpg" 
         width = "44%">
+    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/338.jpg" 
         width = "44%">
-    <br>
 <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
          src = "../files/pictures/photos/337.jpg" 
-        width = "44%">
-<img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-         src = "../files/pictures/photos/336.jpg" 
         width = "44%">
     <br>
 <img style = "
@@ -977,6 +933,7 @@ Some Selected Works
     </div>
     <p> </p>
 </center>
+
 
 
 
